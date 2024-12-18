@@ -1,0 +1,2001 @@
+Crime_ID,Date_Reported,State,City,Crime_Type,Severity,Victim_Age,Victim_Gender,Reported_By,Arrest_Made,Suspect_Age,Suspect_Gender,Outcome,Officer_ID,Response_Time
+1,2021-10-30,Kano,Ungogo,Burglary,3,51,Male,Police,No,,,Closed,OFF3775,58
+2,2020-11-27,Oyo,Iseyin,Theft,1,73,Male,Citizen,Yes,24.0,Male,Closed,OFF6358,177
+3,2020-05-19,Ogun,Ijebu Ode,Robbery,3,66,Female,Media,Yes,61.0,Male,Closed,OFF2538,79
+4,2020-09-21,Lagos,Lekki,Assault,3,22,Female,Police,No,,,In Court,OFF4485,38
+5,2020-03-19,Lagos,Yaba,Robbery,5,34,Female,Police,Yes,41.0,Male,Open,OFF4163,18
+6,2021-07-06,Edo,Auchi,Theft,5,67,Female,Media,Yes,64.0,Male,Closed,OFF5193,20
+7,2021-06-07,Enugu,Awgu,Assault,1,31,Female,Media,Yes,22.0,Female,Open,OFF8773,104
+8,2020-03-24,Lagos,Yaba,Theft,2,46,Male,Citizen,No,,,Open,OFF5807,11
+9,2022-08-26,Kaduna,Kafanchan,Fraud,5,75,Male,Police,Yes,21.0,Female,In Court,OFF9081,142
+10,2020-08-04,Ogun,Ijebu Ode,Robbery,1,20,Female,Media,Yes,35.0,Female,In Court,OFF3677,71
+11,2022-02-04,Delta,Warri,Burglary,1,40,Female,Police,No,,,Open,OFF8887,109
+12,2020-07-09,Ogun,Sagamu,Robbery,5,21,Male,Citizen,No,,,Open,OFF3337,9
+13,2021-05-26,Delta,Asaba,Homicide,3,26,Male,Media,No,,,Open,OFF4021,47
+14,2020-12-04,Abuja,Wuse,Burglary,4,77,Female,Media,No,,,Open,OFF8635,35
+15,2020-10-21,Rivers,Bonny,Burglary,3,54,Female,Police,No,,,Closed,OFF2296,146
+16,2020-05-04,Enugu,Nsukka,Fraud,4,63,Male,Citizen,No,,,In Court,OFF1676,125
+17,2020-02-09,Abuja,Wuse,Theft,2,39,Male,Media,Yes,71.0,Male,Open,OFF5816,137
+18,2021-02-16,Rivers,Port Harcourt,Theft,1,51,Female,Media,No,,,Open,OFF4480,166
+19,2020-08-16,Edo,Ekpoma,Fraud,2,28,Male,Media,No,,,Open,OFF2872,125
+20,2020-03-26,Delta,Ughelli,Homicide,1,65,Female,Citizen,Yes,35.0,Female,Closed,OFF6965,174
+21,2022-05-04,Kaduna,Zaria,Fraud,1,46,Male,Media,No,,,In Court,OFF9432,120
+22,2021-09-02,Ogun,Sagamu,Assault,5,26,Female,Media,No,,,Open,OFF2688,40
+23,2022-01-25,Delta,Ughelli,Homicide,4,48,Male,Media,Yes,64.0,Female,Closed,OFF8583,151
+24,2020-11-06,Lagos,Lekki,Assault,5,72,Male,Police,No,,,In Court,OFF7267,73
+25,2021-06-01,Delta,Warri,Homicide,4,60,Female,Media,No,,,Closed,OFF2343,170
+26,2021-01-24,Kaduna,Zaria,Homicide,5,41,Female,Police,No,,,In Court,OFF4332,26
+27,2021-11-16,Edo,Auchi,Burglary,3,40,Female,Police,No,,,In Court,OFF9208,70
+28,2022-01-28,Enugu,Nsukka,Theft,5,27,Male,Citizen,Yes,29.0,Male,Open,OFF2611,44
+29,2020-11-24,Lagos,Yaba,Robbery,1,79,Female,Police,No,,,In Court,OFF5438,48
+30,2020-09-24,Oyo,Ibadan,Fraud,2,63,Female,Citizen,Yes,63.0,Female,In Court,OFF5004,118
+31,2021-04-02,Kaduna,Kaduna North,Robbery,1,80,Female,Police,Yes,73.0,Male,Closed,OFF6285,112
+32,2021-11-30,Edo,Auchi,Assault,5,74,Male,Citizen,No,,,Closed,OFF5191,152
+33,2020-10-06,Edo,Ekpoma,Homicide,2,67,Male,Citizen,No,,,Open,OFF3238,117
+34,2022-02-21,Enugu,Nsukka,Fraud,5,54,Female,Police,Yes,15.0,Male,Open,OFF7062,36
+35,2021-12-21,Kano,Dala,Burglary,1,66,Male,Citizen,Yes,59.0,Male,Open,OFF4982,87
+36,2021-03-29,Abuja,Garki,Assault,3,19,Female,Citizen,No,,,Closed,OFF8925,24
+37,2020-08-12,Oyo,Ibadan,Homicide,2,35,Female,Media,No,,,In Court,OFF7184,66
+38,2022-08-27,Kaduna,Kafanchan,Homicide,2,58,Male,Citizen,Yes,33.0,Male,In Court,OFF1709,106
+39,2021-04-05,Ogun,Abeokuta,Burglary,1,54,Male,Media,No,,,In Court,OFF8246,92
+40,2022-02-14,Kaduna,Zaria,Theft,2,49,Female,Police,No,,,Open,OFF4527,77
+41,2021-03-07,Ogun,Sagamu,Burglary,2,56,Male,Citizen,Yes,68.0,Male,Closed,OFF8538,159
+42,2021-08-21,Rivers,Obio,Fraud,5,34,Male,Citizen,Yes,78.0,Female,In Court,OFF6979,148
+43,2021-04-02,Edo,Ekpoma,Burglary,5,55,Female,Police,No,,,Open,OFF3350,169
+44,2020-10-15,Abuja,Maitama,Fraud,4,46,Male,Media,Yes,63.0,Female,Closed,OFF4229,160
+45,2021-05-13,Kano,Ungogo,Fraud,4,36,Male,Media,No,,,In Court,OFF4763,145
+46,2021-06-13,Oyo,Ogbomosho,Assault,1,26,Male,Citizen,Yes,27.0,Female,In Court,OFF4545,83
+47,2020-11-04,Lagos,Lekki,Theft,5,80,Male,Media,No,,,In Court,OFF4332,180
+48,2020-04-25,Kaduna,Zaria,Burglary,3,66,Female,Citizen,No,,,Closed,OFF4029,153
+49,2022-01-19,Lagos,Ikeja,Assault,4,19,Female,Citizen,Yes,58.0,Female,Open,OFF2579,166
+50,2022-06-07,Kaduna,Kafanchan,Robbery,5,58,Male,Citizen,Yes,24.0,Male,Open,OFF4792,47
+51,2022-06-22,Kaduna,Kaduna North,Theft,5,19,Female,Citizen,Yes,51.0,Male,Open,OFF4742,119
+52,2021-03-19,Delta,Asaba,Fraud,3,36,Male,Media,Yes,53.0,Male,In Court,OFF5116,132
+53,2021-03-03,Edo,Benin City,Homicide,1,66,Male,Police,No,,,Open,OFF8318,97
+54,2020-07-24,Oyo,Ogbomosho,Homicide,1,21,Female,Citizen,Yes,65.0,Female,Open,OFF4515,150
+55,2021-04-22,Oyo,Iseyin,Fraud,3,51,Male,Police,Yes,44.0,Male,In Court,OFF2924,27
+56,2021-06-09,Kaduna,Kaduna North,Robbery,1,64,Female,Citizen,No,,,In Court,OFF9778,77
+57,2021-05-15,Oyo,Iseyin,Fraud,1,48,Female,Citizen,Yes,45.0,Male,Open,OFF8940,141
+58,2022-06-23,Kano,Ungogo,Homicide,4,24,Male,Media,No,,,Open,OFF4600,29
+59,2020-01-11,Enugu,Enugu East,Homicide,2,29,Female,Citizen,Yes,41.0,Male,Open,OFF6901,79
+60,2021-12-15,Delta,Asaba,Burglary,1,62,Female,Police,Yes,38.0,Male,In Court,OFF3217,152
+61,2022-02-21,Kaduna,Zaria,Homicide,1,66,Female,Media,No,,,In Court,OFF2625,124
+62,2021-03-18,Lagos,Lekki,Homicide,3,41,Male,Police,No,,,Closed,OFF9100,28
+63,2022-06-23,Kano,Ungogo,Burglary,2,32,Female,Media,No,,,In Court,OFF2187,157
+64,2020-03-20,Kaduna,Zaria,Burglary,3,74,Female,Police,Yes,78.0,Male,In Court,OFF5321,21
+65,2022-08-09,Oyo,Ogbomosho,Burglary,1,35,Female,Media,Yes,76.0,Female,Open,OFF8896,25
+66,2020-10-25,Delta,Ughelli,Homicide,4,59,Female,Police,No,,,Closed,OFF2115,7
+67,2020-11-22,Rivers,Port Harcourt,Fraud,4,18,Male,Media,No,,,Closed,OFF6884,30
+68,2022-01-18,Abuja,Wuse,Homicide,3,16,Male,Police,Yes,22.0,Female,Closed,OFF5427,67
+69,2022-07-23,Kano,Dala,Theft,4,42,Female,Citizen,No,,,Closed,OFF8663,128
+70,2022-09-04,Rivers,Port Harcourt,Homicide,3,31,Female,Citizen,No,,,Closed,OFF1539,116
+71,2020-02-11,Kano,Ungogo,Assault,1,78,Male,Police,No,,,Open,OFF3345,56
+72,2020-12-04,Edo,Benin City,Robbery,2,65,Female,Media,Yes,36.0,Male,In Court,OFF6755,50
+73,2020-09-07,Enugu,Awgu,Burglary,1,66,Male,Media,No,,,In Court,OFF8309,150
+74,2021-08-23,Rivers,Port Harcourt,Homicide,1,30,Female,Media,No,,,In Court,OFF2475,161
+75,2020-04-28,Enugu,Enugu East,Homicide,1,29,Female,Media,Yes,74.0,Male,In Court,OFF5854,93
+76,2020-02-07,Ogun,Abeokuta,Assault,5,55,Male,Police,Yes,19.0,Female,Closed,OFF8489,119
+77,2020-12-23,Delta,Warri,Robbery,4,20,Male,Citizen,Yes,46.0,Male,In Court,OFF1605,179
+78,2022-03-13,Ogun,Abeokuta,Homicide,1,33,Female,Police,No,,,Open,OFF5434,136
+79,2022-06-02,Kaduna,Kaduna North,Burglary,4,33,Female,Citizen,No,,,Open,OFF1132,145
+80,2020-02-16,Ogun,Abeokuta,Burglary,3,31,Male,Citizen,No,,,In Court,OFF7951,31
+81,2020-06-23,Delta,Ughelli,Fraud,4,21,Male,Media,No,,,Closed,OFF6541,16
+82,2020-06-15,Lagos,Lekki,Robbery,5,73,Female,Police,Yes,46.0,Female,Open,OFF2869,106
+83,2020-03-10,Lagos,Lekki,Fraud,3,22,Female,Police,No,,,Closed,OFF8929,102
+84,2020-12-16,Kano,Ungogo,Fraud,1,22,Male,Media,No,,,Open,OFF5854,64
+85,2020-11-11,Delta,Warri,Burglary,2,22,Female,Media,Yes,48.0,Male,Closed,OFF2162,158
+86,2022-06-16,Delta,Ughelli,Fraud,4,62,Female,Citizen,No,,,Open,OFF2543,136
+87,2021-12-25,Abuja,Wuse,Homicide,3,42,Female,Media,Yes,21.0,Female,In Court,OFF8775,50
+88,2022-07-15,Edo,Auchi,Homicide,4,68,Male,Police,No,,,Closed,OFF2119,87
+89,2020-12-10,Delta,Ughelli,Homicide,3,53,Male,Police,No,,,Closed,OFF9822,156
+90,2021-11-30,Ogun,Sagamu,Fraud,2,54,Female,Citizen,Yes,73.0,Female,In Court,OFF4052,39
+91,2022-07-23,Enugu,Awgu,Theft,3,34,Male,Police,Yes,76.0,Male,Open,OFF2315,152
+92,2020-11-22,Kano,Dala,Burglary,4,36,Male,Police,Yes,61.0,Male,Closed,OFF5149,175
+93,2021-10-03,Rivers,Bonny,Burglary,4,65,Male,Media,No,,,Closed,OFF4172,18
+94,2021-12-01,Edo,Ekpoma,Theft,5,45,Male,Citizen,Yes,70.0,Female,Open,OFF1083,38
+95,2021-04-11,Ogun,Ijebu Ode,Robbery,1,75,Female,Police,No,,,In Court,OFF4266,156
+96,2021-10-17,Kaduna,Kafanchan,Burglary,1,48,Female,Citizen,Yes,71.0,Male,Open,OFF4968,82
+97,2021-11-19,Kano,Tarauni,Assault,1,48,Female,Media,Yes,62.0,Male,Open,OFF3825,107
+98,2021-10-04,Delta,Asaba,Theft,1,67,Male,Media,No,,,In Court,OFF9665,41
+99,2020-07-11,Lagos,Ikeja,Assault,5,26,Male,Police,No,,,Open,OFF5509,22
+100,2020-04-25,Kano,Ungogo,Robbery,2,28,Male,Media,No,,,In Court,OFF2048,55
+101,2021-11-10,Edo,Benin City,Homicide,4,32,Male,Media,No,,,Open,OFF1144,168
+102,2021-09-07,Ogun,Ijebu Ode,Burglary,4,33,Female,Media,Yes,70.0,Female,Open,OFF9241,94
+103,2022-05-20,Lagos,Lekki,Theft,5,22,Male,Media,No,,,Open,OFF6441,102
+104,2021-01-19,Kaduna,Kaduna North,Fraud,1,66,Male,Citizen,No,,,Open,OFF9768,90
+105,2022-02-25,Edo,Ekpoma,Homicide,5,63,Male,Police,No,,,In Court,OFF4181,35
+106,2022-03-04,Oyo,Iseyin,Theft,1,55,Female,Citizen,No,,,In Court,OFF4337,9
+107,2020-07-24,Abuja,Wuse,Theft,5,75,Female,Citizen,Yes,47.0,Male,Closed,OFF1841,106
+108,2020-08-14,Ogun,Ijebu Ode,Theft,1,76,Female,Media,No,,,Open,OFF8322,126
+109,2020-05-15,Edo,Auchi,Robbery,1,69,Male,Media,Yes,40.0,Female,Open,OFF2861,72
+110,2022-02-07,Enugu,Nsukka,Assault,1,15,Female,Police,Yes,63.0,Male,Open,OFF4726,166
+111,2020-02-05,Rivers,Port Harcourt,Homicide,4,58,Male,Citizen,No,,,In Court,OFF7133,47
+112,2021-01-27,Ogun,Sagamu,Fraud,4,63,Male,Media,Yes,57.0,Male,In Court,OFF9373,57
+113,2020-11-25,Enugu,Nsukka,Robbery,2,44,Male,Citizen,Yes,71.0,Male,Closed,OFF5311,144
+114,2021-11-20,Kaduna,Kaduna North,Assault,5,18,Female,Citizen,Yes,46.0,Male,In Court,OFF2634,43
+115,2020-09-29,Delta,Ughelli,Robbery,1,72,Male,Citizen,Yes,61.0,Male,Closed,OFF5832,141
+116,2021-03-08,Delta,Ughelli,Burglary,1,74,Female,Citizen,No,,,In Court,OFF2335,53
+117,2022-01-25,Edo,Auchi,Theft,1,62,Male,Media,No,,,In Court,OFF9212,100
+118,2022-08-07,Kano,Dala,Theft,3,70,Male,Media,Yes,59.0,Female,In Court,OFF7517,156
+119,2020-02-07,Kaduna,Zaria,Robbery,2,50,Female,Police,No,,,Open,OFF3545,139
+120,2022-06-04,Lagos,Lekki,Homicide,5,39,Female,Citizen,No,,,In Court,OFF6292,74
+121,2021-06-20,Delta,Asaba,Assault,1,52,Male,Media,No,,,Open,OFF4240,75
+122,2021-03-12,Kaduna,Kaduna North,Fraud,5,38,Female,Police,Yes,17.0,Male,Open,OFF1468,83
+123,2021-06-21,Enugu,Awgu,Burglary,4,29,Male,Citizen,No,,,In Court,OFF3883,155
+124,2022-01-12,Enugu,Awgu,Robbery,1,50,Female,Police,No,,,Closed,OFF2643,111
+125,2021-08-16,Edo,Auchi,Fraud,3,74,Female,Police,Yes,64.0,Male,Open,OFF4770,141
+126,2021-06-13,Rivers,Obio,Fraud,5,55,Female,Citizen,Yes,50.0,Female,Open,OFF9967,62
+127,2020-10-30,Lagos,Lekki,Homicide,5,43,Female,Media,No,,,In Court,OFF4718,117
+128,2022-01-14,Rivers,Obio,Theft,2,32,Male,Police,No,,,Closed,OFF5747,107
+129,2020-12-24,Kano,Ungogo,Robbery,5,49,Female,Police,No,,,In Court,OFF5587,159
+130,2022-08-29,Delta,Ughelli,Theft,3,26,Female,Police,No,,,Open,OFF5793,52
+131,2020-01-05,Enugu,Enugu East,Homicide,4,19,Male,Citizen,No,,,In Court,OFF6563,143
+132,2021-04-25,Ogun,Abeokuta,Homicide,4,15,Female,Media,No,,,Open,OFF9020,25
+133,2020-06-09,Oyo,Ibadan,Homicide,4,23,Female,Citizen,No,,,In Court,OFF8458,29
+134,2022-02-09,Edo,Auchi,Burglary,5,77,Female,Police,Yes,26.0,Female,Open,OFF2597,178
+135,2020-05-03,Lagos,Yaba,Burglary,1,27,Male,Police,No,,,Closed,OFF6083,100
+136,2021-04-10,Rivers,Obio,Burglary,5,28,Male,Citizen,No,,,Open,OFF5169,170
+137,2021-10-28,Edo,Benin City,Homicide,2,15,Female,Citizen,No,,,Open,OFF4311,88
+138,2020-01-22,Oyo,Iseyin,Burglary,1,55,Male,Citizen,No,,,Closed,OFF8640,35
+139,2021-07-11,Delta,Ughelli,Theft,4,33,Male,Media,No,,,In Court,OFF4215,101
+140,2021-09-15,Lagos,Ikeja,Burglary,3,80,Male,Citizen,No,,,Open,OFF8382,95
+141,2022-08-05,Oyo,Iseyin,Robbery,2,20,Female,Media,No,,,In Court,OFF3131,163
+142,2020-03-23,Edo,Benin City,Fraud,1,65,Male,Citizen,No,,,Open,OFF9892,84
+143,2020-01-03,Edo,Auchi,Assault,3,51,Male,Police,Yes,25.0,Female,Closed,OFF5043,147
+144,2020-10-01,Rivers,Port Harcourt,Theft,1,26,Male,Police,Yes,50.0,Male,Closed,OFF5217,136
+145,2020-01-14,Edo,Ekpoma,Fraud,1,66,Male,Media,No,,,Closed,OFF7112,80
+146,2022-08-25,Lagos,Lekki,Robbery,5,69,Male,Media,Yes,22.0,Female,Open,OFF5417,102
+147,2021-10-14,Ogun,Abeokuta,Burglary,5,50,Female,Police,No,,,Open,OFF5716,124
+148,2022-01-18,Enugu,Enugu East,Theft,4,47,Male,Citizen,No,,,In Court,OFF6757,51
+149,2020-02-23,Lagos,Yaba,Burglary,5,33,Male,Media,No,,,Closed,OFF4736,161
+150,2020-08-20,Delta,Warri,Robbery,3,76,Male,Police,Yes,73.0,Female,In Court,OFF9112,46
+151,2021-10-04,Delta,Asaba,Theft,1,79,Female,Media,Yes,26.0,Male,Closed,OFF9260,97
+152,2021-10-17,Abuja,Garki,Assault,2,80,Female,Police,Yes,49.0,Female,Closed,OFF2813,154
+153,2022-08-25,Lagos,Lekki,Fraud,2,47,Male,Police,Yes,66.0,Male,Open,OFF3559,81
+154,2021-04-09,Oyo,Ogbomosho,Theft,1,58,Female,Police,No,,,Open,OFF4621,70
+155,2021-07-10,Enugu,Nsukka,Fraud,2,53,Male,Media,Yes,16.0,Female,In Court,OFF2228,25
+156,2022-09-03,Oyo,Ibadan,Assault,2,19,Female,Citizen,Yes,43.0,Male,Open,OFF1535,95
+157,2022-07-24,Edo,Benin City,Robbery,2,40,Female,Citizen,Yes,66.0,Male,In Court,OFF1524,27
+158,2021-04-13,Delta,Warri,Homicide,5,41,Female,Police,No,,,Open,OFF1592,37
+159,2022-04-09,Ogun,Ijebu Ode,Assault,1,41,Female,Citizen,No,,,In Court,OFF9729,122
+160,2020-02-25,Kano,Ungogo,Robbery,1,33,Male,Media,No,,,In Court,OFF7003,92
+161,2021-03-02,Abuja,Wuse,Fraud,5,40,Female,Citizen,No,,,Open,OFF7335,85
+162,2020-03-17,Edo,Benin City,Burglary,5,21,Male,Media,No,,,Closed,OFF7800,179
+163,2021-06-06,Edo,Benin City,Theft,1,37,Male,Citizen,No,,,Open,OFF5980,134
+164,2020-02-07,Rivers,Port Harcourt,Burglary,1,69,Male,Police,No,,,In Court,OFF6552,125
+165,2022-05-30,Edo,Auchi,Theft,2,70,Female,Citizen,No,,,Open,OFF7946,89
+166,2021-05-15,Kano,Ungogo,Assault,4,61,Female,Police,No,,,In Court,OFF6224,58
+167,2021-07-16,Kaduna,Kaduna North,Theft,4,41,Male,Media,Yes,47.0,Male,Closed,OFF7903,111
+168,2020-10-01,Lagos,Lekki,Fraud,4,76,Male,Police,Yes,18.0,Female,Closed,OFF3424,124
+169,2020-09-13,Lagos,Lekki,Theft,3,40,Female,Police,No,,,Closed,OFF8338,78
+170,2020-10-09,Abuja,Maitama,Robbery,2,25,Male,Citizen,No,,,In Court,OFF5073,75
+171,2021-05-03,Oyo,Iseyin,Assault,2,79,Female,Citizen,No,,,Open,OFF1220,45
+172,2020-08-04,Ogun,Sagamu,Fraud,2,79,Male,Citizen,No,,,Open,OFF4446,53
+173,2021-06-04,Kano,Tarauni,Assault,4,50,Female,Citizen,Yes,60.0,Male,Closed,OFF2250,173
+174,2020-07-03,Oyo,Iseyin,Homicide,3,43,Female,Citizen,Yes,47.0,Male,Closed,OFF5822,138
+175,2022-07-09,Enugu,Nsukka,Fraud,1,26,Female,Media,No,,,In Court,OFF3863,139
+176,2020-11-11,Kano,Ungogo,Robbery,5,77,Female,Police,No,,,Open,OFF4797,128
+177,2021-11-01,Rivers,Bonny,Robbery,4,71,Male,Media,No,,,Closed,OFF4136,52
+178,2021-04-10,Edo,Benin City,Burglary,3,46,Male,Media,Yes,36.0,Female,Open,OFF4880,73
+179,2022-09-18,Enugu,Enugu East,Assault,5,65,Female,Police,No,,,In Court,OFF8583,79
+180,2022-08-31,Abuja,Maitama,Robbery,3,17,Female,Citizen,No,,,Open,OFF1576,10
+181,2020-10-24,Enugu,Enugu East,Robbery,2,21,Male,Media,Yes,68.0,Female,Open,OFF1628,176
+182,2021-07-14,Enugu,Nsukka,Theft,1,47,Female,Media,No,,,Closed,OFF3991,117
+183,2021-06-07,Kano,Dala,Theft,1,71,Male,Media,No,,,Closed,OFF6485,90
+184,2020-09-26,Ogun,Ijebu Ode,Burglary,5,63,Female,Citizen,No,,,Closed,OFF8335,162
+185,2022-08-12,Kaduna,Zaria,Burglary,3,48,Male,Citizen,Yes,27.0,Male,Open,OFF3952,144
+186,2021-03-07,Kano,Dala,Theft,3,78,Female,Police,No,,,In Court,OFF6311,119
+187,2022-05-27,Rivers,Port Harcourt,Robbery,5,66,Female,Police,No,,,Closed,OFF2759,168
+188,2022-06-11,Lagos,Yaba,Robbery,2,25,Female,Media,Yes,80.0,Male,In Court,OFF2678,107
+189,2021-07-09,Oyo,Iseyin,Assault,2,25,Male,Media,No,,,In Court,OFF8227,157
+190,2022-03-27,Enugu,Enugu East,Assault,1,42,Female,Citizen,Yes,40.0,Male,Closed,OFF5791,98
+191,2020-09-16,Abuja,Garki,Assault,4,29,Male,Citizen,Yes,79.0,Female,In Court,OFF1695,154
+192,2021-09-30,Abuja,Maitama,Theft,2,76,Male,Police,No,,,Closed,OFF9148,51
+193,2022-06-05,Oyo,Ibadan,Robbery,1,75,Male,Police,Yes,58.0,Female,In Court,OFF5863,106
+194,2021-02-18,Abuja,Maitama,Fraud,1,77,Male,Media,Yes,64.0,Male,Closed,OFF9174,138
+195,2021-09-17,Kaduna,Kaduna North,Assault,2,76,Male,Police,No,,,Closed,OFF7872,94
+196,2020-05-29,Lagos,Lekki,Burglary,5,64,Female,Citizen,Yes,61.0,Female,Open,OFF1000,130
+197,2021-11-23,Ogun,Ijebu Ode,Theft,5,22,Male,Citizen,Yes,67.0,Male,Closed,OFF7376,31
+198,2020-09-29,Lagos,Yaba,Robbery,3,47,Female,Citizen,Yes,61.0,Female,Open,OFF1369,37
+199,2020-11-06,Edo,Benin City,Fraud,4,73,Male,Media,No,,,Closed,OFF5193,50
+200,2020-03-16,Rivers,Port Harcourt,Robbery,3,44,Male,Media,Yes,18.0,Female,Closed,OFF5327,120
+201,2022-09-19,Lagos,Yaba,Fraud,4,36,Male,Police,No,,,Open,OFF1938,124
+202,2022-07-24,Delta,Asaba,Fraud,4,15,Male,Police,No,,,Open,OFF2437,156
+203,2021-09-08,Enugu,Awgu,Homicide,3,20,Female,Media,Yes,46.0,Female,In Court,OFF7294,97
+204,2021-01-11,Rivers,Bonny,Burglary,2,58,Female,Police,No,,,Open,OFF5128,91
+205,2020-11-02,Kano,Tarauni,Burglary,2,31,Female,Police,No,,,In Court,OFF6821,53
+206,2022-08-13,Kaduna,Zaria,Assault,3,56,Female,Police,No,,,Closed,OFF8134,83
+207,2020-06-21,Kaduna,Kafanchan,Robbery,2,15,Male,Citizen,Yes,28.0,Female,In Court,OFF2345,69
+208,2020-04-24,Kaduna,Zaria,Assault,5,62,Female,Media,No,,,In Court,OFF3993,56
+209,2021-06-07,Kano,Ungogo,Burglary,1,73,Female,Police,Yes,78.0,Male,Closed,OFF9417,26
+210,2021-02-01,Kano,Ungogo,Burglary,4,45,Female,Police,No,,,Closed,OFF5659,24
+211,2020-03-21,Enugu,Enugu East,Theft,1,52,Female,Police,No,,,In Court,OFF8238,149
+212,2020-10-04,Abuja,Maitama,Homicide,1,77,Male,Police,Yes,64.0,Male,Closed,OFF6523,169
+213,2021-01-06,Ogun,Sagamu,Assault,3,61,Female,Police,Yes,62.0,Female,Open,OFF7521,169
+214,2022-01-24,Kaduna,Kafanchan,Robbery,4,73,Male,Citizen,No,,,Open,OFF8997,100
+215,2022-02-14,Kaduna,Kafanchan,Burglary,4,26,Female,Citizen,No,,,Open,OFF2120,108
+216,2021-11-12,Kaduna,Kaduna North,Assault,5,47,Female,Police,No,,,In Court,OFF6671,89
+217,2021-01-03,Ogun,Abeokuta,Assault,2,34,Female,Citizen,No,,,In Court,OFF7422,129
+218,2021-12-22,Oyo,Ibadan,Fraud,3,58,Male,Media,Yes,21.0,Male,Closed,OFF1101,102
+219,2021-03-06,Edo,Benin City,Fraud,4,42,Male,Citizen,Yes,76.0,Male,In Court,OFF3662,148
+220,2020-12-27,Kaduna,Kafanchan,Fraud,3,57,Male,Citizen,Yes,26.0,Female,Open,OFF4569,136
+221,2021-12-12,Oyo,Ogbomosho,Assault,3,53,Female,Police,No,,,Open,OFF3550,95
+222,2021-10-21,Delta,Asaba,Robbery,1,51,Male,Citizen,Yes,66.0,Male,In Court,OFF2470,20
+223,2021-03-20,Kano,Ungogo,Theft,2,72,Female,Citizen,Yes,77.0,Male,In Court,OFF5889,140
+224,2021-09-27,Abuja,Maitama,Theft,1,77,Male,Media,No,,,Open,OFF5497,78
+225,2022-05-24,Kano,Ungogo,Assault,4,32,Male,Media,No,,,Closed,OFF8972,35
+226,2021-06-27,Kano,Tarauni,Robbery,2,73,Female,Media,Yes,62.0,Male,In Court,OFF7036,144
+227,2022-04-17,Oyo,Iseyin,Theft,4,79,Female,Media,No,,,In Court,OFF6999,12
+228,2022-05-19,Kano,Dala,Fraud,5,21,Female,Citizen,No,,,Closed,OFF6378,17
+229,2022-06-30,Enugu,Nsukka,Theft,3,38,Female,Media,Yes,35.0,Female,Open,OFF4454,39
+230,2020-08-04,Abuja,Wuse,Homicide,5,47,Male,Citizen,No,,,In Court,OFF4302,161
+231,2021-05-13,Kaduna,Kaduna North,Robbery,3,59,Male,Police,No,,,Open,OFF3306,55
+232,2022-04-08,Rivers,Port Harcourt,Theft,3,33,Female,Police,No,,,In Court,OFF4688,156
+233,2020-02-01,Kano,Ungogo,Burglary,4,67,Male,Police,No,,,In Court,OFF9375,164
+234,2020-06-09,Abuja,Maitama,Fraud,5,69,Female,Police,Yes,71.0,Female,Closed,OFF1610,108
+235,2021-11-27,Edo,Auchi,Robbery,3,41,Male,Police,No,,,Closed,OFF4657,33
+236,2021-01-22,Ogun,Sagamu,Burglary,5,70,Female,Media,No,,,In Court,OFF2534,89
+237,2022-09-15,Ogun,Abeokuta,Robbery,4,19,Female,Citizen,Yes,75.0,Female,Open,OFF8558,119
+238,2020-03-02,Oyo,Ogbomosho,Homicide,1,53,Male,Media,Yes,34.0,Male,Open,OFF1758,24
+239,2021-06-17,Abuja,Wuse,Fraud,5,50,Male,Media,No,,,Closed,OFF8987,179
+240,2020-05-13,Rivers,Bonny,Robbery,1,71,Female,Media,Yes,36.0,Female,Closed,OFF4466,88
+241,2021-08-04,Oyo,Iseyin,Homicide,2,66,Female,Police,Yes,70.0,Male,Closed,OFF4697,8
+242,2022-09-01,Kano,Dala,Burglary,1,35,Female,Police,No,,,In Court,OFF8533,144
+243,2022-01-03,Oyo,Iseyin,Fraud,4,72,Male,Media,No,,,Open,OFF4812,12
+244,2022-01-22,Ogun,Ijebu Ode,Assault,2,35,Female,Media,Yes,54.0,Male,Closed,OFF6875,66
+245,2021-05-02,Edo,Benin City,Assault,3,15,Male,Citizen,Yes,64.0,Female,Closed,OFF1537,22
+246,2022-07-04,Enugu,Enugu East,Theft,3,60,Female,Citizen,Yes,15.0,Male,Closed,OFF1398,88
+247,2020-08-31,Rivers,Port Harcourt,Homicide,4,77,Female,Media,No,,,Closed,OFF3265,135
+248,2022-03-27,Kaduna,Kafanchan,Burglary,2,80,Male,Media,Yes,47.0,Female,Closed,OFF2674,62
+249,2020-03-15,Edo,Benin City,Fraud,5,27,Female,Police,Yes,15.0,Male,Open,OFF5367,142
+250,2020-08-02,Oyo,Ogbomosho,Burglary,2,54,Male,Citizen,No,,,In Court,OFF3128,50
+251,2021-01-29,Edo,Ekpoma,Homicide,4,50,Female,Citizen,No,,,Open,OFF9543,52
+252,2021-01-23,Kaduna,Kafanchan,Fraud,5,76,Female,Citizen,No,,,In Court,OFF2672,8
+253,2021-12-14,Delta,Asaba,Robbery,3,72,Female,Citizen,Yes,64.0,Female,Open,OFF8831,126
+254,2021-11-20,Kano,Ungogo,Theft,4,74,Female,Media,No,,,Open,OFF4305,140
+255,2021-04-10,Kaduna,Kaduna North,Robbery,3,49,Female,Police,Yes,75.0,Female,In Court,OFF9613,108
+256,2021-07-08,Oyo,Iseyin,Theft,2,26,Male,Police,Yes,61.0,Female,In Court,OFF6021,175
+257,2020-02-25,Rivers,Bonny,Assault,3,39,Male,Police,No,,,Open,OFF7628,144
+258,2021-09-30,Kano,Ungogo,Assault,5,69,Male,Media,Yes,59.0,Female,Open,OFF9197,149
+259,2020-01-13,Edo,Benin City,Homicide,1,72,Male,Citizen,No,,,In Court,OFF5153,58
+260,2022-06-22,Kaduna,Kaduna North,Theft,5,31,Female,Citizen,Yes,77.0,Male,Open,OFF6075,45
+261,2021-07-30,Enugu,Awgu,Assault,4,18,Female,Police,No,,,Closed,OFF2321,151
+262,2020-10-21,Lagos,Ikeja,Fraud,5,52,Female,Police,No,,,Closed,OFF2036,97
+263,2020-06-27,Lagos,Ikeja,Burglary,1,58,Male,Media,No,,,Open,OFF6112,50
+264,2020-09-14,Delta,Asaba,Assault,3,36,Female,Citizen,Yes,41.0,Male,Closed,OFF4357,59
+265,2022-08-18,Rivers,Obio,Fraud,1,34,Male,Media,No,,,Open,OFF1792,91
+266,2020-11-11,Enugu,Awgu,Burglary,1,33,Male,Media,No,,,Open,OFF5506,107
+267,2020-10-28,Kaduna,Kafanchan,Assault,1,52,Female,Police,No,,,Closed,OFF9970,123
+268,2021-12-11,Lagos,Yaba,Fraud,3,55,Male,Media,Yes,34.0,Male,Closed,OFF2376,146
+269,2020-01-25,Lagos,Yaba,Robbery,3,28,Female,Media,No,,,Open,OFF6901,156
+270,2022-03-27,Edo,Ekpoma,Fraud,4,23,Female,Media,No,,,In Court,OFF5758,175
+271,2022-05-05,Enugu,Enugu East,Assault,4,67,Female,Citizen,Yes,78.0,Female,Open,OFF7055,107
+272,2020-10-06,Enugu,Nsukka,Homicide,3,79,Male,Media,Yes,47.0,Male,In Court,OFF6030,41
+273,2022-01-23,Enugu,Nsukka,Burglary,4,59,Female,Citizen,No,,,Closed,OFF6028,11
+274,2020-11-21,Oyo,Ibadan,Fraud,3,53,Male,Police,Yes,26.0,Female,In Court,OFF6998,133
+275,2022-07-12,Lagos,Yaba,Theft,4,68,Female,Police,No,,,In Court,OFF1565,80
+276,2022-07-30,Rivers,Bonny,Homicide,4,69,Male,Citizen,No,,,In Court,OFF8549,157
+277,2020-02-05,Lagos,Yaba,Homicide,4,61,Female,Media,Yes,15.0,Male,Closed,OFF3652,13
+278,2021-08-15,Lagos,Yaba,Theft,3,35,Female,Media,No,,,In Court,OFF8267,114
+279,2021-10-18,Ogun,Sagamu,Robbery,4,80,Female,Police,No,,,In Court,OFF2274,105
+280,2021-10-02,Lagos,Ikeja,Theft,2,45,Female,Media,No,,,In Court,OFF8808,148
+281,2022-09-15,Kano,Dala,Homicide,2,24,Male,Police,No,,,Open,OFF4782,66
+282,2021-01-05,Kano,Ungogo,Burglary,4,24,Male,Citizen,Yes,76.0,Female,Open,OFF4241,67
+283,2020-10-08,Kano,Ungogo,Burglary,1,26,Male,Police,No,,,Open,OFF4621,54
+284,2021-07-12,Kaduna,Zaria,Assault,1,62,Female,Media,No,,,Open,OFF5824,173
+285,2020-08-17,Enugu,Awgu,Theft,5,21,Female,Citizen,No,,,Closed,OFF3044,62
+286,2022-02-23,Ogun,Ijebu Ode,Fraud,5,21,Female,Citizen,No,,,In Court,OFF4662,15
+287,2022-08-06,Rivers,Port Harcourt,Fraud,4,26,Female,Media,Yes,77.0,Male,Closed,OFF6567,173
+288,2021-10-24,Kano,Tarauni,Homicide,3,58,Male,Citizen,No,,,Closed,OFF2968,38
+289,2021-01-26,Rivers,Obio,Fraud,1,22,Female,Police,No,,,In Court,OFF4618,20
+290,2020-12-18,Ogun,Abeokuta,Burglary,5,65,Male,Citizen,Yes,38.0,Male,In Court,OFF8944,62
+291,2020-02-10,Delta,Warri,Burglary,5,25,Female,Police,No,,,Open,OFF7650,84
+292,2021-03-17,Kano,Tarauni,Fraud,5,40,Male,Police,No,,,In Court,OFF3408,57
+293,2021-11-06,Enugu,Nsukka,Burglary,1,50,Male,Police,No,,,In Court,OFF4032,82
+294,2021-07-20,Lagos,Lekki,Burglary,2,16,Male,Citizen,No,,,Open,OFF1991,12
+295,2020-05-01,Oyo,Iseyin,Robbery,3,68,Male,Media,No,,,Closed,OFF1482,176
+296,2022-08-12,Abuja,Maitama,Burglary,4,53,Female,Citizen,Yes,46.0,Male,Open,OFF6666,147
+297,2020-04-03,Kano,Tarauni,Burglary,1,61,Female,Media,Yes,56.0,Female,In Court,OFF8931,134
+298,2020-12-19,Oyo,Ogbomosho,Burglary,3,24,Male,Media,No,,,Closed,OFF1461,77
+299,2021-02-18,Delta,Warri,Theft,5,20,Female,Police,No,,,In Court,OFF5366,121
+300,2020-09-20,Abuja,Wuse,Robbery,1,42,Female,Police,No,,,Closed,OFF7190,146
+301,2020-07-06,Rivers,Bonny,Robbery,5,63,Female,Citizen,Yes,59.0,Male,Open,OFF4051,125
+302,2020-10-24,Kaduna,Kaduna North,Homicide,2,66,Female,Media,Yes,61.0,Female,In Court,OFF9037,156
+303,2021-09-22,Delta,Warri,Theft,1,46,Male,Citizen,No,,,Open,OFF7941,173
+304,2022-07-05,Ogun,Abeokuta,Fraud,1,40,Male,Media,Yes,25.0,Male,Closed,OFF6283,42
+305,2020-04-15,Enugu,Enugu East,Fraud,1,28,Female,Media,No,,,Closed,OFF4732,28
+306,2021-10-09,Delta,Warri,Homicide,2,61,Male,Citizen,No,,,Closed,OFF3308,45
+307,2022-05-25,Ogun,Ijebu Ode,Fraud,4,48,Male,Citizen,Yes,60.0,Male,In Court,OFF4670,111
+308,2021-03-23,Kaduna,Kafanchan,Assault,4,16,Male,Police,No,,,In Court,OFF3140,114
+309,2021-01-22,Abuja,Maitama,Assault,2,71,Male,Citizen,Yes,77.0,Female,Open,OFF5404,107
+310,2021-06-22,Kano,Tarauni,Fraud,1,75,Male,Citizen,Yes,65.0,Male,Closed,OFF7990,101
+311,2021-12-07,Ogun,Abeokuta,Fraud,2,76,Female,Police,Yes,39.0,Male,Closed,OFF4598,21
+312,2020-03-28,Kano,Tarauni,Robbery,4,36,Female,Citizen,No,,,Closed,OFF3078,164
+313,2021-06-30,Abuja,Garki,Homicide,2,58,Female,Media,No,,,Closed,OFF3902,107
+314,2021-05-18,Kaduna,Kaduna North,Robbery,2,53,Male,Media,No,,,Closed,OFF9393,28
+315,2020-12-29,Enugu,Enugu East,Robbery,5,71,Male,Police,No,,,Open,OFF4237,98
+316,2022-03-07,Kaduna,Kafanchan,Burglary,2,53,Female,Citizen,Yes,67.0,Male,Closed,OFF7972,48
+317,2020-12-09,Kano,Tarauni,Fraud,5,77,Female,Police,No,,,Open,OFF6235,77
+318,2021-08-04,Abuja,Garki,Homicide,1,72,Female,Media,No,,,In Court,OFF2321,145
+319,2022-09-19,Edo,Ekpoma,Assault,4,55,Male,Media,No,,,Open,OFF9982,162
+320,2020-01-19,Oyo,Ogbomosho,Theft,2,17,Male,Media,Yes,41.0,Male,Open,OFF4593,49
+321,2021-03-24,Enugu,Nsukka,Assault,4,54,Male,Police,No,,,Open,OFF2713,124
+322,2021-04-14,Kaduna,Kaduna North,Robbery,3,40,Female,Citizen,No,,,Open,OFF1371,21
+323,2020-04-19,Oyo,Ibadan,Fraud,5,35,Female,Citizen,Yes,50.0,Female,Closed,OFF6457,162
+324,2021-09-13,Delta,Ughelli,Fraud,1,52,Male,Media,No,,,Open,OFF7176,64
+325,2020-02-17,Delta,Warri,Assault,5,66,Male,Police,Yes,49.0,Male,In Court,OFF1617,111
+326,2022-06-04,Lagos,Ikeja,Homicide,2,64,Male,Media,Yes,28.0,Female,Open,OFF9810,126
+327,2020-11-09,Enugu,Nsukka,Burglary,5,49,Male,Police,Yes,68.0,Female,In Court,OFF8519,159
+328,2020-01-16,Kano,Tarauni,Assault,5,60,Male,Citizen,No,,,In Court,OFF1888,163
+329,2020-09-03,Rivers,Bonny,Fraud,4,19,Male,Citizen,Yes,47.0,Female,Open,OFF5267,69
+330,2021-03-12,Edo,Auchi,Burglary,4,67,Female,Media,No,,,Closed,OFF3071,26
+331,2020-04-02,Rivers,Bonny,Homicide,4,27,Female,Citizen,No,,,Open,OFF8299,82
+332,2021-07-05,Edo,Auchi,Assault,4,27,Female,Police,No,,,Closed,OFF6584,146
+333,2020-06-10,Abuja,Maitama,Theft,1,58,Male,Citizen,Yes,37.0,Female,In Court,OFF2551,64
+334,2021-04-11,Rivers,Port Harcourt,Fraud,1,59,Female,Media,Yes,75.0,Female,Open,OFF3165,95
+335,2020-01-03,Kaduna,Zaria,Fraud,1,57,Male,Police,Yes,37.0,Male,In Court,OFF7770,18
+336,2020-10-30,Kaduna,Kaduna North,Burglary,4,60,Male,Police,No,,,Closed,OFF4595,35
+337,2020-11-18,Delta,Asaba,Robbery,3,78,Female,Police,Yes,22.0,Male,Closed,OFF7005,89
+338,2021-01-19,Ogun,Abeokuta,Fraud,2,25,Male,Citizen,No,,,In Court,OFF7087,94
+339,2022-09-14,Kano,Dala,Fraud,3,17,Male,Citizen,Yes,44.0,Female,Open,OFF6266,80
+340,2020-06-05,Lagos,Yaba,Burglary,4,49,Male,Citizen,Yes,17.0,Male,Closed,OFF6949,86
+341,2021-06-27,Lagos,Ikeja,Fraud,1,54,Female,Media,Yes,74.0,Male,Open,OFF2754,160
+342,2020-10-12,Rivers,Obio,Homicide,5,23,Female,Media,No,,,Open,OFF7542,84
+343,2021-08-06,Ogun,Abeokuta,Theft,3,57,Male,Police,Yes,44.0,Female,In Court,OFF4401,179
+344,2021-11-02,Delta,Ughelli,Homicide,2,70,Female,Citizen,No,,,In Court,OFF6388,29
+345,2021-10-20,Ogun,Ijebu Ode,Theft,1,29,Male,Citizen,Yes,57.0,Male,In Court,OFF3795,66
+346,2020-12-04,Edo,Benin City,Assault,3,32,Female,Police,No,,,Open,OFF9445,101
+347,2022-07-11,Ogun,Abeokuta,Assault,3,40,Female,Police,Yes,69.0,Female,Open,OFF8859,180
+348,2021-09-05,Kano,Ungogo,Robbery,2,55,Male,Police,No,,,Open,OFF9557,162
+349,2022-04-07,Kano,Ungogo,Robbery,1,30,Male,Citizen,Yes,70.0,Male,Open,OFF9001,88
+350,2021-03-26,Oyo,Iseyin,Robbery,2,64,Female,Citizen,Yes,80.0,Female,Closed,OFF5514,167
+351,2021-03-05,Delta,Asaba,Theft,3,59,Female,Citizen,No,,,Open,OFF2165,81
+352,2020-09-20,Oyo,Ogbomosho,Homicide,1,30,Male,Media,Yes,68.0,Male,Closed,OFF5752,148
+353,2020-09-17,Abuja,Maitama,Homicide,2,27,Female,Media,Yes,74.0,Male,Closed,OFF1588,12
+354,2020-08-28,Delta,Ughelli,Robbery,1,23,Male,Media,Yes,24.0,Female,Open,OFF3916,103
+355,2021-07-16,Rivers,Bonny,Assault,1,47,Male,Media,No,,,Closed,OFF8531,50
+356,2020-10-02,Lagos,Lekki,Assault,3,29,Male,Police,Yes,75.0,Male,Closed,OFF3036,169
+357,2021-09-28,Delta,Ughelli,Theft,4,55,Female,Citizen,Yes,38.0,Female,In Court,OFF3558,142
+358,2020-01-09,Kano,Dala,Assault,1,30,Male,Police,No,,,Closed,OFF5559,57
+359,2021-01-06,Edo,Benin City,Homicide,4,69,Male,Police,Yes,62.0,Female,Open,OFF3718,78
+360,2021-01-10,Edo,Ekpoma,Theft,1,27,Male,Media,Yes,23.0,Female,Closed,OFF6972,141
+361,2021-08-19,Oyo,Ibadan,Theft,1,18,Male,Media,No,,,In Court,OFF4620,103
+362,2020-02-02,Enugu,Awgu,Burglary,2,50,Male,Citizen,No,,,Open,OFF7471,134
+363,2021-10-08,Edo,Benin City,Theft,4,20,Male,Police,Yes,54.0,Male,In Court,OFF3738,120
+364,2022-08-17,Rivers,Obio,Assault,4,25,Male,Citizen,Yes,36.0,Male,In Court,OFF8471,118
+365,2021-09-08,Delta,Asaba,Homicide,1,64,Female,Police,No,,,In Court,OFF3858,146
+366,2020-12-27,Oyo,Iseyin,Assault,4,45,Male,Citizen,No,,,Closed,OFF4724,7
+367,2022-07-26,Lagos,Yaba,Theft,1,52,Male,Police,No,,,Open,OFF3063,133
+368,2020-06-14,Edo,Benin City,Burglary,1,16,Male,Citizen,Yes,65.0,Female,Closed,OFF7378,85
+369,2021-02-22,Lagos,Yaba,Fraud,2,22,Female,Media,No,,,Closed,OFF2744,78
+370,2021-11-22,Lagos,Yaba,Burglary,3,77,Male,Citizen,No,,,Closed,OFF4237,71
+371,2021-12-08,Lagos,Ikeja,Robbery,5,58,Male,Media,Yes,20.0,Male,Closed,OFF2234,66
+372,2021-09-01,Abuja,Maitama,Fraud,5,80,Male,Media,No,,,Closed,OFF7684,157
+373,2020-11-10,Kaduna,Kaduna North,Theft,5,43,Male,Citizen,No,,,Open,OFF5789,87
+374,2020-02-01,Edo,Ekpoma,Burglary,1,41,Male,Media,No,,,Open,OFF4765,172
+375,2021-09-15,Oyo,Ibadan,Homicide,3,45,Male,Police,Yes,56.0,Female,Open,OFF9715,160
+376,2022-04-05,Ogun,Ijebu Ode,Theft,2,45,Male,Police,Yes,76.0,Male,Open,OFF5299,38
+377,2021-04-25,Enugu,Nsukka,Robbery,2,45,Male,Police,No,,,In Court,OFF8768,7
+378,2022-04-27,Kaduna,Kafanchan,Homicide,2,73,Male,Media,No,,,In Court,OFF4584,169
+379,2021-10-31,Kano,Ungogo,Assault,4,45,Male,Police,No,,,Open,OFF1416,123
+380,2020-08-02,Ogun,Abeokuta,Homicide,4,57,Female,Citizen,Yes,78.0,Male,In Court,OFF7455,14
+381,2021-09-09,Lagos,Lekki,Fraud,2,71,Female,Citizen,No,,,Open,OFF8459,65
+382,2021-04-11,Enugu,Nsukka,Assault,5,36,Male,Police,Yes,41.0,Male,Closed,OFF7024,132
+383,2020-12-20,Delta,Warri,Theft,4,68,Female,Citizen,Yes,25.0,Female,Closed,OFF1921,19
+384,2022-04-26,Rivers,Bonny,Homicide,5,51,Female,Police,Yes,16.0,Male,Closed,OFF9096,167
+385,2022-09-06,Oyo,Iseyin,Assault,2,68,Female,Citizen,Yes,19.0,Female,In Court,OFF5530,171
+386,2022-05-13,Enugu,Enugu East,Fraud,5,30,Male,Media,Yes,62.0,Female,Open,OFF8888,82
+387,2022-05-21,Kaduna,Kafanchan,Theft,1,34,Female,Media,No,,,Open,OFF5009,76
+388,2022-06-15,Edo,Benin City,Robbery,4,26,Male,Media,No,,,Open,OFF2998,42
+389,2021-03-13,Rivers,Bonny,Assault,2,75,Male,Police,No,,,In Court,OFF4802,49
+390,2021-08-01,Kaduna,Kafanchan,Robbery,2,31,Male,Media,No,,,Closed,OFF2910,64
+391,2022-01-11,Ogun,Sagamu,Theft,1,78,Female,Citizen,Yes,65.0,Male,Closed,OFF4525,107
+392,2022-01-16,Lagos,Yaba,Homicide,5,63,Male,Citizen,No,,,Closed,OFF6039,124
+393,2022-08-06,Enugu,Enugu East,Fraud,1,57,Male,Police,No,,,Open,OFF3415,54
+394,2022-08-24,Ogun,Abeokuta,Homicide,4,74,Female,Media,Yes,62.0,Female,Open,OFF9072,49
+395,2021-12-31,Lagos,Lekki,Assault,1,26,Female,Media,Yes,20.0,Female,Open,OFF2040,143
+396,2021-12-08,Kaduna,Kaduna North,Assault,1,70,Female,Citizen,No,,,Open,OFF6536,167
+397,2020-02-16,Kano,Tarauni,Homicide,4,53,Male,Citizen,Yes,63.0,Male,Open,OFF3487,93
+398,2020-08-12,Oyo,Ibadan,Robbery,5,65,Male,Police,No,,,In Court,OFF9195,92
+399,2020-05-26,Rivers,Port Harcourt,Robbery,1,55,Female,Media,Yes,80.0,Male,Open,OFF5108,172
+400,2020-01-31,Lagos,Lekki,Burglary,1,61,Female,Citizen,Yes,16.0,Male,Closed,OFF9122,170
+401,2022-02-14,Delta,Ughelli,Robbery,3,47,Male,Police,Yes,73.0,Female,Closed,OFF4781,42
+402,2020-11-12,Ogun,Abeokuta,Burglary,2,78,Female,Media,No,,,Open,OFF7224,78
+403,2021-06-18,Enugu,Awgu,Fraud,4,63,Male,Citizen,Yes,73.0,Male,Closed,OFF9268,99
+404,2022-01-11,Oyo,Ogbomosho,Fraud,5,36,Male,Citizen,Yes,51.0,Male,Closed,OFF5982,77
+405,2020-04-07,Abuja,Garki,Fraud,2,63,Female,Police,No,,,In Court,OFF2368,176
+406,2021-07-27,Lagos,Ikeja,Assault,3,40,Male,Media,Yes,76.0,Female,Closed,OFF5149,23
+407,2022-04-01,Delta,Warri,Robbery,1,56,Male,Media,Yes,32.0,Female,Closed,OFF6449,9
+408,2021-12-25,Delta,Asaba,Assault,3,70,Female,Police,Yes,58.0,Male,In Court,OFF6310,16
+409,2021-11-30,Ogun,Abeokuta,Assault,1,45,Male,Citizen,No,,,Open,OFF6895,88
+410,2020-10-24,Oyo,Iseyin,Robbery,5,63,Female,Media,No,,,In Court,OFF9671,132
+411,2021-06-02,Lagos,Lekki,Assault,5,51,Female,Media,No,,,In Court,OFF3804,32
+412,2022-02-04,Enugu,Awgu,Robbery,4,77,Female,Media,Yes,66.0,Female,Closed,OFF3032,148
+413,2021-01-27,Lagos,Yaba,Assault,4,38,Female,Media,No,,,In Court,OFF7629,5
+414,2020-03-31,Abuja,Maitama,Robbery,1,26,Male,Media,No,,,In Court,OFF5781,143
+415,2021-02-13,Enugu,Nsukka,Homicide,2,22,Male,Citizen,No,,,Open,OFF6365,13
+416,2020-06-07,Ogun,Abeokuta,Robbery,1,19,Female,Media,No,,,Open,OFF1545,22
+417,2020-03-09,Kaduna,Zaria,Assault,4,31,Male,Media,Yes,72.0,Female,Open,OFF7952,9
+418,2021-07-12,Abuja,Wuse,Assault,2,30,Female,Police,Yes,57.0,Female,Open,OFF1184,178
+419,2022-08-31,Enugu,Awgu,Homicide,5,73,Male,Police,Yes,67.0,Male,Open,OFF1476,154
+420,2020-02-20,Enugu,Enugu East,Robbery,2,65,Male,Police,No,,,In Court,OFF6292,8
+421,2020-12-28,Rivers,Port Harcourt,Assault,1,24,Female,Media,No,,,In Court,OFF6420,74
+422,2022-09-26,Abuja,Wuse,Robbery,1,69,Female,Citizen,Yes,18.0,Female,Closed,OFF4473,79
+423,2020-10-11,Rivers,Port Harcourt,Burglary,5,63,Male,Citizen,Yes,50.0,Male,Open,OFF6901,91
+424,2020-01-08,Kaduna,Zaria,Fraud,4,20,Male,Police,Yes,17.0,Male,Closed,OFF8746,84
+425,2020-05-16,Lagos,Lekki,Burglary,3,20,Male,Citizen,Yes,30.0,Male,Open,OFF4447,144
+426,2020-12-08,Lagos,Lekki,Robbery,4,26,Female,Police,No,,,In Court,OFF1255,163
+427,2022-02-18,Lagos,Lekki,Homicide,3,40,Male,Media,No,,,In Court,OFF7185,50
+428,2021-06-21,Ogun,Abeokuta,Assault,4,78,Male,Citizen,No,,,Closed,OFF3531,172
+429,2021-11-18,Lagos,Ikeja,Fraud,1,79,Female,Media,Yes,25.0,Female,Closed,OFF9694,15
+430,2021-02-10,Ogun,Ijebu Ode,Homicide,4,38,Male,Citizen,Yes,24.0,Female,Open,OFF3309,150
+431,2020-07-16,Kano,Ungogo,Burglary,5,64,Male,Citizen,Yes,44.0,Female,Open,OFF4923,31
+432,2020-06-15,Edo,Auchi,Homicide,5,71,Female,Police,Yes,15.0,Male,Closed,OFF4546,50
+433,2020-03-13,Abuja,Wuse,Burglary,5,50,Female,Citizen,No,,,In Court,OFF6005,154
+434,2022-03-27,Rivers,Port Harcourt,Robbery,5,27,Male,Citizen,No,,,Closed,OFF4309,12
+435,2020-12-04,Delta,Ughelli,Assault,3,75,Female,Media,No,,,In Court,OFF4443,141
+436,2020-11-18,Delta,Warri,Assault,2,22,Male,Media,No,,,Open,OFF7066,176
+437,2022-08-16,Kano,Tarauni,Burglary,2,32,Female,Police,Yes,68.0,Male,Closed,OFF9734,117
+438,2022-03-23,Delta,Asaba,Assault,1,68,Female,Police,No,,,Open,OFF5109,37
+439,2020-12-20,Abuja,Wuse,Theft,5,47,Male,Media,No,,,In Court,OFF9156,59
+440,2022-02-22,Enugu,Enugu East,Assault,1,72,Female,Police,No,,,Closed,OFF7125,19
+441,2022-03-13,Lagos,Yaba,Robbery,2,57,Male,Citizen,No,,,Closed,OFF6973,50
+442,2021-08-02,Kano,Tarauni,Burglary,2,25,Female,Citizen,No,,,Open,OFF6603,136
+443,2021-06-22,Rivers,Obio,Assault,3,68,Female,Media,Yes,36.0,Male,In Court,OFF9216,105
+444,2020-04-24,Abuja,Maitama,Theft,5,54,Male,Media,No,,,Closed,OFF6420,13
+445,2020-11-26,Enugu,Nsukka,Theft,2,30,Male,Police,No,,,In Court,OFF7790,31
+446,2020-12-12,Lagos,Lekki,Robbery,5,55,Female,Police,Yes,65.0,Male,In Court,OFF3066,163
+447,2020-06-01,Ogun,Abeokuta,Theft,1,21,Male,Police,Yes,24.0,Male,In Court,OFF8530,22
+448,2020-06-28,Kaduna,Kafanchan,Assault,2,68,Female,Citizen,Yes,36.0,Female,Open,OFF2094,118
+449,2022-09-08,Ogun,Sagamu,Homicide,1,27,Male,Police,No,,,Open,OFF8903,126
+450,2021-07-02,Edo,Benin City,Assault,1,42,Female,Media,Yes,74.0,Female,In Court,OFF2176,39
+451,2021-09-04,Abuja,Garki,Theft,1,75,Male,Media,No,,,Closed,OFF7140,110
+452,2022-04-01,Edo,Benin City,Burglary,2,79,Female,Media,No,,,In Court,OFF2806,170
+453,2020-03-06,Oyo,Ibadan,Homicide,5,65,Male,Media,No,,,Closed,OFF3589,55
+454,2022-01-02,Rivers,Obio,Fraud,4,38,Male,Media,No,,,Closed,OFF9782,115
+455,2021-03-18,Delta,Warri,Fraud,4,44,Male,Citizen,No,,,Closed,OFF8570,74
+456,2022-04-19,Abuja,Wuse,Assault,4,74,Female,Citizen,No,,,Open,OFF5739,161
+457,2020-12-05,Kano,Tarauni,Homicide,3,76,Male,Citizen,No,,,Closed,OFF7010,98
+458,2020-10-31,Enugu,Nsukka,Fraud,1,80,Male,Media,No,,,In Court,OFF1874,41
+459,2022-03-14,Delta,Warri,Robbery,3,34,Male,Citizen,No,,,Closed,OFF4068,82
+460,2022-04-26,Kaduna,Kaduna North,Robbery,4,60,Male,Citizen,Yes,55.0,Male,Closed,OFF2721,123
+461,2020-06-21,Delta,Warri,Robbery,3,54,Female,Citizen,Yes,53.0,Male,Open,OFF8995,115
+462,2021-09-28,Abuja,Maitama,Burglary,4,34,Female,Police,No,,,Closed,OFF8093,165
+463,2020-09-28,Rivers,Port Harcourt,Robbery,2,29,Female,Citizen,No,,,Closed,OFF9339,49
+464,2022-07-31,Ogun,Abeokuta,Homicide,2,41,Male,Police,No,,,Closed,OFF6528,84
+465,2022-05-27,Kaduna,Zaria,Burglary,5,58,Female,Police,No,,,Closed,OFF3904,76
+466,2022-03-10,Rivers,Bonny,Assault,5,66,Female,Police,No,,,Closed,OFF1500,74
+467,2022-08-09,Ogun,Ijebu Ode,Fraud,3,31,Female,Police,No,,,Closed,OFF5576,117
+468,2020-11-29,Delta,Ughelli,Theft,3,56,Female,Police,Yes,25.0,Female,Open,OFF8426,146
+469,2020-10-25,Ogun,Sagamu,Theft,2,75,Female,Police,Yes,23.0,Female,Open,OFF2316,32
+470,2022-07-05,Delta,Asaba,Assault,1,46,Female,Media,No,,,In Court,OFF7683,84
+471,2022-05-04,Abuja,Wuse,Theft,1,35,Male,Citizen,Yes,67.0,Male,Open,OFF4185,155
+472,2021-04-25,Edo,Auchi,Theft,2,32,Female,Police,No,,,In Court,OFF1995,98
+473,2022-02-14,Lagos,Yaba,Fraud,1,49,Female,Citizen,No,,,Open,OFF9533,51
+474,2021-05-13,Ogun,Abeokuta,Burglary,2,31,Female,Police,No,,,Closed,OFF1694,147
+475,2022-04-28,Rivers,Bonny,Theft,3,53,Female,Media,No,,,Closed,OFF7526,69
+476,2020-12-21,Enugu,Awgu,Theft,3,67,Female,Police,Yes,24.0,Male,Open,OFF5224,95
+477,2022-08-21,Lagos,Ikeja,Assault,3,48,Female,Police,Yes,62.0,Male,In Court,OFF2904,177
+478,2022-04-14,Oyo,Ogbomosho,Theft,2,65,Male,Media,No,,,Closed,OFF8769,71
+479,2020-11-30,Enugu,Enugu East,Homicide,2,19,Female,Media,No,,,Open,OFF4555,119
+480,2022-04-24,Ogun,Abeokuta,Burglary,4,20,Male,Media,Yes,53.0,Male,In Court,OFF7828,179
+481,2021-06-27,Lagos,Yaba,Burglary,1,43,Male,Police,Yes,17.0,Female,Closed,OFF8077,57
+482,2020-02-26,Kaduna,Kaduna North,Assault,3,20,Female,Media,No,,,In Court,OFF6057,79
+483,2022-08-19,Abuja,Garki,Theft,2,61,Male,Citizen,Yes,70.0,Male,In Court,OFF7526,77
+484,2021-04-24,Kano,Tarauni,Theft,5,61,Male,Media,Yes,46.0,Male,Open,OFF3272,46
+485,2021-11-29,Oyo,Iseyin,Burglary,5,78,Male,Media,Yes,41.0,Female,Open,OFF3867,99
+486,2020-06-25,Lagos,Lekki,Theft,5,48,Male,Citizen,No,,,Open,OFF7898,159
+487,2022-07-12,Lagos,Ikeja,Burglary,4,49,Male,Police,Yes,41.0,Female,In Court,OFF6898,100
+488,2022-07-21,Enugu,Enugu East,Assault,1,79,Male,Police,Yes,69.0,Male,Open,OFF5701,174
+489,2021-03-14,Rivers,Port Harcourt,Fraud,3,73,Male,Media,Yes,42.0,Male,Closed,OFF7658,16
+490,2020-04-17,Edo,Auchi,Fraud,4,80,Male,Citizen,Yes,77.0,Female,In Court,OFF8712,58
+491,2020-10-29,Oyo,Ibadan,Homicide,1,41,Female,Police,Yes,16.0,Female,In Court,OFF3069,11
+492,2020-10-23,Edo,Benin City,Burglary,5,44,Female,Police,Yes,53.0,Female,Closed,OFF7570,82
+493,2020-02-26,Abuja,Wuse,Assault,2,39,Male,Police,No,,,Closed,OFF2199,102
+494,2021-02-06,Delta,Ughelli,Burglary,3,44,Female,Citizen,Yes,52.0,Male,Open,OFF9863,170
+495,2020-09-07,Kano,Ungogo,Assault,2,47,Male,Citizen,No,,,Closed,OFF1515,63
+496,2022-01-29,Delta,Warri,Burglary,3,74,Female,Police,Yes,17.0,Female,In Court,OFF6600,166
+497,2022-06-01,Kaduna,Zaria,Robbery,2,55,Male,Police,No,,,In Court,OFF6557,141
+498,2020-10-27,Enugu,Nsukka,Theft,4,63,Female,Media,No,,,Closed,OFF7389,178
+499,2022-03-23,Ogun,Abeokuta,Burglary,1,30,Male,Police,No,,,Open,OFF8312,78
+500,2020-02-20,Oyo,Iseyin,Assault,1,68,Male,Media,No,,,Open,OFF4164,42
+501,2020-12-21,Enugu,Awgu,Homicide,4,21,Female,Citizen,Yes,38.0,Female,Open,OFF8440,56
+502,2021-12-06,Oyo,Ibadan,Burglary,3,36,Female,Police,Yes,30.0,Male,In Court,OFF6803,47
+503,2022-04-25,Ogun,Sagamu,Burglary,2,16,Male,Media,No,,,In Court,OFF2298,129
+504,2022-01-01,Rivers,Bonny,Homicide,1,54,Male,Police,Yes,26.0,Female,Closed,OFF4543,147
+505,2022-07-24,Delta,Warri,Homicide,1,35,Female,Police,No,,,In Court,OFF6551,180
+506,2020-05-25,Delta,Asaba,Fraud,4,73,Male,Police,No,,,Closed,OFF1374,78
+507,2022-04-23,Kaduna,Kafanchan,Assault,5,53,Male,Media,No,,,In Court,OFF9536,168
+508,2020-02-08,Ogun,Sagamu,Fraud,2,48,Male,Media,Yes,80.0,Female,In Court,OFF1026,32
+509,2021-09-16,Lagos,Lekki,Burglary,2,78,Male,Citizen,No,,,In Court,OFF3130,170
+510,2022-09-16,Delta,Ughelli,Burglary,2,73,Male,Media,No,,,In Court,OFF8551,96
+511,2020-07-15,Ogun,Ijebu Ode,Assault,4,64,Female,Police,No,,,In Court,OFF2090,173
+512,2021-02-25,Abuja,Wuse,Assault,5,32,Female,Police,No,,,Open,OFF8857,62
+513,2020-04-01,Lagos,Lekki,Fraud,5,45,Male,Police,Yes,31.0,Male,Open,OFF2146,63
+514,2021-01-10,Enugu,Nsukka,Robbery,2,70,Male,Citizen,No,,,Open,OFF7989,39
+515,2021-06-20,Rivers,Obio,Homicide,1,68,Male,Citizen,No,,,In Court,OFF8668,177
+516,2020-08-19,Enugu,Awgu,Fraud,2,39,Female,Police,Yes,80.0,Female,Closed,OFF6617,32
+517,2021-12-11,Edo,Ekpoma,Burglary,2,37,Female,Media,No,,,In Court,OFF5394,20
+518,2021-10-27,Oyo,Ogbomosho,Burglary,1,22,Female,Citizen,Yes,71.0,Male,Closed,OFF7505,27
+519,2020-01-28,Kaduna,Kafanchan,Fraud,4,29,Female,Media,Yes,48.0,Male,Open,OFF5864,47
+520,2021-03-21,Kaduna,Kaduna North,Robbery,3,56,Female,Police,No,,,In Court,OFF9228,82
+521,2022-04-05,Abuja,Garki,Homicide,5,41,Female,Citizen,Yes,35.0,Female,Open,OFF3712,177
+522,2021-02-26,Kano,Tarauni,Theft,3,65,Female,Police,Yes,65.0,Female,Open,OFF3325,100
+523,2021-03-05,Rivers,Port Harcourt,Theft,3,22,Female,Media,Yes,46.0,Female,Open,OFF7958,70
+524,2020-10-18,Kaduna,Kafanchan,Assault,4,52,Female,Media,No,,,In Court,OFF7755,14
+525,2021-08-27,Oyo,Ibadan,Homicide,2,37,Male,Media,Yes,67.0,Female,In Court,OFF7862,78
+526,2021-01-26,Ogun,Sagamu,Fraud,4,28,Male,Media,Yes,23.0,Female,Closed,OFF5254,80
+527,2021-12-02,Delta,Warri,Burglary,1,78,Female,Citizen,Yes,37.0,Male,Open,OFF3036,147
+528,2021-12-05,Abuja,Maitama,Burglary,1,32,Female,Police,No,,,In Court,OFF4838,81
+529,2020-01-27,Kaduna,Zaria,Homicide,1,33,Male,Police,No,,,In Court,OFF1596,80
+530,2022-09-23,Abuja,Garki,Robbery,3,24,Male,Police,Yes,52.0,Female,Open,OFF8865,51
+531,2022-08-03,Delta,Asaba,Burglary,4,53,Female,Media,Yes,63.0,Female,Open,OFF2607,173
+532,2020-02-03,Kaduna,Zaria,Homicide,4,66,Female,Citizen,Yes,78.0,Male,Open,OFF3553,160
+533,2021-02-14,Edo,Benin City,Assault,3,15,Male,Media,No,,,Open,OFF2070,14
+534,2022-05-05,Lagos,Lekki,Homicide,5,65,Male,Police,Yes,35.0,Male,Closed,OFF1123,15
+535,2021-08-13,Kaduna,Zaria,Fraud,3,34,Male,Media,Yes,55.0,Female,In Court,OFF9401,83
+536,2020-09-09,Oyo,Ibadan,Assault,3,30,Male,Police,No,,,In Court,OFF4991,167
+537,2020-05-14,Kano,Dala,Robbery,2,30,Female,Police,Yes,73.0,Male,Closed,OFF7287,121
+538,2021-04-16,Ogun,Ijebu Ode,Assault,3,35,Male,Media,Yes,23.0,Male,Open,OFF5969,130
+539,2020-07-31,Abuja,Maitama,Fraud,3,60,Female,Media,No,,,Closed,OFF5241,93
+540,2020-02-09,Lagos,Lekki,Robbery,2,52,Male,Police,No,,,Closed,OFF5815,13
+541,2022-09-01,Edo,Ekpoma,Theft,1,61,Female,Citizen,Yes,79.0,Female,In Court,OFF6483,164
+542,2020-02-27,Rivers,Bonny,Fraud,1,57,Female,Media,Yes,61.0,Male,In Court,OFF9379,5
+543,2021-05-05,Delta,Asaba,Burglary,2,36,Male,Citizen,No,,,Closed,OFF6182,125
+544,2021-04-07,Kaduna,Kaduna North,Homicide,5,73,Female,Citizen,Yes,15.0,Female,Closed,OFF5336,123
+545,2021-06-09,Rivers,Port Harcourt,Assault,4,59,Male,Citizen,Yes,35.0,Male,In Court,OFF3852,75
+546,2021-09-04,Kaduna,Kafanchan,Homicide,2,64,Male,Citizen,Yes,69.0,Male,Open,OFF8052,62
+547,2021-07-30,Kano,Dala,Assault,2,63,Female,Citizen,Yes,25.0,Female,Closed,OFF3886,107
+548,2020-03-22,Lagos,Lekki,Robbery,2,51,Female,Citizen,No,,,Open,OFF4553,27
+549,2022-03-13,Rivers,Bonny,Burglary,1,79,Female,Media,Yes,74.0,Male,In Court,OFF8786,37
+550,2020-01-24,Edo,Auchi,Burglary,3,71,Female,Media,Yes,65.0,Male,In Court,OFF2420,139
+551,2022-04-09,Abuja,Wuse,Robbery,3,57,Male,Citizen,Yes,77.0,Female,Closed,OFF5140,67
+552,2020-03-12,Abuja,Wuse,Theft,5,64,Female,Citizen,Yes,65.0,Female,In Court,OFF1827,94
+553,2020-01-29,Kano,Dala,Robbery,4,22,Female,Police,Yes,79.0,Male,Open,OFF3309,11
+554,2021-04-15,Enugu,Awgu,Fraud,2,20,Male,Media,Yes,20.0,Male,In Court,OFF4573,55
+555,2020-09-17,Rivers,Bonny,Burglary,2,51,Male,Media,No,,,Open,OFF2966,93
+556,2022-07-11,Kano,Tarauni,Burglary,4,25,Male,Police,No,,,In Court,OFF4476,116
+557,2022-07-04,Kaduna,Kafanchan,Robbery,4,80,Female,Media,No,,,Closed,OFF1971,5
+558,2021-05-22,Lagos,Lekki,Burglary,1,32,Male,Citizen,Yes,46.0,Male,Open,OFF9312,162
+559,2021-01-24,Oyo,Ogbomosho,Homicide,4,68,Female,Citizen,No,,,Closed,OFF4038,73
+560,2022-03-06,Oyo,Ibadan,Fraud,5,33,Male,Media,No,,,Open,OFF2499,90
+561,2021-03-03,Kano,Tarauni,Theft,4,29,Female,Citizen,No,,,Open,OFF9453,130
+562,2022-09-15,Edo,Ekpoma,Homicide,1,26,Male,Media,No,,,Open,OFF5232,32
+563,2020-02-13,Enugu,Enugu East,Homicide,5,47,Female,Citizen,No,,,Closed,OFF9706,169
+564,2020-08-02,Edo,Benin City,Burglary,4,26,Female,Police,Yes,73.0,Female,In Court,OFF9914,170
+565,2022-09-19,Rivers,Obio,Fraud,4,29,Female,Police,Yes,18.0,Male,In Court,OFF4508,50
+566,2021-09-25,Oyo,Ibadan,Assault,1,56,Male,Police,No,,,In Court,OFF3273,58
+567,2022-02-14,Kano,Ungogo,Homicide,2,35,Male,Police,Yes,59.0,Female,Closed,OFF9561,92
+568,2021-05-28,Kaduna,Kaduna North,Robbery,5,17,Female,Media,No,,,Closed,OFF9078,57
+569,2021-11-04,Edo,Benin City,Fraud,5,32,Female,Media,No,,,In Court,OFF1913,114
+570,2020-04-14,Edo,Auchi,Theft,2,61,Female,Police,Yes,77.0,Female,In Court,OFF9094,143
+571,2021-07-08,Delta,Asaba,Robbery,5,41,Male,Media,Yes,48.0,Male,In Court,OFF9810,132
+572,2020-08-22,Oyo,Ogbomosho,Homicide,4,57,Female,Police,Yes,27.0,Male,Open,OFF6143,141
+573,2021-11-18,Edo,Benin City,Theft,4,18,Female,Police,Yes,52.0,Female,Open,OFF5037,6
+574,2021-11-25,Delta,Asaba,Theft,1,79,Male,Police,No,,,Closed,OFF3825,25
+575,2021-10-31,Kano,Ungogo,Theft,2,52,Female,Media,No,,,Closed,OFF4153,113
+576,2021-08-10,Rivers,Obio,Robbery,4,72,Female,Media,No,,,Open,OFF5024,166
+577,2022-06-23,Abuja,Garki,Robbery,1,31,Female,Police,Yes,73.0,Female,In Court,OFF4651,74
+578,2021-04-09,Kaduna,Kaduna North,Assault,5,20,Female,Citizen,No,,,Closed,OFF3870,97
+579,2021-11-24,Rivers,Obio,Burglary,1,53,Male,Citizen,Yes,64.0,Male,Closed,OFF8076,120
+580,2022-09-12,Kano,Tarauni,Fraud,1,45,Female,Police,Yes,19.0,Male,Closed,OFF2054,178
+581,2022-04-07,Kaduna,Kafanchan,Robbery,5,20,Male,Police,No,,,Closed,OFF4867,62
+582,2020-07-09,Rivers,Port Harcourt,Theft,1,44,Male,Citizen,No,,,Open,OFF9264,162
+583,2022-02-18,Abuja,Maitama,Robbery,1,41,Female,Citizen,No,,,Closed,OFF5534,155
+584,2021-12-14,Kano,Tarauni,Theft,3,16,Male,Media,Yes,53.0,Female,Closed,OFF8841,99
+585,2020-02-01,Enugu,Nsukka,Robbery,1,78,Male,Media,Yes,79.0,Male,Closed,OFF9246,131
+586,2020-07-28,Kaduna,Kafanchan,Homicide,4,49,Female,Media,No,,,Closed,OFF3642,119
+587,2021-07-20,Rivers,Port Harcourt,Assault,5,19,Male,Police,Yes,29.0,Female,Closed,OFF9776,82
+588,2020-09-24,Kaduna,Kafanchan,Fraud,4,62,Female,Police,No,,,In Court,OFF8001,35
+589,2021-02-01,Rivers,Port Harcourt,Burglary,3,76,Male,Citizen,Yes,30.0,Female,In Court,OFF5284,74
+590,2021-07-02,Kaduna,Zaria,Fraud,5,59,Male,Media,Yes,18.0,Male,Open,OFF4022,130
+591,2022-04-03,Lagos,Yaba,Homicide,5,65,Female,Citizen,Yes,59.0,Female,Closed,OFF6331,54
+592,2022-03-29,Kaduna,Zaria,Theft,3,15,Male,Media,Yes,65.0,Female,Open,OFF3070,112
+593,2020-01-28,Enugu,Nsukka,Assault,5,47,Male,Police,No,,,Closed,OFF8412,25
+594,2020-11-01,Abuja,Wuse,Homicide,1,47,Male,Police,Yes,67.0,Male,In Court,OFF9879,143
+595,2022-03-05,Lagos,Lekki,Assault,4,16,Female,Media,No,,,In Court,OFF5179,159
+596,2021-08-09,Kano,Tarauni,Assault,1,32,Female,Media,Yes,48.0,Male,Closed,OFF4912,44
+597,2020-10-24,Delta,Ughelli,Homicide,1,54,Male,Police,Yes,50.0,Female,Open,OFF4201,135
+598,2020-10-21,Oyo,Iseyin,Robbery,2,53,Male,Citizen,No,,,In Court,OFF1059,95
+599,2022-06-07,Delta,Asaba,Theft,5,26,Female,Citizen,No,,,Open,OFF8934,61
+600,2020-02-25,Ogun,Ijebu Ode,Theft,2,60,Female,Police,No,,,In Court,OFF1972,48
+601,2022-07-25,Edo,Benin City,Robbery,4,78,Male,Media,Yes,28.0,Male,In Court,OFF7268,149
+602,2022-03-20,Oyo,Iseyin,Burglary,5,21,Male,Citizen,Yes,35.0,Male,Open,OFF3253,74
+603,2021-09-20,Kano,Tarauni,Theft,2,35,Male,Police,No,,,Closed,OFF1751,145
+604,2021-08-02,Rivers,Port Harcourt,Theft,5,75,Female,Police,Yes,48.0,Male,In Court,OFF4361,84
+605,2020-12-02,Rivers,Port Harcourt,Burglary,5,18,Male,Media,No,,,Closed,OFF6368,57
+606,2020-03-03,Ogun,Ijebu Ode,Burglary,1,69,Male,Citizen,Yes,53.0,Female,Closed,OFF3786,159
+607,2022-04-06,Kano,Ungogo,Homicide,3,21,Male,Citizen,Yes,59.0,Female,Open,OFF1605,32
+608,2022-01-06,Delta,Warri,Robbery,5,30,Female,Police,No,,,In Court,OFF6654,51
+609,2021-11-16,Oyo,Ogbomosho,Homicide,3,51,Female,Police,No,,,In Court,OFF1434,162
+610,2022-02-23,Ogun,Abeokuta,Theft,5,60,Male,Media,No,,,In Court,OFF5551,107
+611,2022-07-19,Kaduna,Kaduna North,Burglary,1,46,Female,Media,Yes,47.0,Female,In Court,OFF9346,26
+612,2022-03-25,Lagos,Ikeja,Theft,5,79,Female,Media,Yes,16.0,Female,Open,OFF1462,159
+613,2022-04-18,Delta,Asaba,Theft,2,57,Female,Police,Yes,15.0,Female,In Court,OFF3667,39
+614,2022-02-05,Kaduna,Kafanchan,Assault,2,19,Female,Police,Yes,34.0,Male,In Court,OFF8965,53
+615,2020-08-02,Abuja,Wuse,Homicide,2,48,Male,Police,No,,,Open,OFF9482,156
+616,2022-03-09,Oyo,Ogbomosho,Theft,5,76,Male,Police,No,,,Open,OFF1976,178
+617,2020-12-23,Delta,Asaba,Assault,2,30,Female,Media,Yes,77.0,Male,Closed,OFF7489,9
+618,2022-04-11,Rivers,Bonny,Assault,5,23,Male,Citizen,Yes,51.0,Female,In Court,OFF8272,138
+619,2021-07-03,Kano,Tarauni,Assault,2,69,Male,Media,No,,,In Court,OFF7783,40
+620,2021-03-01,Rivers,Bonny,Theft,5,37,Female,Police,No,,,Open,OFF5825,56
+621,2021-02-04,Oyo,Ibadan,Homicide,3,52,Female,Police,Yes,54.0,Female,In Court,OFF3290,113
+622,2021-11-24,Kano,Tarauni,Homicide,1,30,Male,Police,Yes,62.0,Female,Closed,OFF6450,45
+623,2022-01-20,Enugu,Nsukka,Fraud,1,24,Female,Media,No,,,Closed,OFF5177,122
+624,2021-02-05,Abuja,Garki,Fraud,1,47,Male,Police,Yes,70.0,Male,Closed,OFF9523,119
+625,2020-09-26,Lagos,Yaba,Robbery,2,15,Male,Citizen,Yes,34.0,Female,Open,OFF3775,169
+626,2022-03-24,Edo,Ekpoma,Robbery,5,75,Female,Citizen,Yes,16.0,Male,Open,OFF8555,51
+627,2021-11-20,Lagos,Ikeja,Homicide,1,60,Female,Police,Yes,45.0,Male,Closed,OFF8840,45
+628,2020-03-29,Lagos,Lekki,Assault,5,15,Female,Police,No,,,Closed,OFF8097,84
+629,2020-12-20,Kano,Dala,Robbery,5,30,Male,Police,Yes,55.0,Male,Closed,OFF9631,139
+630,2021-11-04,Oyo,Iseyin,Assault,4,60,Male,Citizen,No,,,Closed,OFF4015,26
+631,2021-08-10,Kaduna,Zaria,Assault,2,62,Female,Citizen,Yes,30.0,Male,Open,OFF7655,10
+632,2021-03-24,Delta,Asaba,Robbery,3,64,Female,Media,Yes,38.0,Female,Open,OFF2039,170
+633,2021-06-19,Kaduna,Kafanchan,Assault,3,52,Male,Media,Yes,50.0,Male,Closed,OFF5639,172
+634,2020-09-27,Kaduna,Kaduna North,Homicide,3,62,Male,Media,No,,,In Court,OFF8603,98
+635,2022-01-12,Enugu,Enugu East,Theft,3,21,Male,Citizen,Yes,42.0,Female,In Court,OFF3698,21
+636,2020-09-24,Abuja,Garki,Assault,1,18,Female,Media,Yes,19.0,Male,Open,OFF9938,43
+637,2021-01-23,Abuja,Maitama,Burglary,3,43,Male,Media,Yes,52.0,Female,In Court,OFF7804,81
+638,2021-04-02,Ogun,Sagamu,Fraud,2,61,Female,Police,No,,,Closed,OFF2627,67
+639,2021-05-25,Lagos,Ikeja,Theft,1,76,Female,Citizen,Yes,41.0,Female,In Court,OFF5454,131
+640,2022-03-04,Enugu,Enugu East,Homicide,1,28,Male,Citizen,No,,,In Court,OFF4497,24
+641,2021-04-19,Oyo,Ogbomosho,Robbery,2,52,Female,Police,Yes,66.0,Female,In Court,OFF3933,26
+642,2022-01-10,Edo,Benin City,Homicide,3,79,Female,Media,No,,,Closed,OFF7508,75
+643,2021-10-06,Lagos,Ikeja,Assault,2,61,Female,Citizen,Yes,33.0,Female,Open,OFF6646,45
+644,2021-03-12,Kano,Ungogo,Robbery,1,22,Female,Media,Yes,62.0,Female,Closed,OFF6909,44
+645,2020-03-08,Oyo,Ogbomosho,Assault,2,77,Male,Citizen,No,,,Closed,OFF2553,27
+646,2021-07-26,Ogun,Sagamu,Theft,3,63,Male,Citizen,Yes,47.0,Male,Open,OFF9333,120
+647,2020-06-23,Lagos,Ikeja,Fraud,5,30,Male,Police,No,,,Closed,OFF3879,120
+648,2020-02-24,Kaduna,Zaria,Homicide,4,68,Female,Police,No,,,Open,OFF5413,7
+649,2020-07-24,Ogun,Sagamu,Fraud,3,59,Male,Media,Yes,55.0,Female,In Court,OFF5137,116
+650,2021-01-06,Kano,Ungogo,Homicide,1,33,Female,Citizen,No,,,Closed,OFF1863,167
+651,2020-12-03,Ogun,Abeokuta,Homicide,3,16,Male,Media,No,,,Open,OFF2737,56
+652,2020-06-27,Ogun,Sagamu,Burglary,2,65,Female,Police,No,,,In Court,OFF1169,118
+653,2021-06-12,Kano,Ungogo,Theft,1,31,Female,Citizen,No,,,In Court,OFF2641,107
+654,2021-06-08,Kaduna,Kafanchan,Theft,2,55,Male,Media,Yes,61.0,Male,In Court,OFF4199,171
+655,2020-06-22,Rivers,Port Harcourt,Burglary,5,79,Female,Police,Yes,18.0,Female,Closed,OFF9079,157
+656,2020-12-20,Rivers,Bonny,Assault,5,61,Female,Police,No,,,In Court,OFF6652,46
+657,2022-05-02,Kano,Tarauni,Fraud,5,56,Male,Citizen,No,,,Open,OFF1440,77
+658,2020-11-17,Delta,Ughelli,Theft,4,68,Male,Media,Yes,37.0,Female,Closed,OFF1536,141
+659,2021-04-30,Enugu,Enugu East,Fraud,1,51,Male,Media,Yes,64.0,Male,Closed,OFF7566,67
+660,2022-07-26,Oyo,Ibadan,Homicide,5,29,Male,Media,Yes,45.0,Male,Closed,OFF2738,74
+661,2021-07-07,Ogun,Abeokuta,Burglary,4,51,Female,Citizen,Yes,62.0,Male,In Court,OFF1635,8
+662,2020-08-02,Rivers,Bonny,Burglary,3,22,Male,Media,No,,,Closed,OFF5091,9
+663,2022-08-10,Ogun,Abeokuta,Fraud,3,18,Female,Media,No,,,Closed,OFF7830,11
+664,2020-11-21,Edo,Auchi,Burglary,5,35,Male,Media,Yes,44.0,Male,Open,OFF3868,135
+665,2022-06-09,Oyo,Iseyin,Homicide,4,50,Female,Citizen,Yes,33.0,Female,Open,OFF3824,150
+666,2020-06-26,Kano,Ungogo,Robbery,3,45,Female,Media,No,,,Open,OFF1001,166
+667,2021-05-23,Ogun,Abeokuta,Assault,1,46,Female,Citizen,No,,,Open,OFF9149,98
+668,2022-08-05,Delta,Ughelli,Homicide,2,57,Female,Media,Yes,62.0,Male,In Court,OFF4743,80
+669,2022-07-15,Delta,Asaba,Robbery,4,42,Female,Police,No,,,In Court,OFF6209,146
+670,2021-05-26,Ogun,Abeokuta,Fraud,3,29,Male,Media,No,,,In Court,OFF3860,68
+671,2022-06-30,Kaduna,Zaria,Fraud,5,31,Male,Media,No,,,Closed,OFF4615,140
+672,2021-12-14,Abuja,Wuse,Fraud,4,22,Female,Media,Yes,70.0,Female,In Court,OFF7596,109
+673,2021-04-10,Lagos,Lekki,Burglary,4,39,Female,Citizen,No,,,In Court,OFF5947,5
+674,2020-08-24,Enugu,Nsukka,Theft,3,40,Female,Police,No,,,Closed,OFF2417,133
+675,2021-03-31,Enugu,Awgu,Assault,3,34,Female,Citizen,No,,,Closed,OFF9609,155
+676,2021-11-11,Oyo,Iseyin,Assault,3,40,Male,Media,No,,,In Court,OFF1471,112
+677,2020-01-02,Kano,Ungogo,Fraud,5,29,Male,Citizen,Yes,58.0,Female,Closed,OFF4945,64
+678,2020-11-18,Enugu,Nsukka,Homicide,3,34,Male,Citizen,No,,,In Court,OFF2040,114
+679,2020-10-16,Lagos,Ikeja,Fraud,5,26,Female,Police,Yes,24.0,Male,Open,OFF2340,62
+680,2022-05-07,Lagos,Ikeja,Assault,4,67,Male,Media,No,,,Open,OFF2265,12
+681,2022-06-21,Oyo,Ogbomosho,Burglary,1,52,Male,Police,No,,,Closed,OFF4666,125
+682,2022-05-09,Oyo,Ibadan,Burglary,1,40,Male,Citizen,Yes,67.0,Female,In Court,OFF7767,61
+683,2022-05-01,Enugu,Enugu East,Theft,3,58,Female,Media,Yes,59.0,Female,Closed,OFF8118,144
+684,2021-02-28,Edo,Benin City,Burglary,3,24,Male,Police,No,,,Open,OFF4240,108
+685,2022-03-26,Lagos,Yaba,Theft,3,79,Female,Citizen,No,,,Open,OFF3567,30
+686,2020-06-10,Kano,Ungogo,Theft,2,19,Male,Media,No,,,Closed,OFF9434,71
+687,2022-03-05,Abuja,Garki,Assault,1,33,Male,Citizen,No,,,In Court,OFF7220,165
+688,2020-01-21,Rivers,Port Harcourt,Robbery,2,35,Female,Police,Yes,24.0,Female,Open,OFF4629,117
+689,2020-01-14,Ogun,Ijebu Ode,Robbery,1,75,Female,Police,No,,,In Court,OFF6170,112
+690,2022-06-25,Kano,Ungogo,Homicide,3,54,Male,Media,Yes,24.0,Female,In Court,OFF3803,87
+691,2020-01-08,Delta,Warri,Burglary,4,42,Female,Citizen,Yes,63.0,Female,Closed,OFF3554,81
+692,2021-04-25,Oyo,Ibadan,Theft,1,15,Female,Media,Yes,51.0,Female,Open,OFF2250,153
+693,2020-08-20,Kano,Dala,Burglary,2,15,Male,Police,No,,,Open,OFF5466,119
+694,2022-09-06,Rivers,Bonny,Homicide,3,21,Female,Media,No,,,Closed,OFF8306,137
+695,2022-05-05,Abuja,Wuse,Theft,3,26,Male,Police,Yes,28.0,Female,In Court,OFF7205,122
+696,2022-05-14,Kaduna,Kafanchan,Robbery,2,60,Male,Police,Yes,78.0,Female,Open,OFF5341,9
+697,2021-10-21,Delta,Ughelli,Theft,1,79,Female,Police,No,,,Closed,OFF2823,64
+698,2022-07-01,Edo,Ekpoma,Robbery,5,36,Male,Media,No,,,In Court,OFF4206,88
+699,2021-04-10,Delta,Ughelli,Fraud,5,36,Female,Police,Yes,36.0,Male,Open,OFF7756,76
+700,2022-09-10,Ogun,Abeokuta,Theft,2,19,Female,Citizen,Yes,22.0,Male,Closed,OFF8759,40
+701,2021-06-06,Edo,Auchi,Burglary,5,54,Male,Citizen,Yes,68.0,Female,Open,OFF6307,19
+702,2020-06-22,Ogun,Abeokuta,Theft,1,36,Male,Police,Yes,18.0,Female,Open,OFF6937,18
+703,2021-01-29,Abuja,Garki,Burglary,5,38,Female,Media,Yes,67.0,Female,Open,OFF4186,84
+704,2022-02-15,Enugu,Awgu,Burglary,4,62,Female,Media,Yes,42.0,Male,In Court,OFF1442,148
+705,2020-08-28,Ogun,Ijebu Ode,Robbery,4,34,Female,Police,No,,,Closed,OFF4112,83
+706,2021-12-23,Rivers,Port Harcourt,Fraud,4,71,Male,Media,No,,,Open,OFF8507,76
+707,2021-07-01,Abuja,Wuse,Robbery,3,53,Male,Media,No,,,Open,OFF4572,51
+708,2020-05-28,Lagos,Lekki,Theft,4,57,Male,Citizen,No,,,Closed,OFF8310,152
+709,2022-01-21,Rivers,Port Harcourt,Homicide,3,29,Female,Police,No,,,Open,OFF8521,28
+710,2021-09-09,Lagos,Yaba,Assault,4,48,Female,Police,No,,,Open,OFF3257,65
+711,2021-04-18,Ogun,Abeokuta,Homicide,5,75,Female,Media,No,,,In Court,OFF7972,77
+712,2020-08-12,Kano,Ungogo,Fraud,1,77,Female,Police,Yes,18.0,Male,Closed,OFF1579,106
+713,2020-03-30,Abuja,Wuse,Theft,5,38,Female,Police,No,,,Closed,OFF4823,159
+714,2021-08-12,Kaduna,Kafanchan,Theft,1,49,Male,Police,No,,,Open,OFF7873,180
+715,2021-08-11,Enugu,Nsukka,Theft,2,78,Male,Police,No,,,Closed,OFF9359,69
+716,2022-01-30,Enugu,Nsukka,Fraud,3,76,Female,Citizen,No,,,Closed,OFF4920,34
+717,2022-03-19,Enugu,Enugu East,Theft,5,15,Female,Police,No,,,In Court,OFF1870,58
+718,2022-07-25,Edo,Benin City,Robbery,4,20,Male,Citizen,Yes,43.0,Female,Closed,OFF7456,152
+719,2022-07-09,Kano,Ungogo,Burglary,1,32,Female,Media,Yes,79.0,Female,Open,OFF9073,28
+720,2021-03-11,Abuja,Wuse,Theft,2,62,Male,Citizen,No,,,Closed,OFF9251,86
+721,2020-07-22,Kaduna,Zaria,Burglary,2,26,Female,Citizen,Yes,71.0,Male,Closed,OFF6472,49
+722,2020-05-22,Enugu,Nsukka,Theft,4,27,Male,Media,No,,,Closed,OFF2158,149
+723,2022-08-25,Enugu,Enugu East,Fraud,5,37,Male,Citizen,No,,,In Court,OFF6313,27
+724,2020-07-03,Ogun,Abeokuta,Homicide,1,51,Female,Media,Yes,63.0,Female,Open,OFF3973,60
+725,2021-10-16,Edo,Benin City,Robbery,3,28,Male,Police,No,,,Open,OFF5715,126
+726,2021-02-19,Ogun,Abeokuta,Homicide,2,28,Female,Police,No,,,In Court,OFF3500,139
+727,2021-05-03,Rivers,Port Harcourt,Fraud,3,57,Male,Police,No,,,In Court,OFF9982,50
+728,2021-11-16,Lagos,Lekki,Homicide,2,69,Male,Media,Yes,65.0,Male,In Court,OFF3234,109
+729,2021-12-30,Kaduna,Kafanchan,Robbery,5,79,Female,Police,No,,,In Court,OFF8967,49
+730,2022-04-01,Lagos,Yaba,Theft,4,46,Female,Citizen,No,,,Open,OFF5220,86
+731,2021-01-28,Ogun,Ijebu Ode,Homicide,1,45,Female,Police,No,,,Closed,OFF5429,47
+732,2021-09-20,Enugu,Awgu,Burglary,3,46,Male,Citizen,Yes,62.0,Female,Closed,OFF4253,91
+733,2021-08-16,Oyo,Iseyin,Robbery,1,55,Male,Media,Yes,48.0,Male,In Court,OFF6534,56
+734,2021-10-14,Abuja,Maitama,Theft,1,21,Male,Citizen,No,,,Open,OFF5714,77
+735,2021-02-04,Kaduna,Kaduna North,Assault,5,32,Female,Media,Yes,25.0,Male,Closed,OFF6696,53
+736,2022-02-28,Abuja,Maitama,Robbery,5,76,Male,Citizen,No,,,Open,OFF6747,178
+737,2020-06-25,Kaduna,Kafanchan,Assault,1,21,Female,Police,No,,,Closed,OFF6394,74
+738,2021-06-27,Delta,Asaba,Fraud,1,63,Female,Media,Yes,40.0,Female,Closed,OFF6363,108
+739,2021-01-21,Lagos,Ikeja,Fraud,3,40,Female,Police,Yes,80.0,Female,Closed,OFF7576,165
+740,2022-03-30,Kano,Dala,Fraud,3,71,Female,Citizen,Yes,78.0,Male,Closed,OFF1637,36
+741,2021-08-23,Kano,Ungogo,Fraud,2,44,Female,Police,No,,,In Court,OFF3633,128
+742,2020-01-12,Delta,Ughelli,Theft,5,15,Male,Citizen,No,,,Open,OFF4677,97
+743,2021-05-04,Kano,Tarauni,Burglary,5,25,Male,Media,No,,,In Court,OFF7261,47
+744,2021-09-16,Delta,Asaba,Theft,2,79,Male,Citizen,Yes,74.0,Female,In Court,OFF4372,96
+745,2021-05-27,Enugu,Awgu,Fraud,5,62,Male,Citizen,No,,,In Court,OFF5196,91
+746,2022-08-21,Kaduna,Kafanchan,Fraud,2,31,Male,Media,No,,,Closed,OFF3146,86
+747,2022-05-22,Edo,Benin City,Homicide,4,21,Male,Citizen,No,,,Closed,OFF9247,64
+748,2021-04-01,Rivers,Obio,Assault,5,20,Male,Citizen,No,,,In Court,OFF6299,118
+749,2020-02-24,Enugu,Nsukka,Homicide,5,17,Female,Police,Yes,23.0,Female,Closed,OFF1873,165
+750,2020-02-17,Delta,Asaba,Theft,4,63,Female,Media,Yes,61.0,Male,Closed,OFF4541,96
+751,2020-12-22,Enugu,Enugu East,Homicide,5,57,Female,Citizen,No,,,Open,OFF6728,114
+752,2022-09-04,Kano,Dala,Homicide,2,34,Female,Police,Yes,48.0,Female,In Court,OFF5308,37
+753,2021-02-20,Enugu,Enugu East,Robbery,2,69,Male,Media,Yes,34.0,Female,Closed,OFF9675,79
+754,2022-06-25,Enugu,Enugu East,Fraud,1,44,Female,Citizen,No,,,In Court,OFF5004,139
+755,2022-08-21,Lagos,Ikeja,Theft,3,59,Male,Police,No,,,Open,OFF3947,130
+756,2021-09-19,Rivers,Port Harcourt,Homicide,1,73,Female,Media,Yes,35.0,Male,Closed,OFF9321,118
+757,2021-09-15,Kano,Dala,Homicide,5,47,Male,Police,No,,,Open,OFF3945,16
+758,2021-09-28,Delta,Asaba,Robbery,4,48,Female,Police,No,,,Closed,OFF7628,47
+759,2022-05-14,Oyo,Ogbomosho,Fraud,5,21,Male,Media,Yes,63.0,Male,Open,OFF7057,15
+760,2022-08-03,Delta,Warri,Fraud,5,61,Female,Police,Yes,17.0,Male,In Court,OFF8301,134
+761,2020-05-22,Delta,Warri,Assault,2,60,Male,Media,No,,,Open,OFF7376,163
+762,2021-09-30,Abuja,Garki,Assault,2,18,Female,Police,No,,,Closed,OFF8033,158
+763,2020-04-28,Enugu,Enugu East,Homicide,3,47,Female,Police,No,,,Closed,OFF4965,124
+764,2020-06-06,Lagos,Yaba,Burglary,2,30,Male,Police,Yes,70.0,Male,Closed,OFF5368,84
+765,2020-10-10,Ogun,Ijebu Ode,Assault,3,18,Female,Citizen,Yes,31.0,Female,Open,OFF4360,140
+766,2020-03-01,Edo,Auchi,Fraud,1,33,Female,Media,Yes,17.0,Female,In Court,OFF4073,63
+767,2021-09-23,Ogun,Sagamu,Burglary,3,56,Female,Citizen,Yes,63.0,Male,Closed,OFF3806,63
+768,2022-06-30,Abuja,Wuse,Fraud,3,80,Male,Media,No,,,In Court,OFF2199,29
+769,2020-02-19,Kaduna,Zaria,Fraud,1,60,Female,Citizen,No,,,In Court,OFF7015,159
+770,2021-09-26,Abuja,Garki,Assault,5,75,Male,Police,Yes,74.0,Female,In Court,OFF8482,76
+771,2022-02-14,Kano,Ungogo,Burglary,2,44,Male,Police,Yes,32.0,Female,Open,OFF1158,22
+772,2021-10-16,Kano,Ungogo,Robbery,5,70,Male,Media,Yes,64.0,Female,In Court,OFF4806,168
+773,2021-01-23,Kano,Ungogo,Assault,5,78,Female,Citizen,Yes,60.0,Male,Closed,OFF4938,72
+774,2022-04-02,Kano,Ungogo,Burglary,3,78,Male,Police,Yes,28.0,Female,Closed,OFF1594,65
+775,2021-07-05,Edo,Ekpoma,Assault,1,27,Male,Citizen,No,,,Closed,OFF1953,107
+776,2022-06-28,Edo,Auchi,Assault,2,36,Male,Citizen,No,,,Closed,OFF4611,78
+777,2022-08-07,Kano,Dala,Theft,4,19,Female,Media,No,,,In Court,OFF9547,119
+778,2022-03-23,Ogun,Sagamu,Burglary,2,69,Female,Media,No,,,Closed,OFF9104,46
+779,2020-09-26,Rivers,Port Harcourt,Assault,2,75,Male,Citizen,No,,,Open,OFF5735,151
+780,2021-12-12,Lagos,Yaba,Assault,1,74,Male,Police,Yes,54.0,Female,In Court,OFF3110,43
+781,2020-09-12,Delta,Warri,Homicide,4,69,Male,Citizen,No,,,Closed,OFF7621,61
+782,2022-03-22,Kaduna,Kafanchan,Robbery,3,22,Female,Police,Yes,45.0,Female,Open,OFF5352,141
+783,2021-06-27,Enugu,Nsukka,Robbery,5,46,Male,Media,Yes,31.0,Male,Closed,OFF1613,11
+784,2021-07-24,Kano,Ungogo,Assault,2,39,Female,Police,Yes,26.0,Female,Closed,OFF9503,64
+785,2020-09-28,Ogun,Abeokuta,Assault,3,42,Male,Police,Yes,18.0,Male,In Court,OFF5869,165
+786,2020-03-13,Delta,Asaba,Burglary,3,20,Female,Media,No,,,In Court,OFF7593,76
+787,2021-07-19,Kaduna,Zaria,Fraud,1,54,Male,Media,No,,,In Court,OFF6377,102
+788,2022-04-08,Enugu,Nsukka,Fraud,2,51,Male,Citizen,No,,,Closed,OFF1902,97
+789,2020-12-04,Kaduna,Kaduna North,Robbery,1,59,Female,Police,No,,,In Court,OFF4063,7
+790,2022-08-05,Delta,Ughelli,Fraud,4,38,Female,Police,No,,,In Court,OFF7819,139
+791,2021-09-20,Lagos,Yaba,Burglary,2,61,Female,Citizen,Yes,26.0,Female,Closed,OFF3401,24
+792,2020-08-04,Ogun,Ijebu Ode,Homicide,1,44,Male,Citizen,No,,,Closed,OFF7044,101
+793,2021-05-06,Lagos,Lekki,Assault,2,54,Female,Citizen,No,,,Closed,OFF8215,116
+794,2020-02-17,Enugu,Awgu,Assault,2,30,Female,Citizen,No,,,Closed,OFF1594,168
+795,2021-05-28,Rivers,Obio,Homicide,3,65,Male,Citizen,No,,,In Court,OFF3052,103
+796,2020-08-18,Abuja,Wuse,Burglary,3,56,Female,Media,No,,,Closed,OFF8557,21
+797,2020-04-22,Kano,Tarauni,Burglary,4,29,Male,Police,Yes,19.0,Female,Open,OFF3091,101
+798,2020-04-09,Rivers,Bonny,Homicide,1,29,Male,Police,Yes,33.0,Male,Open,OFF8707,32
+799,2022-07-24,Abuja,Wuse,Burglary,2,51,Male,Citizen,Yes,18.0,Female,In Court,OFF6304,98
+800,2020-05-09,Ogun,Abeokuta,Fraud,1,55,Female,Citizen,No,,,Open,OFF8415,43
+801,2021-09-24,Edo,Auchi,Robbery,1,52,Female,Police,Yes,24.0,Female,Open,OFF4218,18
+802,2021-02-05,Kano,Tarauni,Robbery,4,33,Male,Police,Yes,78.0,Male,In Court,OFF4943,59
+803,2021-06-22,Edo,Ekpoma,Theft,1,47,Female,Citizen,No,,,Closed,OFF6743,157
+804,2022-06-11,Ogun,Sagamu,Theft,5,60,Male,Media,No,,,Closed,OFF4636,147
+805,2021-03-22,Rivers,Obio,Homicide,2,64,Female,Media,Yes,27.0,Male,Open,OFF3398,136
+806,2021-10-23,Kano,Tarauni,Assault,5,53,Male,Citizen,No,,,Open,OFF8704,48
+807,2020-05-07,Oyo,Iseyin,Burglary,2,80,Male,Media,Yes,22.0,Female,Open,OFF5344,82
+808,2022-07-18,Abuja,Wuse,Burglary,2,62,Female,Citizen,No,,,In Court,OFF9062,117
+809,2021-06-01,Abuja,Garki,Fraud,4,69,Female,Media,Yes,52.0,Female,In Court,OFF1621,156
+810,2022-02-25,Delta,Ughelli,Assault,4,76,Male,Citizen,Yes,71.0,Female,Open,OFF6894,59
+811,2020-06-06,Rivers,Port Harcourt,Homicide,4,68,Female,Citizen,No,,,Closed,OFF9457,33
+812,2020-08-27,Oyo,Iseyin,Theft,3,46,Female,Citizen,No,,,In Court,OFF6607,53
+813,2021-07-03,Rivers,Obio,Robbery,1,65,Female,Citizen,No,,,In Court,OFF4649,175
+814,2021-07-07,Delta,Ughelli,Robbery,5,46,Male,Media,No,,,Closed,OFF9451,33
+815,2021-02-15,Kano,Tarauni,Homicide,4,41,Female,Citizen,No,,,In Court,OFF1390,24
+816,2021-08-15,Rivers,Port Harcourt,Assault,5,72,Male,Citizen,Yes,68.0,Male,Closed,OFF8335,6
+817,2021-07-05,Kaduna,Zaria,Theft,1,28,Male,Citizen,Yes,44.0,Female,Closed,OFF6299,138
+818,2020-06-04,Enugu,Awgu,Theft,5,66,Female,Police,Yes,54.0,Male,Open,OFF1091,131
+819,2020-02-29,Abuja,Wuse,Burglary,4,60,Male,Police,No,,,Open,OFF9409,109
+820,2020-04-20,Rivers,Obio,Homicide,3,23,Male,Media,Yes,43.0,Male,Closed,OFF8797,50
+821,2020-01-20,Edo,Ekpoma,Homicide,5,70,Female,Media,Yes,44.0,Female,Closed,OFF1382,157
+822,2020-08-13,Abuja,Garki,Assault,5,24,Male,Citizen,No,,,In Court,OFF5203,18
+823,2021-02-07,Delta,Ughelli,Assault,5,19,Male,Police,Yes,65.0,Female,Open,OFF1774,110
+824,2022-04-27,Enugu,Awgu,Assault,1,46,Male,Media,Yes,73.0,Female,Open,OFF3445,48
+825,2022-02-28,Enugu,Enugu East,Fraud,5,61,Female,Police,No,,,Closed,OFF7060,142
+826,2021-01-26,Kaduna,Zaria,Robbery,3,65,Female,Media,No,,,In Court,OFF9600,25
+827,2020-05-03,Enugu,Awgu,Homicide,4,45,Male,Media,No,,,Closed,OFF2037,43
+828,2020-09-05,Oyo,Ibadan,Theft,3,74,Male,Media,Yes,62.0,Male,In Court,OFF3127,37
+829,2021-11-02,Abuja,Garki,Homicide,4,25,Female,Media,No,,,In Court,OFF6859,81
+830,2022-06-05,Rivers,Port Harcourt,Homicide,4,53,Female,Police,No,,,Open,OFF2412,148
+831,2020-04-15,Kaduna,Zaria,Homicide,1,50,Female,Police,Yes,57.0,Male,Closed,OFF2073,148
+832,2021-03-16,Ogun,Sagamu,Fraud,2,53,Female,Media,Yes,60.0,Female,Open,OFF5394,37
+833,2022-06-05,Kaduna,Zaria,Burglary,5,59,Male,Police,Yes,58.0,Female,In Court,OFF7374,70
+834,2020-09-05,Lagos,Lekki,Robbery,2,73,Male,Media,Yes,26.0,Female,Closed,OFF8379,23
+835,2022-07-30,Ogun,Abeokuta,Theft,2,67,Male,Police,No,,,Open,OFF2973,179
+836,2022-03-06,Ogun,Ijebu Ode,Theft,4,67,Female,Media,Yes,53.0,Male,Closed,OFF4889,144
+837,2022-02-27,Delta,Ughelli,Theft,1,78,Male,Media,Yes,51.0,Female,Open,OFF5320,50
+838,2021-05-12,Enugu,Nsukka,Homicide,1,54,Female,Police,No,,,Open,OFF9859,139
+839,2020-11-15,Abuja,Maitama,Theft,5,16,Male,Citizen,Yes,53.0,Male,In Court,OFF8953,168
+840,2021-04-06,Kano,Tarauni,Robbery,2,56,Male,Citizen,No,,,In Court,OFF3144,8
+841,2022-06-11,Abuja,Maitama,Theft,3,31,Male,Citizen,No,,,Open,OFF5756,107
+842,2021-09-22,Kano,Dala,Burglary,2,31,Male,Citizen,No,,,Open,OFF9623,7
+843,2021-02-01,Kaduna,Kafanchan,Robbery,5,26,Male,Police,Yes,44.0,Male,In Court,OFF1409,73
+844,2021-03-08,Lagos,Ikeja,Homicide,4,27,Male,Media,No,,,Open,OFF1591,5
+845,2020-02-28,Kaduna,Kaduna North,Theft,3,35,Female,Media,Yes,60.0,Female,Open,OFF7252,104
+846,2022-02-11,Oyo,Ibadan,Homicide,5,29,Male,Media,No,,,Closed,OFF4542,156
+847,2020-08-06,Oyo,Iseyin,Theft,1,42,Male,Citizen,Yes,43.0,Male,Closed,OFF3636,22
+848,2020-01-15,Kaduna,Zaria,Assault,2,29,Male,Media,Yes,53.0,Male,Open,OFF4675,174
+849,2021-02-26,Oyo,Ibadan,Robbery,1,39,Female,Police,No,,,Closed,OFF6256,33
+850,2020-11-12,Abuja,Garki,Burglary,1,71,Male,Citizen,Yes,36.0,Male,In Court,OFF3612,64
+851,2022-04-14,Oyo,Ogbomosho,Theft,2,29,Male,Citizen,Yes,57.0,Female,In Court,OFF8357,154
+852,2020-04-09,Kaduna,Kaduna North,Robbery,1,62,Female,Citizen,Yes,15.0,Female,Open,OFF7092,31
+853,2020-05-09,Rivers,Obio,Burglary,1,35,Male,Citizen,No,,,Closed,OFF8888,57
+854,2020-10-04,Oyo,Ibadan,Burglary,1,69,Male,Police,No,,,Open,OFF7121,120
+855,2022-07-31,Enugu,Awgu,Assault,1,50,Male,Media,Yes,38.0,Female,In Court,OFF3778,24
+856,2020-06-18,Lagos,Ikeja,Fraud,5,56,Female,Citizen,Yes,33.0,Male,Closed,OFF5759,22
+857,2022-05-09,Edo,Auchi,Fraud,1,16,Male,Police,Yes,70.0,Male,Closed,OFF1049,89
+858,2021-07-03,Enugu,Nsukka,Theft,3,68,Female,Media,No,,,In Court,OFF9179,147
+859,2022-09-05,Lagos,Yaba,Burglary,2,69,Female,Citizen,No,,,Open,OFF4503,173
+860,2021-05-13,Abuja,Wuse,Assault,4,80,Female,Citizen,No,,,In Court,OFF2164,99
+861,2021-02-18,Kaduna,Kafanchan,Homicide,4,75,Female,Media,Yes,53.0,Female,In Court,OFF9607,23
+862,2021-08-30,Kaduna,Kafanchan,Fraud,5,63,Female,Police,No,,,In Court,OFF4784,20
+863,2020-05-12,Delta,Asaba,Burglary,2,32,Male,Police,No,,,Closed,OFF8102,92
+864,2020-09-27,Oyo,Ibadan,Fraud,5,70,Male,Citizen,No,,,Open,OFF3635,25
+865,2022-03-02,Edo,Auchi,Robbery,2,48,Male,Citizen,Yes,60.0,Male,Open,OFF9382,74
+866,2021-03-15,Delta,Asaba,Fraud,2,50,Male,Citizen,Yes,30.0,Female,In Court,OFF7611,42
+867,2021-09-09,Lagos,Lekki,Assault,3,15,Female,Police,No,,,Open,OFF2768,165
+868,2022-01-16,Kaduna,Kaduna North,Burglary,1,67,Male,Police,No,,,In Court,OFF5329,141
+869,2022-05-09,Kano,Tarauni,Fraud,4,54,Female,Media,Yes,30.0,Female,Closed,OFF3608,100
+870,2021-06-24,Ogun,Ijebu Ode,Fraud,3,80,Female,Police,Yes,20.0,Female,Open,OFF6875,41
+871,2021-12-14,Ogun,Sagamu,Assault,5,43,Female,Citizen,Yes,80.0,Female,Open,OFF2015,35
+872,2020-01-10,Enugu,Enugu East,Theft,1,38,Female,Citizen,Yes,67.0,Female,Open,OFF1521,9
+873,2021-02-15,Kaduna,Kafanchan,Theft,5,37,Female,Citizen,No,,,Closed,OFF4362,48
+874,2021-11-19,Ogun,Sagamu,Theft,4,67,Male,Police,No,,,Closed,OFF9770,165
+875,2022-03-18,Oyo,Iseyin,Robbery,3,60,Male,Police,Yes,44.0,Male,Closed,OFF5027,137
+876,2020-08-05,Enugu,Enugu East,Burglary,2,45,Female,Citizen,Yes,48.0,Female,In Court,OFF4700,176
+877,2020-07-28,Kano,Ungogo,Fraud,5,39,Male,Police,No,,,Closed,OFF8382,65
+878,2022-05-08,Abuja,Maitama,Assault,3,67,Male,Police,Yes,51.0,Male,In Court,OFF1581,130
+879,2020-06-25,Edo,Ekpoma,Homicide,1,48,Female,Citizen,No,,,In Court,OFF1069,75
+880,2022-07-05,Abuja,Maitama,Burglary,2,44,Female,Citizen,No,,,In Court,OFF4084,136
+881,2020-11-22,Enugu,Enugu East,Fraud,4,53,Female,Citizen,No,,,In Court,OFF4034,14
+882,2020-09-13,Enugu,Nsukka,Robbery,1,39,Female,Citizen,Yes,37.0,Female,In Court,OFF9638,90
+883,2020-08-11,Delta,Warri,Theft,2,43,Female,Media,Yes,17.0,Female,Open,OFF5812,45
+884,2021-04-13,Lagos,Lekki,Theft,5,69,Male,Citizen,Yes,40.0,Male,Open,OFF7468,133
+885,2021-05-29,Oyo,Ogbomosho,Theft,5,25,Female,Citizen,No,,,In Court,OFF3294,35
+886,2020-08-08,Oyo,Ibadan,Theft,4,57,Female,Media,Yes,43.0,Male,Closed,OFF5222,144
+887,2020-10-09,Oyo,Ibadan,Homicide,1,71,Male,Citizen,Yes,40.0,Female,In Court,OFF4666,21
+888,2021-08-21,Abuja,Maitama,Assault,2,15,Male,Citizen,Yes,59.0,Female,Open,OFF9070,121
+889,2021-07-28,Edo,Auchi,Assault,2,73,Male,Police,Yes,80.0,Male,In Court,OFF4129,83
+890,2022-08-23,Oyo,Ibadan,Homicide,1,34,Male,Citizen,No,,,In Court,OFF7598,90
+891,2022-04-24,Lagos,Ikeja,Theft,1,68,Female,Media,No,,,In Court,OFF8130,64
+892,2021-05-29,Ogun,Sagamu,Burglary,1,43,Male,Media,No,,,Closed,OFF3401,56
+893,2021-04-26,Oyo,Ibadan,Theft,4,67,Female,Media,Yes,34.0,Male,Closed,OFF4282,160
+894,2020-07-30,Abuja,Garki,Burglary,5,25,Female,Media,Yes,24.0,Male,Closed,OFF4893,178
+895,2020-11-09,Abuja,Maitama,Assault,4,41,Male,Media,Yes,48.0,Male,Closed,OFF7127,117
+896,2020-11-24,Kano,Tarauni,Robbery,3,68,Female,Police,Yes,46.0,Female,Open,OFF9944,111
+897,2022-06-03,Ogun,Sagamu,Theft,3,49,Female,Citizen,Yes,50.0,Female,In Court,OFF2283,9
+898,2020-07-20,Oyo,Ogbomosho,Fraud,1,23,Female,Police,Yes,30.0,Female,Open,OFF5670,41
+899,2020-02-26,Kaduna,Kafanchan,Homicide,4,66,Female,Police,No,,,Open,OFF8462,110
+900,2022-08-31,Kaduna,Kaduna North,Burglary,5,30,Female,Media,Yes,50.0,Male,Closed,OFF4451,169
+901,2020-12-20,Edo,Benin City,Fraud,1,56,Male,Police,No,,,Open,OFF8058,144
+902,2022-03-29,Edo,Benin City,Fraud,1,31,Female,Media,Yes,45.0,Male,Open,OFF5119,34
+903,2020-09-11,Kaduna,Kaduna North,Assault,1,54,Male,Citizen,Yes,42.0,Male,In Court,OFF7226,118
+904,2021-06-16,Lagos,Lekki,Robbery,3,38,Female,Media,Yes,35.0,Female,Closed,OFF4171,40
+905,2022-08-31,Ogun,Ijebu Ode,Burglary,3,24,Female,Media,No,,,Closed,OFF8646,79
+906,2022-06-03,Enugu,Nsukka,Homicide,5,49,Male,Police,No,,,In Court,OFF5742,93
+907,2022-06-25,Lagos,Lekki,Robbery,5,41,Male,Police,Yes,73.0,Female,Closed,OFF3258,51
+908,2021-07-31,Kano,Tarauni,Robbery,4,57,Male,Media,Yes,18.0,Male,Open,OFF8497,61
+909,2022-03-21,Lagos,Lekki,Robbery,3,51,Male,Police,Yes,70.0,Female,Open,OFF6150,33
+910,2020-08-02,Enugu,Enugu East,Burglary,2,64,Male,Police,No,,,In Court,OFF8458,147
+911,2020-10-27,Rivers,Port Harcourt,Robbery,2,27,Male,Police,No,,,Open,OFF7739,118
+912,2020-04-27,Kano,Tarauni,Robbery,3,56,Female,Citizen,Yes,24.0,Male,Closed,OFF9782,12
+913,2020-01-31,Delta,Ughelli,Fraud,1,76,Female,Media,No,,,Closed,OFF2539,67
+914,2020-11-01,Rivers,Bonny,Fraud,3,79,Female,Media,No,,,In Court,OFF6441,43
+915,2021-11-10,Lagos,Ikeja,Assault,3,46,Female,Media,Yes,63.0,Male,In Court,OFF2071,60
+916,2020-07-02,Rivers,Port Harcourt,Fraud,1,18,Female,Media,Yes,33.0,Female,Closed,OFF5646,45
+917,2021-02-21,Oyo,Ibadan,Robbery,3,76,Male,Police,Yes,38.0,Female,In Court,OFF4955,51
+918,2020-07-27,Edo,Benin City,Burglary,4,61,Female,Police,Yes,63.0,Male,Open,OFF8957,136
+919,2020-05-22,Abuja,Maitama,Theft,1,51,Female,Media,No,,,Closed,OFF1801,28
+920,2021-12-30,Kaduna,Kafanchan,Assault,3,73,Female,Media,No,,,Closed,OFF3830,104
+921,2020-09-22,Kaduna,Zaria,Robbery,3,32,Female,Citizen,No,,,Closed,OFF9792,95
+922,2022-06-25,Oyo,Ogbomosho,Burglary,5,45,Male,Media,No,,,In Court,OFF9061,129
+923,2020-11-16,Abuja,Garki,Homicide,1,79,Male,Citizen,No,,,In Court,OFF3055,28
+924,2022-05-08,Kaduna,Kafanchan,Assault,3,35,Male,Police,No,,,In Court,OFF5627,115
+925,2020-05-23,Ogun,Abeokuta,Assault,4,57,Male,Media,No,,,Closed,OFF9011,61
+926,2021-11-28,Kano,Ungogo,Burglary,2,46,Male,Police,No,,,Open,OFF4589,105
+927,2021-10-09,Abuja,Wuse,Burglary,4,51,Male,Police,No,,,Open,OFF9555,177
+928,2022-08-29,Ogun,Ijebu Ode,Assault,5,39,Male,Media,No,,,In Court,OFF6422,130
+929,2020-09-16,Ogun,Abeokuta,Fraud,2,44,Female,Media,No,,,Closed,OFF2131,9
+930,2022-05-28,Enugu,Enugu East,Assault,1,69,Male,Police,No,,,Closed,OFF5360,155
+931,2022-06-27,Lagos,Ikeja,Homicide,2,21,Female,Police,No,,,In Court,OFF5477,168
+932,2021-01-30,Ogun,Abeokuta,Burglary,5,41,Male,Police,Yes,32.0,Male,Closed,OFF3609,102
+933,2022-01-15,Kano,Dala,Assault,4,47,Female,Media,No,,,Open,OFF8879,70
+934,2021-07-13,Enugu,Awgu,Robbery,4,74,Female,Media,Yes,23.0,Male,Open,OFF3037,105
+935,2022-08-05,Lagos,Yaba,Fraud,3,21,Male,Police,Yes,25.0,Male,In Court,OFF8795,101
+936,2021-11-29,Ogun,Abeokuta,Theft,5,63,Female,Media,No,,,Open,OFF8653,156
+937,2022-01-29,Edo,Auchi,Theft,1,17,Male,Media,Yes,71.0,Male,Closed,OFF4083,94
+938,2021-01-30,Rivers,Port Harcourt,Theft,1,36,Male,Media,Yes,62.0,Female,Open,OFF2776,79
+939,2020-02-26,Kaduna,Zaria,Homicide,4,60,Female,Citizen,Yes,25.0,Female,Open,OFF9166,82
+940,2020-04-15,Oyo,Ogbomosho,Robbery,3,57,Male,Media,Yes,54.0,Female,Closed,OFF4534,156
+941,2021-01-02,Rivers,Bonny,Burglary,2,40,Male,Police,Yes,58.0,Female,Open,OFF4462,151
+942,2022-07-21,Edo,Benin City,Burglary,4,59,Female,Citizen,No,,,Closed,OFF2286,114
+943,2020-11-28,Rivers,Port Harcourt,Theft,2,60,Female,Citizen,No,,,In Court,OFF9887,123
+944,2021-06-26,Oyo,Ogbomosho,Robbery,1,57,Male,Police,Yes,45.0,Female,Closed,OFF1515,170
+945,2021-02-11,Edo,Auchi,Burglary,2,65,Female,Police,No,,,In Court,OFF8879,120
+946,2021-02-15,Ogun,Sagamu,Burglary,1,47,Male,Citizen,Yes,49.0,Male,Open,OFF6315,118
+947,2021-05-08,Delta,Asaba,Fraud,4,42,Female,Media,Yes,76.0,Male,Open,OFF2235,26
+948,2022-08-06,Oyo,Ogbomosho,Robbery,3,44,Male,Citizen,No,,,Open,OFF7205,86
+949,2020-09-30,Kaduna,Zaria,Theft,3,48,Male,Police,No,,,Closed,OFF6151,114
+950,2021-04-08,Abuja,Garki,Theft,4,69,Female,Media,Yes,22.0,Female,Closed,OFF3000,79
+951,2022-03-11,Delta,Warri,Burglary,3,44,Male,Media,Yes,41.0,Female,Open,OFF5231,20
+952,2021-03-13,Kaduna,Kaduna North,Burglary,5,52,Male,Police,No,,,Closed,OFF7109,27
+953,2020-03-30,Rivers,Bonny,Theft,5,61,Male,Police,No,,,In Court,OFF5509,106
+954,2021-09-11,Edo,Auchi,Burglary,2,23,Male,Media,Yes,40.0,Female,Closed,OFF9398,107
+955,2021-12-25,Ogun,Sagamu,Fraud,3,29,Male,Citizen,Yes,68.0,Male,In Court,OFF2887,132
+956,2021-05-31,Kaduna,Kafanchan,Homicide,3,65,Male,Citizen,Yes,78.0,Male,Closed,OFF6193,150
+957,2021-05-12,Delta,Warri,Homicide,3,50,Male,Citizen,Yes,35.0,Male,In Court,OFF9556,154
+958,2022-01-03,Kaduna,Kaduna North,Assault,1,43,Male,Media,Yes,54.0,Male,In Court,OFF7314,121
+959,2022-09-08,Rivers,Bonny,Assault,4,40,Female,Media,No,,,In Court,OFF3449,14
+960,2021-09-29,Enugu,Nsukka,Burglary,1,33,Female,Media,No,,,Open,OFF3911,89
+961,2021-06-29,Enugu,Nsukka,Fraud,2,26,Female,Citizen,No,,,Open,OFF2578,49
+962,2022-03-13,Kaduna,Kaduna North,Burglary,4,56,Female,Police,No,,,Open,OFF4364,94
+963,2021-05-10,Oyo,Ogbomosho,Burglary,3,40,Male,Police,Yes,38.0,Female,In Court,OFF9487,72
+964,2020-12-09,Edo,Benin City,Assault,3,72,Male,Media,Yes,25.0,Male,Closed,OFF5905,70
+965,2021-03-03,Rivers,Port Harcourt,Robbery,2,55,Male,Media,No,,,Closed,OFF6906,150
+966,2020-09-03,Kaduna,Kaduna North,Homicide,2,21,Female,Police,Yes,51.0,Male,Open,OFF5648,148
+967,2020-08-08,Rivers,Bonny,Homicide,3,70,Male,Citizen,No,,,Open,OFF1961,58
+968,2021-12-21,Edo,Ekpoma,Homicide,5,36,Male,Media,No,,,In Court,OFF6819,41
+969,2020-03-06,Rivers,Obio,Theft,1,24,Male,Police,Yes,22.0,Male,Open,OFF5414,108
+970,2020-02-06,Kano,Ungogo,Homicide,3,59,Female,Citizen,Yes,70.0,Male,In Court,OFF2669,40
+971,2021-09-21,Lagos,Ikeja,Robbery,2,52,Female,Police,Yes,43.0,Female,In Court,OFF5616,15
+972,2021-10-11,Oyo,Iseyin,Homicide,2,33,Female,Media,No,,,Open,OFF8642,130
+973,2021-02-18,Lagos,Yaba,Theft,5,60,Male,Citizen,No,,,In Court,OFF7028,44
+974,2022-06-13,Kaduna,Kaduna North,Fraud,5,30,Male,Citizen,Yes,44.0,Female,In Court,OFF8380,180
+975,2022-08-28,Rivers,Obio,Homicide,4,70,Male,Police,No,,,In Court,OFF4641,80
+976,2020-10-18,Kano,Tarauni,Fraud,1,15,Male,Citizen,No,,,Closed,OFF6023,159
+977,2022-02-27,Lagos,Lekki,Homicide,1,71,Female,Citizen,No,,,In Court,OFF2135,95
+978,2020-12-25,Lagos,Yaba,Burglary,5,59,Male,Citizen,No,,,In Court,OFF7778,38
+979,2020-11-06,Oyo,Ogbomosho,Theft,3,39,Female,Police,No,,,Closed,OFF9302,46
+980,2021-04-20,Delta,Asaba,Homicide,1,65,Male,Police,Yes,42.0,Female,Open,OFF6487,165
+981,2020-09-18,Oyo,Ogbomosho,Assault,2,65,Female,Citizen,Yes,54.0,Male,Open,OFF8180,130
+982,2021-07-27,Lagos,Yaba,Theft,2,42,Female,Police,Yes,52.0,Female,Closed,OFF5127,62
+983,2020-03-16,Delta,Asaba,Theft,3,54,Male,Citizen,Yes,67.0,Female,Closed,OFF4643,89
+984,2022-01-17,Delta,Warri,Theft,4,25,Female,Police,No,,,Open,OFF9024,53
+985,2022-03-03,Edo,Auchi,Robbery,3,52,Female,Police,No,,,Open,OFF8130,34
+986,2020-09-19,Kaduna,Kafanchan,Homicide,4,75,Female,Police,Yes,28.0,Female,Open,OFF9474,129
+987,2021-09-03,Rivers,Obio,Burglary,3,48,Male,Citizen,Yes,49.0,Male,In Court,OFF3321,176
+988,2020-02-06,Oyo,Iseyin,Robbery,2,63,Female,Media,Yes,63.0,Male,Open,OFF2094,62
+989,2022-05-27,Oyo,Ibadan,Theft,4,30,Male,Police,No,,,Open,OFF3725,66
+990,2022-01-13,Kano,Ungogo,Homicide,5,33,Male,Police,No,,,Closed,OFF8084,155
+991,2021-09-13,Delta,Asaba,Burglary,3,43,Female,Citizen,Yes,16.0,Male,In Court,OFF6665,72
+992,2020-03-27,Edo,Ekpoma,Fraud,3,29,Male,Police,Yes,42.0,Female,Closed,OFF8517,87
+993,2022-09-02,Delta,Warri,Homicide,3,36,Female,Police,Yes,52.0,Male,Closed,OFF7164,161
+994,2021-07-19,Delta,Warri,Theft,5,26,Female,Citizen,No,,,In Court,OFF5338,138
+995,2020-11-16,Abuja,Garki,Homicide,5,52,Female,Media,No,,,Closed,OFF9708,60
+996,2020-01-06,Edo,Benin City,Homicide,3,65,Female,Media,No,,,In Court,OFF2771,78
+997,2020-09-23,Enugu,Awgu,Fraud,5,48,Female,Media,Yes,38.0,Male,Closed,OFF5851,114
+998,2020-05-01,Kaduna,Kaduna North,Theft,4,55,Male,Media,No,,,Open,OFF6183,137
+999,2022-04-22,Enugu,Nsukka,Theft,4,47,Female,Citizen,No,,,Open,OFF6392,104
+1000,2022-06-19,Edo,Auchi,Robbery,3,40,Male,Media,Yes,16.0,Female,Closed,OFF5243,67
+1001,2021-07-03,Edo,Auchi,Fraud,1,19,Male,Police,Yes,78.0,Female,In Court,OFF7448,47
+1002,2020-08-29,Rivers,Port Harcourt,Burglary,3,63,Female,Citizen,No,,,In Court,OFF4459,112
+1003,2020-05-28,Ogun,Abeokuta,Robbery,4,25,Female,Citizen,No,,,In Court,OFF1187,91
+1004,2022-07-31,Oyo,Ogbomosho,Fraud,1,59,Male,Police,Yes,73.0,Female,Closed,OFF5258,34
+1005,2021-02-22,Enugu,Nsukka,Burglary,3,70,Female,Citizen,No,,,Closed,OFF2969,17
+1006,2020-07-02,Rivers,Port Harcourt,Robbery,2,63,Male,Citizen,No,,,Open,OFF5468,130
+1007,2022-08-30,Delta,Ughelli,Homicide,4,68,Female,Citizen,Yes,47.0,Male,In Court,OFF1466,29
+1008,2021-08-10,Kano,Dala,Theft,5,28,Male,Citizen,No,,,In Court,OFF4701,47
+1009,2022-05-29,Lagos,Ikeja,Assault,1,17,Male,Police,No,,,Open,OFF7347,138
+1010,2021-12-14,Delta,Asaba,Theft,5,30,Female,Media,Yes,39.0,Male,In Court,OFF4461,39
+1011,2020-11-24,Enugu,Enugu East,Fraud,4,35,Male,Media,No,,,Open,OFF7031,49
+1012,2021-02-06,Lagos,Lekki,Assault,3,74,Male,Citizen,Yes,24.0,Male,Closed,OFF8618,29
+1013,2020-01-11,Oyo,Ibadan,Homicide,2,71,Female,Media,No,,,Open,OFF3470,124
+1014,2021-02-12,Enugu,Nsukka,Assault,3,53,Male,Media,Yes,32.0,Male,Closed,OFF5212,157
+1015,2020-09-26,Kaduna,Kaduna North,Burglary,2,60,Male,Media,Yes,25.0,Male,Closed,OFF3513,82
+1016,2022-03-23,Delta,Asaba,Burglary,4,43,Female,Police,Yes,59.0,Female,Open,OFF3904,53
+1017,2021-11-27,Abuja,Garki,Fraud,4,25,Female,Police,Yes,61.0,Female,Open,OFF5234,12
+1018,2022-03-12,Delta,Warri,Assault,3,20,Female,Citizen,Yes,65.0,Male,Open,OFF3322,164
+1019,2021-10-05,Edo,Benin City,Theft,5,48,Male,Media,Yes,52.0,Female,In Court,OFF4637,47
+1020,2021-03-30,Ogun,Abeokuta,Homicide,5,16,Male,Police,No,,,In Court,OFF3078,174
+1021,2022-09-09,Delta,Warri,Robbery,4,44,Female,Citizen,No,,,Closed,OFF9235,67
+1022,2020-07-19,Abuja,Garki,Burglary,3,77,Male,Citizen,No,,,In Court,OFF3019,128
+1023,2021-07-19,Ogun,Ijebu Ode,Theft,4,59,Female,Media,No,,,Closed,OFF5043,145
+1024,2022-06-22,Ogun,Ijebu Ode,Burglary,4,16,Male,Police,Yes,44.0,Male,Open,OFF6871,65
+1025,2022-01-23,Lagos,Yaba,Assault,1,39,Female,Police,No,,,Open,OFF5923,35
+1026,2021-05-01,Rivers,Bonny,Theft,1,42,Male,Police,Yes,67.0,Female,In Court,OFF8380,75
+1027,2021-12-26,Edo,Auchi,Burglary,2,16,Male,Police,Yes,40.0,Female,In Court,OFF7290,67
+1028,2021-05-18,Kaduna,Kaduna North,Burglary,1,41,Female,Citizen,No,,,Closed,OFF3988,120
+1029,2020-01-06,Edo,Benin City,Homicide,4,18,Female,Media,No,,,Open,OFF8116,131
+1030,2020-09-24,Kaduna,Kafanchan,Robbery,1,36,Female,Media,No,,,In Court,OFF4221,16
+1031,2021-01-11,Rivers,Port Harcourt,Assault,3,53,Female,Media,No,,,Open,OFF4342,104
+1032,2021-03-16,Oyo,Ogbomosho,Homicide,3,26,Male,Police,No,,,Open,OFF1029,85
+1033,2020-05-29,Rivers,Bonny,Robbery,5,38,Male,Police,No,,,In Court,OFF6329,114
+1034,2020-11-24,Rivers,Obio,Assault,4,59,Male,Police,Yes,56.0,Male,Closed,OFF5068,139
+1035,2020-01-10,Kaduna,Kaduna North,Theft,2,66,Female,Citizen,No,,,In Court,OFF7301,140
+1036,2020-11-03,Lagos,Yaba,Burglary,3,45,Male,Police,Yes,65.0,Female,Open,OFF9112,117
+1037,2020-07-28,Edo,Benin City,Fraud,3,78,Male,Media,Yes,66.0,Female,Closed,OFF4083,63
+1038,2020-12-29,Enugu,Enugu East,Fraud,2,70,Male,Media,Yes,19.0,Female,Open,OFF3102,162
+1039,2022-07-05,Delta,Warri,Homicide,1,58,Female,Citizen,No,,,Open,OFF1572,17
+1040,2022-05-18,Oyo,Iseyin,Theft,1,21,Female,Media,Yes,57.0,Male,Open,OFF7619,12
+1041,2021-11-01,Edo,Benin City,Homicide,5,64,Female,Citizen,Yes,65.0,Female,Open,OFF7331,142
+1042,2021-01-23,Enugu,Nsukka,Homicide,5,67,Female,Police,No,,,Open,OFF6676,176
+1043,2021-11-20,Edo,Auchi,Fraud,1,33,Male,Police,No,,,Open,OFF5344,104
+1044,2020-10-06,Rivers,Obio,Robbery,3,19,Female,Citizen,No,,,Closed,OFF8897,73
+1045,2022-02-04,Ogun,Ijebu Ode,Homicide,4,58,Female,Media,No,,,Closed,OFF9174,51
+1046,2021-01-22,Enugu,Awgu,Robbery,2,47,Female,Police,Yes,76.0,Female,Open,OFF8999,83
+1047,2021-06-04,Ogun,Abeokuta,Robbery,4,68,Female,Police,No,,,In Court,OFF1236,167
+1048,2022-08-30,Rivers,Obio,Homicide,5,60,Male,Police,Yes,74.0,Female,Open,OFF1773,175
+1049,2021-10-09,Rivers,Bonny,Robbery,2,61,Female,Media,Yes,79.0,Female,In Court,OFF3515,94
+1050,2020-02-21,Oyo,Ibadan,Theft,5,66,Female,Police,Yes,45.0,Male,Closed,OFF2884,119
+1051,2022-08-21,Enugu,Enugu East,Theft,2,47,Female,Citizen,No,,,Closed,OFF6880,13
+1052,2022-05-27,Ogun,Sagamu,Robbery,2,43,Female,Police,No,,,Open,OFF6195,103
+1053,2021-03-01,Abuja,Wuse,Theft,2,16,Female,Police,Yes,51.0,Female,Closed,OFF1886,112
+1054,2022-09-01,Abuja,Wuse,Assault,1,64,Male,Police,Yes,49.0,Female,In Court,OFF8947,124
+1055,2022-01-22,Edo,Benin City,Burglary,4,67,Male,Citizen,No,,,Open,OFF5619,151
+1056,2020-07-15,Abuja,Wuse,Theft,2,29,Female,Media,Yes,41.0,Female,Open,OFF5349,152
+1057,2020-05-10,Oyo,Ogbomosho,Homicide,5,24,Male,Police,No,,,In Court,OFF2768,86
+1058,2021-07-06,Rivers,Obio,Robbery,1,64,Male,Media,No,,,In Court,OFF6722,38
+1059,2022-05-13,Kaduna,Zaria,Robbery,3,61,Male,Media,No,,,In Court,OFF9488,154
+1060,2022-02-02,Lagos,Lekki,Burglary,2,24,Male,Police,Yes,34.0,Male,Closed,OFF3922,114
+1061,2021-10-29,Abuja,Wuse,Fraud,4,15,Male,Police,Yes,32.0,Male,Closed,OFF4320,100
+1062,2021-03-29,Edo,Auchi,Burglary,2,59,Male,Police,No,,,In Court,OFF7631,179
+1063,2020-08-12,Abuja,Maitama,Robbery,5,55,Male,Police,Yes,41.0,Female,Closed,OFF8550,23
+1064,2021-02-26,Rivers,Port Harcourt,Robbery,1,77,Male,Police,Yes,41.0,Male,Closed,OFF2265,85
+1065,2021-07-10,Kaduna,Kafanchan,Theft,1,58,Female,Media,Yes,31.0,Male,Closed,OFF6131,9
+1066,2020-09-05,Enugu,Nsukka,Assault,1,30,Female,Citizen,No,,,Open,OFF6013,37
+1067,2021-03-28,Delta,Warri,Homicide,5,72,Female,Police,No,,,Closed,OFF5147,124
+1068,2021-08-12,Abuja,Garki,Burglary,4,32,Female,Police,No,,,Closed,OFF3098,19
+1069,2022-05-25,Enugu,Nsukka,Assault,3,32,Male,Citizen,Yes,74.0,Male,In Court,OFF8958,6
+1070,2022-05-17,Oyo,Ibadan,Theft,3,46,Male,Media,No,,,Closed,OFF4506,144
+1071,2021-02-24,Oyo,Iseyin,Homicide,1,66,Female,Citizen,Yes,25.0,Female,Open,OFF3684,111
+1072,2020-04-29,Kaduna,Kafanchan,Homicide,4,64,Female,Police,Yes,67.0,Male,In Court,OFF8237,65
+1073,2021-06-04,Kano,Tarauni,Fraud,2,29,Male,Media,Yes,61.0,Male,Open,OFF1526,73
+1074,2021-11-05,Enugu,Awgu,Robbery,2,77,Female,Police,No,,,Open,OFF3407,164
+1075,2020-10-03,Abuja,Maitama,Theft,1,79,Male,Citizen,No,,,Open,OFF2832,106
+1076,2022-05-16,Oyo,Ibadan,Fraud,3,44,Female,Police,No,,,Open,OFF1911,85
+1077,2022-01-24,Abuja,Garki,Theft,5,70,Female,Citizen,Yes,38.0,Female,In Court,OFF7275,142
+1078,2021-03-14,Kaduna,Zaria,Fraud,2,18,Male,Citizen,No,,,Open,OFF7996,102
+1079,2021-08-22,Delta,Ughelli,Assault,4,77,Female,Citizen,No,,,Open,OFF3786,37
+1080,2020-01-23,Ogun,Ijebu Ode,Robbery,3,26,Female,Citizen,Yes,54.0,Male,Open,OFF2213,18
+1081,2020-04-30,Oyo,Iseyin,Homicide,1,39,Male,Media,Yes,65.0,Female,Closed,OFF8065,62
+1082,2020-06-01,Kano,Tarauni,Homicide,1,55,Female,Police,No,,,In Court,OFF9986,158
+1083,2022-05-27,Ogun,Sagamu,Fraud,3,58,Female,Citizen,No,,,Closed,OFF4493,140
+1084,2022-08-01,Ogun,Ijebu Ode,Homicide,1,75,Female,Media,No,,,Open,OFF6026,178
+1085,2021-07-31,Enugu,Enugu East,Fraud,3,27,Female,Police,No,,,Open,OFF1792,54
+1086,2022-04-16,Oyo,Ibadan,Burglary,5,24,Male,Media,Yes,29.0,Female,In Court,OFF9268,69
+1087,2020-07-06,Lagos,Yaba,Assault,1,64,Male,Citizen,No,,,In Court,OFF3654,31
+1088,2022-07-08,Kano,Ungogo,Theft,1,37,Male,Police,Yes,48.0,Female,Open,OFF9480,126
+1089,2020-04-30,Ogun,Ijebu Ode,Theft,5,35,Female,Police,Yes,51.0,Female,Open,OFF1616,28
+1090,2021-06-26,Lagos,Yaba,Burglary,5,69,Female,Citizen,Yes,37.0,Male,Open,OFF1209,124
+1091,2021-10-21,Abuja,Garki,Fraud,1,46,Male,Police,Yes,57.0,Male,Open,OFF1068,137
+1092,2022-08-18,Kano,Dala,Robbery,4,18,Male,Police,No,,,Closed,OFF4735,130
+1093,2020-05-21,Rivers,Bonny,Robbery,1,47,Male,Media,No,,,In Court,OFF6306,112
+1094,2022-03-04,Abuja,Maitama,Fraud,4,20,Male,Media,No,,,In Court,OFF2686,67
+1095,2021-04-26,Abuja,Wuse,Robbery,4,16,Female,Police,No,,,Open,OFF5070,11
+1096,2022-07-12,Ogun,Ijebu Ode,Robbery,2,48,Female,Police,No,,,In Court,OFF7757,22
+1097,2021-07-28,Edo,Ekpoma,Robbery,4,52,Female,Media,No,,,Open,OFF9817,175
+1098,2021-03-28,Rivers,Port Harcourt,Theft,2,80,Female,Media,Yes,74.0,Female,In Court,OFF4696,11
+1099,2021-04-27,Kano,Tarauni,Burglary,3,66,Female,Police,No,,,In Court,OFF4660,81
+1100,2022-01-14,Kano,Dala,Fraud,1,74,Female,Police,No,,,Open,OFF1111,167
+1101,2021-10-02,Ogun,Ijebu Ode,Assault,2,77,Male,Media,Yes,72.0,Female,Open,OFF2274,25
+1102,2020-09-09,Enugu,Awgu,Assault,5,56,Female,Media,No,,,In Court,OFF1270,5
+1103,2022-07-28,Abuja,Garki,Homicide,3,16,Female,Police,No,,,Open,OFF2315,118
+1104,2022-03-19,Rivers,Bonny,Fraud,3,27,Female,Police,Yes,59.0,Female,Open,OFF5110,105
+1105,2020-07-18,Rivers,Obio,Assault,4,72,Male,Media,Yes,29.0,Male,In Court,OFF7040,104
+1106,2020-12-02,Edo,Ekpoma,Theft,5,78,Female,Citizen,Yes,69.0,Female,Open,OFF1212,77
+1107,2020-10-10,Enugu,Awgu,Homicide,3,26,Female,Media,No,,,Closed,OFF8209,122
+1108,2022-01-02,Rivers,Bonny,Burglary,3,73,Male,Citizen,Yes,37.0,Female,Closed,OFF9616,172
+1109,2020-12-10,Abuja,Garki,Burglary,2,44,Female,Police,Yes,46.0,Female,Closed,OFF2438,8
+1110,2020-07-19,Abuja,Maitama,Burglary,5,49,Female,Media,No,,,Closed,OFF2339,125
+1111,2022-08-27,Delta,Warri,Assault,5,59,Male,Police,Yes,45.0,Male,In Court,OFF4226,33
+1112,2022-03-12,Rivers,Port Harcourt,Robbery,3,44,Male,Media,Yes,79.0,Male,In Court,OFF6510,10
+1113,2020-04-21,Lagos,Ikeja,Robbery,4,28,Male,Media,Yes,74.0,Male,Open,OFF1674,61
+1114,2021-09-14,Kano,Ungogo,Theft,1,37,Male,Citizen,Yes,69.0,Male,In Court,OFF7142,90
+1115,2020-06-15,Enugu,Enugu East,Fraud,4,64,Male,Citizen,Yes,29.0,Male,Open,OFF3943,152
+1116,2022-06-30,Enugu,Nsukka,Assault,3,41,Male,Citizen,No,,,Closed,OFF5230,175
+1117,2020-12-28,Enugu,Awgu,Robbery,3,75,Female,Media,Yes,35.0,Female,Open,OFF4598,146
+1118,2021-11-22,Edo,Ekpoma,Fraud,3,55,Female,Police,No,,,In Court,OFF4965,23
+1119,2022-03-04,Oyo,Ibadan,Homicide,1,18,Male,Citizen,Yes,23.0,Female,Closed,OFF1366,83
+1120,2022-04-26,Oyo,Ibadan,Robbery,4,52,Female,Citizen,Yes,23.0,Female,In Court,OFF2604,119
+1121,2021-07-31,Delta,Ughelli,Theft,5,28,Male,Police,Yes,67.0,Female,In Court,OFF4525,24
+1122,2020-12-07,Oyo,Iseyin,Burglary,1,69,Female,Police,Yes,74.0,Male,Closed,OFF8619,168
+1123,2022-02-18,Kano,Ungogo,Assault,1,30,Female,Police,Yes,73.0,Male,Closed,OFF9356,123
+1124,2020-10-12,Kano,Tarauni,Homicide,5,18,Female,Police,Yes,48.0,Male,Closed,OFF1270,112
+1125,2020-07-16,Ogun,Ijebu Ode,Burglary,3,43,Male,Citizen,No,,,Closed,OFF1585,104
+1126,2022-01-11,Kaduna,Zaria,Robbery,5,62,Male,Police,Yes,24.0,Male,In Court,OFF1240,103
+1127,2020-06-01,Enugu,Nsukka,Theft,5,21,Female,Citizen,Yes,41.0,Male,In Court,OFF9198,19
+1128,2020-02-10,Delta,Asaba,Assault,5,74,Female,Media,No,,,Open,OFF6139,178
+1129,2020-05-31,Edo,Auchi,Fraud,1,18,Female,Citizen,No,,,Closed,OFF7105,98
+1130,2021-05-04,Edo,Benin City,Fraud,3,47,Female,Media,No,,,Closed,OFF9004,61
+1131,2020-01-20,Kano,Tarauni,Robbery,2,15,Female,Citizen,Yes,21.0,Male,Closed,OFF3269,164
+1132,2020-04-29,Lagos,Ikeja,Theft,1,29,Female,Police,No,,,In Court,OFF6448,35
+1133,2020-08-31,Edo,Auchi,Robbery,1,18,Female,Police,Yes,53.0,Male,In Court,OFF4931,20
+1134,2020-06-03,Abuja,Wuse,Assault,4,57,Female,Police,No,,,Closed,OFF4632,37
+1135,2021-08-09,Rivers,Port Harcourt,Theft,4,48,Male,Police,No,,,In Court,OFF6565,138
+1136,2020-05-30,Kano,Ungogo,Theft,5,25,Male,Police,Yes,24.0,Male,Open,OFF2618,57
+1137,2021-05-03,Ogun,Ijebu Ode,Theft,5,73,Female,Police,Yes,63.0,Female,In Court,OFF3327,27
+1138,2021-08-31,Edo,Ekpoma,Robbery,1,69,Male,Citizen,Yes,56.0,Female,In Court,OFF1194,139
+1139,2020-05-25,Kaduna,Kafanchan,Theft,2,48,Male,Citizen,Yes,67.0,Male,Open,OFF6423,141
+1140,2021-08-29,Lagos,Yaba,Fraud,4,60,Female,Media,No,,,Open,OFF9308,56
+1141,2022-01-19,Lagos,Ikeja,Theft,1,24,Female,Police,No,,,Closed,OFF3889,53
+1142,2021-01-05,Kaduna,Kafanchan,Homicide,5,63,Female,Media,No,,,In Court,OFF1893,101
+1143,2021-04-18,Rivers,Bonny,Theft,4,37,Male,Police,No,,,Open,OFF7620,90
+1144,2021-03-11,Kaduna,Kaduna North,Robbery,3,52,Male,Media,No,,,Open,OFF3130,132
+1145,2021-03-31,Kano,Ungogo,Theft,2,73,Male,Media,Yes,48.0,Male,In Court,OFF2147,44
+1146,2021-01-24,Oyo,Ogbomosho,Robbery,4,61,Female,Police,No,,,Open,OFF9607,168
+1147,2020-03-08,Delta,Ughelli,Assault,2,42,Female,Police,No,,,Open,OFF4604,25
+1148,2022-04-11,Abuja,Maitama,Homicide,5,49,Female,Citizen,Yes,33.0,Female,Closed,OFF9040,12
+1149,2021-06-18,Lagos,Yaba,Burglary,4,25,Female,Citizen,Yes,36.0,Male,Open,OFF9156,174
+1150,2022-08-08,Kaduna,Kafanchan,Theft,1,19,Female,Media,No,,,Open,OFF7731,64
+1151,2022-03-11,Enugu,Enugu East,Homicide,5,45,Female,Media,Yes,47.0,Male,Closed,OFF9321,68
+1152,2020-10-04,Lagos,Ikeja,Burglary,2,55,Male,Media,Yes,24.0,Male,Closed,OFF7341,127
+1153,2022-09-17,Abuja,Garki,Burglary,2,77,Male,Police,No,,,In Court,OFF2995,35
+1154,2020-09-25,Rivers,Bonny,Homicide,2,34,Female,Media,Yes,46.0,Female,In Court,OFF2907,11
+1155,2020-07-06,Enugu,Enugu East,Homicide,4,68,Male,Citizen,Yes,44.0,Male,Closed,OFF4195,84
+1156,2022-06-19,Delta,Asaba,Theft,2,40,Male,Citizen,Yes,56.0,Female,Closed,OFF4166,128
+1157,2022-04-20,Abuja,Maitama,Assault,3,31,Male,Media,Yes,17.0,Female,In Court,OFF7576,79
+1158,2021-07-31,Kaduna,Kafanchan,Fraud,1,33,Female,Citizen,Yes,19.0,Female,Open,OFF7643,173
+1159,2021-02-12,Enugu,Enugu East,Theft,4,80,Male,Police,No,,,In Court,OFF6607,147
+1160,2021-05-04,Delta,Warri,Homicide,4,28,Male,Citizen,Yes,45.0,Male,Open,OFF3654,67
+1161,2020-07-14,Rivers,Bonny,Assault,3,45,Female,Media,Yes,47.0,Male,Open,OFF2247,94
+1162,2020-06-26,Oyo,Ogbomosho,Robbery,5,60,Female,Media,Yes,35.0,Female,Closed,OFF1776,180
+1163,2020-03-15,Enugu,Awgu,Fraud,4,50,Male,Citizen,Yes,41.0,Male,In Court,OFF7554,80
+1164,2020-05-16,Oyo,Iseyin,Homicide,3,51,Female,Citizen,No,,,In Court,OFF9977,18
+1165,2020-06-27,Oyo,Ibadan,Robbery,2,42,Male,Police,No,,,Closed,OFF1407,12
+1166,2020-03-01,Edo,Ekpoma,Theft,1,60,Female,Police,Yes,15.0,Female,In Court,OFF2214,157
+1167,2021-06-17,Delta,Asaba,Burglary,1,79,Female,Police,Yes,65.0,Male,Closed,OFF3282,56
+1168,2020-02-21,Kano,Dala,Assault,3,79,Male,Police,Yes,41.0,Female,Open,OFF2017,150
+1169,2020-04-18,Delta,Asaba,Robbery,3,49,Male,Citizen,Yes,35.0,Female,In Court,OFF1994,139
+1170,2020-08-16,Enugu,Nsukka,Assault,3,67,Female,Media,Yes,71.0,Female,In Court,OFF2915,162
+1171,2020-03-26,Oyo,Iseyin,Robbery,2,74,Male,Media,Yes,78.0,Female,In Court,OFF9600,10
+1172,2022-04-13,Delta,Asaba,Homicide,3,70,Female,Police,No,,,Open,OFF7669,162
+1173,2020-07-18,Edo,Auchi,Robbery,3,36,Female,Police,No,,,Open,OFF2849,161
+1174,2021-12-07,Abuja,Wuse,Robbery,3,53,Male,Police,Yes,37.0,Female,In Court,OFF3534,173
+1175,2022-08-29,Abuja,Maitama,Robbery,1,58,Male,Police,No,,,Open,OFF4743,135
+1176,2022-08-01,Kaduna,Kafanchan,Fraud,1,50,Male,Media,Yes,28.0,Female,In Court,OFF5386,55
+1177,2020-12-23,Abuja,Wuse,Fraud,1,16,Male,Media,No,,,In Court,OFF4671,14
+1178,2020-08-07,Edo,Ekpoma,Fraud,1,26,Male,Police,No,,,In Court,OFF4488,146
+1179,2020-07-29,Kaduna,Zaria,Theft,3,54,Male,Media,Yes,45.0,Male,Open,OFF6534,90
+1180,2020-12-26,Abuja,Wuse,Theft,1,37,Female,Police,Yes,23.0,Female,Open,OFF7844,58
+1181,2021-01-25,Edo,Benin City,Burglary,5,32,Female,Police,Yes,46.0,Male,Open,OFF8162,41
+1182,2020-07-04,Ogun,Sagamu,Robbery,3,28,Male,Citizen,Yes,67.0,Female,Open,OFF8636,7
+1183,2021-03-28,Oyo,Ogbomosho,Burglary,2,17,Female,Citizen,No,,,Closed,OFF1391,90
+1184,2022-03-03,Kaduna,Kaduna North,Theft,4,37,Female,Citizen,No,,,Closed,OFF2194,100
+1185,2021-08-21,Edo,Ekpoma,Theft,5,42,Male,Police,No,,,Open,OFF7114,166
+1186,2020-07-07,Kaduna,Kaduna North,Fraud,3,48,Female,Citizen,Yes,46.0,Female,In Court,OFF1913,71
+1187,2021-06-15,Kano,Ungogo,Homicide,1,28,Male,Citizen,Yes,36.0,Male,Open,OFF5711,13
+1188,2020-08-30,Delta,Ughelli,Robbery,1,75,Female,Citizen,No,,,In Court,OFF5036,143
+1189,2022-01-29,Delta,Warri,Robbery,5,33,Male,Citizen,No,,,In Court,OFF5702,39
+1190,2022-08-23,Enugu,Nsukka,Robbery,2,30,Female,Citizen,No,,,In Court,OFF6069,70
+1191,2021-01-28,Ogun,Sagamu,Robbery,5,17,Male,Citizen,Yes,28.0,Male,Open,OFF9097,163
+1192,2021-06-18,Ogun,Abeokuta,Homicide,3,44,Female,Citizen,Yes,61.0,Female,In Court,OFF9790,15
+1193,2021-07-17,Oyo,Ibadan,Burglary,2,16,Male,Citizen,Yes,20.0,Female,Open,OFF1107,113
+1194,2022-01-08,Enugu,Nsukka,Burglary,3,52,Female,Police,No,,,Closed,OFF5737,142
+1195,2020-03-14,Kano,Ungogo,Fraud,2,62,Male,Police,No,,,Closed,OFF2209,98
+1196,2020-01-15,Delta,Ughelli,Fraud,2,61,Female,Media,Yes,29.0,Male,Open,OFF4789,53
+1197,2022-02-03,Delta,Ughelli,Theft,5,68,Male,Media,No,,,In Court,OFF7021,19
+1198,2022-01-07,Abuja,Maitama,Theft,4,55,Female,Police,Yes,64.0,Male,Closed,OFF5886,158
+1199,2022-01-03,Enugu,Awgu,Fraud,5,38,Male,Police,No,,,Closed,OFF2668,82
+1200,2021-05-11,Oyo,Iseyin,Burglary,5,36,Male,Police,Yes,65.0,Female,Closed,OFF3558,51
+1201,2021-12-19,Edo,Ekpoma,Burglary,5,45,Female,Media,Yes,34.0,Male,Open,OFF3887,151
+1202,2020-07-27,Kano,Ungogo,Burglary,3,59,Female,Police,Yes,67.0,Male,Closed,OFF6467,19
+1203,2020-10-23,Lagos,Yaba,Assault,5,70,Female,Police,No,,,Closed,OFF9759,135
+1204,2020-06-27,Abuja,Wuse,Fraud,2,36,Female,Police,Yes,77.0,Male,In Court,OFF1191,65
+1205,2022-09-17,Rivers,Port Harcourt,Robbery,1,48,Male,Citizen,Yes,46.0,Female,Closed,OFF4341,145
+1206,2021-05-16,Delta,Asaba,Robbery,3,33,Male,Citizen,No,,,Open,OFF1374,146
+1207,2020-11-30,Kaduna,Kafanchan,Burglary,5,58,Male,Media,Yes,68.0,Male,Open,OFF6055,142
+1208,2021-10-02,Kano,Ungogo,Robbery,5,19,Female,Police,Yes,31.0,Female,In Court,OFF7566,11
+1209,2021-08-02,Kano,Dala,Theft,1,63,Male,Citizen,Yes,23.0,Female,Closed,OFF9367,54
+1210,2020-12-27,Enugu,Nsukka,Fraud,3,54,Female,Citizen,No,,,Open,OFF2279,18
+1211,2022-05-07,Ogun,Ijebu Ode,Homicide,5,23,Male,Police,Yes,44.0,Female,In Court,OFF9697,141
+1212,2021-10-17,Kano,Dala,Assault,5,57,Female,Media,Yes,41.0,Male,Closed,OFF6431,119
+1213,2022-08-11,Lagos,Ikeja,Burglary,5,50,Female,Police,No,,,Closed,OFF4252,118
+1214,2021-09-07,Kano,Dala,Robbery,2,31,Female,Citizen,Yes,76.0,Male,In Court,OFF4611,170
+1215,2020-05-28,Edo,Benin City,Homicide,4,34,Male,Citizen,Yes,59.0,Female,Open,OFF6005,36
+1216,2022-03-09,Edo,Benin City,Homicide,5,29,Male,Police,No,,,Open,OFF1203,160
+1217,2020-04-01,Edo,Ekpoma,Assault,3,29,Female,Police,Yes,30.0,Female,Closed,OFF5219,139
+1218,2020-08-15,Kaduna,Kafanchan,Assault,3,21,Male,Citizen,No,,,Closed,OFF8191,132
+1219,2022-06-25,Delta,Asaba,Homicide,4,66,Male,Media,No,,,In Court,OFF9036,68
+1220,2020-10-11,Rivers,Bonny,Assault,3,44,Male,Citizen,No,,,Closed,OFF6024,55
+1221,2021-08-11,Kaduna,Zaria,Robbery,3,58,Female,Citizen,No,,,Open,OFF6797,122
+1222,2020-03-23,Abuja,Wuse,Fraud,1,51,Female,Citizen,No,,,In Court,OFF7403,41
+1223,2020-10-09,Oyo,Ogbomosho,Burglary,5,19,Male,Media,Yes,15.0,Male,Closed,OFF7257,64
+1224,2020-01-24,Abuja,Garki,Theft,5,38,Female,Media,No,,,In Court,OFF7133,158
+1225,2021-01-02,Oyo,Ibadan,Burglary,3,16,Female,Police,No,,,Closed,OFF6358,62
+1226,2021-05-21,Delta,Ughelli,Burglary,4,44,Male,Media,No,,,Open,OFF4436,12
+1227,2022-04-28,Kano,Ungogo,Fraud,5,29,Female,Media,Yes,22.0,Female,Closed,OFF7219,139
+1228,2022-07-11,Kaduna,Kafanchan,Assault,4,42,Male,Media,Yes,28.0,Female,Open,OFF6765,69
+1229,2021-02-27,Abuja,Maitama,Robbery,2,43,Male,Citizen,Yes,73.0,Male,In Court,OFF6684,69
+1230,2022-03-03,Edo,Benin City,Assault,1,34,Male,Police,Yes,17.0,Male,In Court,OFF6398,116
+1231,2022-08-17,Lagos,Lekki,Burglary,5,67,Female,Media,No,,,In Court,OFF9879,66
+1232,2021-05-11,Enugu,Enugu East,Fraud,5,61,Female,Media,No,,,Open,OFF2742,36
+1233,2021-04-27,Enugu,Awgu,Robbery,4,75,Male,Citizen,Yes,28.0,Female,Closed,OFF3369,94
+1234,2021-07-22,Kano,Dala,Homicide,1,62,Male,Police,Yes,30.0,Female,In Court,OFF8399,69
+1235,2021-05-07,Kano,Tarauni,Robbery,1,64,Male,Citizen,No,,,In Court,OFF9685,152
+1236,2021-12-16,Enugu,Enugu East,Robbery,4,51,Male,Citizen,No,,,In Court,OFF1734,105
+1237,2021-06-16,Delta,Ughelli,Robbery,5,35,Male,Police,Yes,63.0,Female,Open,OFF9713,16
+1238,2020-06-07,Kano,Tarauni,Theft,4,30,Male,Citizen,Yes,22.0,Male,Open,OFF8190,94
+1239,2020-12-23,Enugu,Enugu East,Burglary,2,56,Male,Police,No,,,Closed,OFF9068,27
+1240,2020-10-18,Kaduna,Kaduna North,Assault,3,76,Female,Media,Yes,42.0,Male,Closed,OFF4377,55
+1241,2022-04-23,Enugu,Awgu,Assault,2,30,Female,Media,No,,,In Court,OFF4274,138
+1242,2021-12-15,Delta,Asaba,Burglary,5,80,Male,Citizen,No,,,In Court,OFF5385,124
+1243,2020-03-02,Kaduna,Kafanchan,Homicide,3,18,Male,Media,Yes,41.0,Male,Closed,OFF1241,140
+1244,2021-12-01,Kano,Tarauni,Robbery,5,70,Male,Police,Yes,30.0,Female,Closed,OFF9084,21
+1245,2022-02-01,Ogun,Ijebu Ode,Homicide,5,72,Male,Citizen,No,,,In Court,OFF6638,69
+1246,2020-03-07,Oyo,Ibadan,Assault,4,72,Female,Citizen,Yes,49.0,Female,Open,OFF4653,51
+1247,2021-07-17,Abuja,Maitama,Assault,4,56,Male,Citizen,No,,,In Court,OFF5545,102
+1248,2021-05-04,Abuja,Wuse,Fraud,3,43,Female,Media,No,,,Open,OFF4060,150
+1249,2022-06-05,Delta,Asaba,Burglary,4,45,Female,Citizen,No,,,In Court,OFF7211,142
+1250,2022-02-26,Oyo,Ogbomosho,Robbery,5,45,Male,Police,No,,,Open,OFF4283,44
+1251,2021-11-27,Abuja,Garki,Homicide,1,63,Male,Police,No,,,Closed,OFF5521,174
+1252,2022-07-14,Delta,Asaba,Fraud,5,47,Female,Media,Yes,16.0,Female,Closed,OFF1713,55
+1253,2021-06-20,Oyo,Ibadan,Fraud,5,21,Male,Citizen,Yes,49.0,Male,Closed,OFF3057,176
+1254,2021-03-07,Delta,Ughelli,Robbery,2,79,Female,Media,Yes,46.0,Male,Open,OFF5524,86
+1255,2021-10-24,Kano,Dala,Burglary,5,31,Male,Media,Yes,57.0,Female,Open,OFF7546,34
+1256,2021-04-04,Abuja,Maitama,Theft,1,78,Male,Media,Yes,63.0,Male,Closed,OFF8055,63
+1257,2021-06-04,Edo,Auchi,Robbery,2,27,Male,Police,No,,,Open,OFF5363,122
+1258,2021-12-04,Abuja,Wuse,Robbery,2,27,Female,Citizen,Yes,41.0,Female,Open,OFF3729,79
+1259,2021-08-30,Delta,Ughelli,Assault,2,53,Male,Media,No,,,Open,OFF9195,158
+1260,2020-03-17,Abuja,Garki,Fraud,2,59,Female,Citizen,Yes,55.0,Male,Open,OFF6755,123
+1261,2021-01-10,Lagos,Yaba,Theft,1,67,Male,Citizen,Yes,65.0,Female,In Court,OFF4336,106
+1262,2021-05-24,Rivers,Port Harcourt,Fraud,1,60,Female,Police,No,,,In Court,OFF3869,131
+1263,2020-11-08,Kano,Ungogo,Assault,1,64,Male,Citizen,Yes,69.0,Female,Closed,OFF2179,44
+1264,2021-06-09,Delta,Asaba,Homicide,2,72,Female,Citizen,Yes,51.0,Male,Closed,OFF3187,118
+1265,2020-10-05,Ogun,Sagamu,Theft,4,26,Female,Media,Yes,39.0,Female,Open,OFF5515,132
+1266,2021-05-26,Lagos,Ikeja,Theft,1,57,Male,Police,No,,,Closed,OFF5500,123
+1267,2022-05-31,Lagos,Ikeja,Robbery,3,79,Male,Media,Yes,46.0,Male,Closed,OFF9001,43
+1268,2022-09-18,Ogun,Sagamu,Homicide,2,46,Male,Police,No,,,In Court,OFF7180,131
+1269,2021-05-11,Kano,Ungogo,Assault,5,29,Female,Media,Yes,52.0,Male,Open,OFF4257,174
+1270,2021-10-05,Oyo,Ibadan,Fraud,1,23,Female,Police,No,,,In Court,OFF9963,58
+1271,2020-07-12,Abuja,Wuse,Homicide,4,65,Female,Media,No,,,In Court,OFF5175,151
+1272,2022-01-26,Enugu,Enugu East,Theft,4,78,Female,Citizen,Yes,20.0,Female,Open,OFF9227,56
+1273,2020-07-09,Lagos,Yaba,Theft,5,32,Female,Citizen,No,,,In Court,OFF9622,170
+1274,2020-03-25,Enugu,Awgu,Fraud,5,26,Female,Media,Yes,42.0,Male,Open,OFF7554,120
+1275,2020-09-01,Abuja,Wuse,Homicide,4,20,Female,Police,Yes,47.0,Male,Open,OFF2206,26
+1276,2022-06-20,Rivers,Obio,Theft,2,75,Female,Citizen,No,,,In Court,OFF2678,179
+1277,2022-05-01,Kano,Ungogo,Assault,3,24,Female,Police,No,,,Closed,OFF4954,168
+1278,2020-04-18,Lagos,Ikeja,Fraud,1,80,Male,Citizen,No,,,Closed,OFF1212,137
+1279,2020-11-27,Ogun,Ijebu Ode,Assault,2,44,Male,Citizen,Yes,16.0,Male,In Court,OFF9740,31
+1280,2021-05-06,Kano,Ungogo,Assault,5,26,Male,Media,No,,,Closed,OFF3195,152
+1281,2022-06-27,Enugu,Nsukka,Theft,3,54,Male,Police,No,,,In Court,OFF8793,27
+1282,2021-11-03,Rivers,Obio,Homicide,5,63,Female,Media,No,,,In Court,OFF3074,173
+1283,2021-09-24,Abuja,Wuse,Robbery,2,76,Female,Media,No,,,In Court,OFF1313,69
+1284,2021-08-06,Kano,Tarauni,Assault,2,34,Female,Police,Yes,34.0,Female,Closed,OFF8207,114
+1285,2021-12-18,Delta,Ughelli,Homicide,4,57,Female,Police,No,,,Open,OFF5630,141
+1286,2021-06-16,Kaduna,Zaria,Theft,2,68,Male,Citizen,No,,,Open,OFF7421,64
+1287,2021-10-08,Ogun,Ijebu Ode,Burglary,2,23,Female,Citizen,Yes,48.0,Male,In Court,OFF5012,138
+1288,2020-12-30,Lagos,Yaba,Theft,2,43,Female,Media,Yes,55.0,Female,In Court,OFF6361,30
+1289,2021-12-11,Lagos,Ikeja,Homicide,5,23,Female,Citizen,Yes,25.0,Female,In Court,OFF8272,91
+1290,2020-04-28,Edo,Benin City,Theft,3,50,Female,Citizen,Yes,75.0,Female,In Court,OFF8866,37
+1291,2022-05-27,Kano,Dala,Homicide,1,72,Male,Media,No,,,Closed,OFF8699,84
+1292,2022-04-16,Ogun,Sagamu,Robbery,2,50,Female,Citizen,Yes,38.0,Male,Closed,OFF4051,26
+1293,2020-08-25,Abuja,Wuse,Robbery,2,25,Male,Police,Yes,20.0,Male,In Court,OFF3921,177
+1294,2021-04-27,Kano,Dala,Homicide,5,28,Male,Police,No,,,In Court,OFF4091,129
+1295,2020-08-16,Rivers,Bonny,Burglary,3,45,Female,Police,No,,,In Court,OFF5859,92
+1296,2021-09-14,Oyo,Ibadan,Fraud,1,58,Female,Police,Yes,34.0,Female,In Court,OFF9008,82
+1297,2020-12-24,Enugu,Nsukka,Homicide,2,80,Male,Media,No,,,Closed,OFF4293,169
+1298,2020-07-26,Lagos,Ikeja,Fraud,2,78,Male,Police,Yes,48.0,Female,In Court,OFF9942,140
+1299,2021-03-16,Ogun,Sagamu,Assault,1,51,Female,Media,No,,,In Court,OFF5513,58
+1300,2020-12-29,Kano,Dala,Robbery,3,24,Female,Police,No,,,Closed,OFF7340,53
+1301,2021-05-27,Lagos,Ikeja,Burglary,5,32,Male,Police,Yes,56.0,Female,Closed,OFF5993,87
+1302,2020-08-28,Kano,Ungogo,Fraud,1,23,Male,Police,No,,,Open,OFF3625,55
+1303,2022-03-10,Enugu,Awgu,Robbery,1,28,Male,Police,Yes,20.0,Female,Closed,OFF3006,82
+1304,2020-02-11,Oyo,Ogbomosho,Burglary,5,61,Male,Citizen,No,,,Closed,OFF4056,59
+1305,2020-03-19,Edo,Auchi,Fraud,5,56,Female,Citizen,Yes,46.0,Female,Open,OFF3958,102
+1306,2021-06-07,Delta,Asaba,Fraud,5,50,Female,Police,Yes,72.0,Female,In Court,OFF7289,159
+1307,2020-11-24,Kano,Tarauni,Assault,1,68,Male,Citizen,No,,,In Court,OFF1873,37
+1308,2022-02-15,Delta,Asaba,Fraud,4,17,Female,Police,No,,,Closed,OFF2575,96
+1309,2021-06-14,Rivers,Port Harcourt,Fraud,3,23,Male,Media,No,,,Open,OFF8270,127
+1310,2020-03-21,Lagos,Ikeja,Burglary,5,17,Male,Police,Yes,28.0,Male,In Court,OFF5342,151
+1311,2022-02-05,Ogun,Abeokuta,Theft,3,73,Male,Police,Yes,53.0,Female,Closed,OFF4568,99
+1312,2022-05-18,Abuja,Maitama,Robbery,4,55,Female,Police,No,,,In Court,OFF4275,89
+1313,2021-04-01,Rivers,Port Harcourt,Theft,3,76,Male,Police,Yes,47.0,Female,In Court,OFF5116,49
+1314,2020-05-12,Kano,Tarauni,Homicide,4,38,Male,Media,No,,,Open,OFF7644,123
+1315,2020-06-30,Kaduna,Zaria,Burglary,5,39,Male,Media,Yes,39.0,Female,In Court,OFF3956,66
+1316,2020-09-29,Enugu,Enugu East,Assault,1,22,Male,Citizen,Yes,70.0,Male,In Court,OFF6719,19
+1317,2020-01-02,Kano,Tarauni,Theft,2,29,Female,Media,Yes,54.0,Male,Open,OFF8772,171
+1318,2020-05-18,Oyo,Iseyin,Assault,4,37,Female,Media,No,,,Closed,OFF4225,167
+1319,2020-05-07,Enugu,Awgu,Assault,2,23,Female,Media,Yes,51.0,Male,In Court,OFF9239,38
+1320,2020-06-20,Kaduna,Zaria,Fraud,2,31,Male,Citizen,Yes,43.0,Male,In Court,OFF5784,165
+1321,2022-06-01,Lagos,Ikeja,Robbery,5,75,Male,Police,Yes,71.0,Female,Open,OFF7940,91
+1322,2022-05-23,Edo,Auchi,Fraud,3,57,Female,Police,No,,,In Court,OFF9339,159
+1323,2020-10-19,Lagos,Lekki,Fraud,3,44,Male,Police,No,,,In Court,OFF6621,51
+1324,2022-02-04,Abuja,Garki,Assault,4,24,Male,Media,No,,,In Court,OFF5985,149
+1325,2021-02-18,Lagos,Yaba,Robbery,2,59,Male,Police,No,,,Closed,OFF1287,172
+1326,2020-10-29,Rivers,Obio,Fraud,4,31,Male,Citizen,No,,,Closed,OFF9290,38
+1327,2021-07-04,Abuja,Garki,Homicide,2,56,Male,Media,No,,,Open,OFF3265,70
+1328,2020-10-17,Rivers,Port Harcourt,Fraud,1,74,Female,Police,Yes,23.0,Male,Closed,OFF6138,34
+1329,2021-04-25,Enugu,Awgu,Fraud,2,35,Male,Police,Yes,55.0,Male,In Court,OFF9324,96
+1330,2021-01-29,Lagos,Ikeja,Assault,5,31,Male,Media,No,,,Closed,OFF6904,116
+1331,2020-10-28,Lagos,Yaba,Assault,5,16,Male,Citizen,Yes,80.0,Female,In Court,OFF3033,9
+1332,2022-07-30,Kano,Ungogo,Theft,2,73,Female,Media,No,,,In Court,OFF3139,74
+1333,2021-11-20,Oyo,Ibadan,Theft,2,79,Male,Media,Yes,75.0,Male,In Court,OFF9797,155
+1334,2022-03-27,Abuja,Garki,Homicide,1,48,Female,Citizen,Yes,79.0,Female,In Court,OFF7390,107
+1335,2021-09-14,Rivers,Obio,Burglary,1,74,Male,Media,No,,,Open,OFF8082,55
+1336,2022-04-19,Edo,Ekpoma,Theft,4,40,Female,Citizen,No,,,In Court,OFF9879,105
+1337,2022-09-09,Delta,Warri,Robbery,1,72,Male,Citizen,Yes,56.0,Male,Open,OFF2387,52
+1338,2022-02-04,Rivers,Obio,Homicide,2,72,Female,Police,No,,,Open,OFF5184,88
+1339,2021-11-14,Ogun,Abeokuta,Robbery,5,37,Male,Media,Yes,47.0,Female,Open,OFF5789,89
+1340,2020-01-21,Kano,Ungogo,Burglary,3,58,Male,Police,Yes,17.0,Female,In Court,OFF9341,64
+1341,2020-04-19,Enugu,Awgu,Theft,5,44,Female,Media,Yes,21.0,Female,Open,OFF9302,21
+1342,2022-02-23,Abuja,Wuse,Robbery,1,66,Female,Police,Yes,67.0,Male,Closed,OFF2723,74
+1343,2021-12-12,Rivers,Port Harcourt,Burglary,4,44,Male,Citizen,No,,,Open,OFF8791,46
+1344,2021-09-07,Kaduna,Zaria,Theft,3,50,Male,Media,No,,,Open,OFF7651,162
+1345,2022-07-08,Rivers,Bonny,Fraud,5,58,Male,Citizen,No,,,Open,OFF7448,40
+1346,2020-10-23,Enugu,Nsukka,Robbery,3,70,Female,Police,Yes,37.0,Female,Open,OFF5801,98
+1347,2022-07-29,Rivers,Port Harcourt,Theft,1,46,Female,Media,No,,,Closed,OFF2246,29
+1348,2021-07-18,Rivers,Bonny,Assault,4,71,Female,Citizen,No,,,Closed,OFF9232,13
+1349,2020-08-22,Rivers,Bonny,Homicide,5,37,Male,Citizen,No,,,In Court,OFF6055,17
+1350,2021-12-02,Rivers,Port Harcourt,Robbery,3,38,Female,Media,No,,,In Court,OFF6428,132
+1351,2020-01-24,Abuja,Garki,Theft,3,47,Male,Citizen,Yes,62.0,Male,Open,OFF5631,82
+1352,2020-08-02,Kano,Tarauni,Theft,3,25,Female,Citizen,No,,,Open,OFF3505,86
+1353,2020-11-04,Kano,Tarauni,Assault,1,63,Female,Media,No,,,In Court,OFF6214,22
+1354,2021-05-01,Abuja,Maitama,Burglary,2,32,Female,Citizen,No,,,In Court,OFF5678,45
+1355,2020-06-19,Oyo,Ogbomosho,Theft,1,65,Female,Media,Yes,29.0,Female,Closed,OFF9098,83
+1356,2021-05-27,Lagos,Lekki,Assault,4,16,Male,Media,No,,,In Court,OFF2651,21
+1357,2020-10-07,Abuja,Wuse,Fraud,3,33,Male,Police,No,,,Open,OFF1450,82
+1358,2020-07-14,Kaduna,Zaria,Theft,2,52,Female,Media,No,,,In Court,OFF4636,161
+1359,2020-10-29,Ogun,Ijebu Ode,Homicide,4,47,Male,Police,No,,,In Court,OFF8069,52
+1360,2021-09-15,Lagos,Lekki,Burglary,5,54,Male,Citizen,No,,,Closed,OFF5907,172
+1361,2021-02-06,Kaduna,Zaria,Homicide,1,24,Male,Citizen,No,,,Closed,OFF6589,139
+1362,2022-09-23,Delta,Warri,Assault,2,25,Male,Media,No,,,Open,OFF4441,67
+1363,2020-04-10,Oyo,Ogbomosho,Burglary,4,21,Male,Media,Yes,22.0,Male,Closed,OFF5885,44
+1364,2020-12-11,Abuja,Wuse,Burglary,2,73,Female,Media,Yes,71.0,Female,Closed,OFF2600,76
+1365,2022-07-08,Ogun,Abeokuta,Robbery,4,43,Male,Media,No,,,In Court,OFF5631,64
+1366,2021-08-07,Abuja,Garki,Burglary,1,22,Female,Police,No,,,In Court,OFF6811,82
+1367,2022-08-11,Edo,Benin City,Assault,5,72,Male,Citizen,Yes,38.0,Female,In Court,OFF8294,147
+1368,2020-03-10,Enugu,Enugu East,Robbery,4,67,Female,Police,Yes,46.0,Female,In Court,OFF8587,174
+1369,2021-02-12,Lagos,Ikeja,Assault,4,15,Female,Media,No,,,Closed,OFF1959,163
+1370,2021-05-23,Kano,Tarauni,Robbery,2,68,Male,Police,Yes,18.0,Female,In Court,OFF6173,156
+1371,2022-09-12,Delta,Warri,Assault,3,68,Male,Citizen,No,,,Open,OFF6664,109
+1372,2021-12-08,Kano,Ungogo,Robbery,4,78,Male,Police,No,,,Open,OFF2601,25
+1373,2022-08-26,Rivers,Port Harcourt,Burglary,1,65,Male,Citizen,No,,,Closed,OFF8436,24
+1374,2020-05-24,Kaduna,Zaria,Theft,3,21,Female,Police,Yes,23.0,Female,In Court,OFF5774,178
+1375,2022-04-21,Edo,Ekpoma,Homicide,2,17,Male,Police,Yes,78.0,Male,Closed,OFF6363,89
+1376,2021-12-15,Rivers,Bonny,Assault,3,38,Female,Media,No,,,In Court,OFF8145,84
+1377,2021-05-26,Oyo,Ogbomosho,Theft,2,18,Male,Media,No,,,Open,OFF2995,141
+1378,2021-04-24,Edo,Benin City,Fraud,5,24,Male,Citizen,No,,,Open,OFF2168,149
+1379,2020-12-02,Oyo,Ogbomosho,Homicide,5,35,Female,Media,No,,,Closed,OFF1819,21
+1380,2022-01-14,Rivers,Port Harcourt,Homicide,1,37,Female,Citizen,Yes,50.0,Male,In Court,OFF7669,147
+1381,2022-07-07,Ogun,Abeokuta,Robbery,4,68,Male,Police,No,,,In Court,OFF4505,36
+1382,2021-07-05,Ogun,Ijebu Ode,Burglary,4,30,Female,Media,Yes,33.0,Female,Closed,OFF3930,134
+1383,2020-08-23,Kano,Tarauni,Theft,2,16,Male,Police,No,,,Open,OFF4094,43
+1384,2021-01-21,Oyo,Iseyin,Homicide,4,43,Female,Citizen,No,,,In Court,OFF6649,109
+1385,2020-03-07,Ogun,Abeokuta,Robbery,2,57,Female,Media,Yes,43.0,Male,In Court,OFF9726,117
+1386,2021-06-21,Lagos,Ikeja,Theft,5,19,Female,Police,Yes,64.0,Male,In Court,OFF7615,70
+1387,2020-08-08,Enugu,Awgu,Burglary,3,45,Female,Citizen,Yes,77.0,Male,Open,OFF9442,129
+1388,2021-07-27,Lagos,Ikeja,Robbery,2,30,Male,Media,Yes,64.0,Male,Open,OFF5986,138
+1389,2020-10-17,Kano,Ungogo,Burglary,5,24,Male,Media,No,,,In Court,OFF4798,50
+1390,2022-05-04,Rivers,Bonny,Assault,3,68,Female,Citizen,Yes,23.0,Male,In Court,OFF4174,52
+1391,2021-01-19,Delta,Ughelli,Homicide,4,55,Male,Citizen,Yes,20.0,Male,In Court,OFF3411,39
+1392,2021-04-03,Edo,Ekpoma,Assault,2,30,Female,Police,No,,,In Court,OFF4561,162
+1393,2020-02-14,Enugu,Awgu,Assault,3,73,Male,Citizen,No,,,Open,OFF3285,48
+1394,2021-05-07,Enugu,Awgu,Burglary,2,27,Male,Citizen,Yes,59.0,Male,Open,OFF8490,122
+1395,2022-04-06,Rivers,Bonny,Fraud,3,24,Female,Police,No,,,Open,OFF8971,157
+1396,2021-03-26,Lagos,Yaba,Homicide,2,72,Female,Police,No,,,In Court,OFF7526,53
+1397,2022-05-24,Kaduna,Zaria,Fraud,5,16,Male,Police,No,,,Closed,OFF4471,6
+1398,2022-08-01,Kaduna,Zaria,Assault,3,34,Female,Police,No,,,Closed,OFF4674,169
+1399,2020-09-28,Edo,Ekpoma,Assault,2,61,Male,Citizen,Yes,23.0,Female,In Court,OFF6489,84
+1400,2020-09-19,Abuja,Wuse,Burglary,4,32,Female,Media,No,,,Open,OFF7207,159
+1401,2021-06-14,Lagos,Lekki,Robbery,1,41,Female,Police,No,,,Open,OFF6432,28
+1402,2021-01-19,Edo,Ekpoma,Robbery,2,52,Male,Police,Yes,43.0,Male,In Court,OFF4499,34
+1403,2020-04-29,Delta,Asaba,Assault,5,41,Male,Media,No,,,In Court,OFF4803,42
+1404,2020-03-03,Ogun,Ijebu Ode,Fraud,5,19,Male,Citizen,No,,,In Court,OFF5342,131
+1405,2020-08-17,Ogun,Abeokuta,Robbery,2,18,Male,Citizen,Yes,61.0,Female,In Court,OFF7603,75
+1406,2021-08-20,Enugu,Nsukka,Homicide,1,63,Male,Citizen,Yes,46.0,Female,Closed,OFF1111,63
+1407,2020-01-07,Oyo,Ibadan,Burglary,4,40,Female,Police,Yes,66.0,Male,Closed,OFF5034,37
+1408,2022-05-03,Enugu,Nsukka,Burglary,1,79,Male,Police,No,,,In Court,OFF5342,144
+1409,2020-01-26,Kaduna,Kafanchan,Burglary,2,34,Female,Citizen,No,,,In Court,OFF3488,10
+1410,2020-01-26,Lagos,Lekki,Assault,5,63,Male,Media,No,,,In Court,OFF7684,179
+1411,2021-10-19,Rivers,Bonny,Homicide,1,65,Male,Police,Yes,70.0,Female,In Court,OFF1291,129
+1412,2020-10-26,Rivers,Bonny,Burglary,5,15,Female,Police,Yes,46.0,Male,In Court,OFF7781,92
+1413,2021-11-15,Ogun,Ijebu Ode,Theft,4,25,Female,Police,Yes,47.0,Male,Open,OFF7138,76
+1414,2020-09-05,Kano,Ungogo,Fraud,5,29,Male,Citizen,Yes,49.0,Female,Open,OFF5331,14
+1415,2021-06-10,Kaduna,Zaria,Burglary,1,70,Male,Police,No,,,Open,OFF4045,174
+1416,2020-11-13,Abuja,Maitama,Assault,4,32,Male,Citizen,Yes,32.0,Female,Open,OFF3246,122
+1417,2022-01-30,Kano,Dala,Robbery,3,76,Female,Citizen,Yes,16.0,Female,Open,OFF1003,165
+1418,2020-06-29,Abuja,Wuse,Theft,5,22,Male,Citizen,Yes,76.0,Female,Open,OFF6640,32
+1419,2021-02-28,Edo,Benin City,Robbery,1,65,Female,Media,No,,,Closed,OFF2207,47
+1420,2020-09-13,Rivers,Bonny,Theft,4,22,Male,Police,Yes,17.0,Male,In Court,OFF7681,113
+1421,2020-04-22,Abuja,Garki,Homicide,1,49,Female,Citizen,Yes,79.0,Male,In Court,OFF4625,32
+1422,2020-03-10,Abuja,Wuse,Homicide,4,58,Male,Media,Yes,46.0,Male,Closed,OFF8437,155
+1423,2020-06-03,Kaduna,Kaduna North,Fraud,4,78,Male,Media,Yes,35.0,Male,Open,OFF6184,68
+1424,2020-01-27,Rivers,Obio,Robbery,2,38,Female,Citizen,Yes,53.0,Female,Closed,OFF4133,128
+1425,2022-09-05,Enugu,Nsukka,Robbery,4,54,Male,Media,No,,,In Court,OFF1556,9
+1426,2020-12-09,Oyo,Ogbomosho,Homicide,3,65,Male,Police,Yes,24.0,Female,Open,OFF2690,104
+1427,2021-05-16,Rivers,Obio,Burglary,1,41,Male,Citizen,Yes,28.0,Male,In Court,OFF5034,177
+1428,2022-04-13,Lagos,Yaba,Robbery,2,22,Male,Police,Yes,54.0,Male,Open,OFF1117,35
+1429,2021-02-14,Kano,Dala,Burglary,2,30,Male,Citizen,No,,,In Court,OFF8315,113
+1430,2021-05-24,Kaduna,Zaria,Burglary,3,67,Female,Police,No,,,Closed,OFF3531,34
+1431,2022-08-03,Ogun,Ijebu Ode,Robbery,5,53,Female,Citizen,Yes,62.0,Female,Open,OFF3040,172
+1432,2020-11-25,Edo,Auchi,Homicide,2,70,Male,Citizen,Yes,30.0,Female,In Court,OFF8366,69
+1433,2020-10-20,Kano,Ungogo,Theft,4,23,Female,Media,No,,,Open,OFF2654,138
+1434,2022-08-06,Ogun,Sagamu,Robbery,5,46,Female,Police,No,,,Closed,OFF2558,169
+1435,2022-04-20,Kano,Ungogo,Burglary,4,65,Female,Police,No,,,Open,OFF6965,69
+1436,2021-09-04,Ogun,Ijebu Ode,Theft,1,15,Female,Police,Yes,48.0,Female,In Court,OFF1133,68
+1437,2021-03-23,Kano,Dala,Burglary,4,51,Female,Citizen,No,,,Closed,OFF1657,50
+1438,2021-09-17,Enugu,Enugu East,Assault,4,29,Female,Police,Yes,27.0,Male,Closed,OFF6493,168
+1439,2021-11-22,Lagos,Ikeja,Assault,4,56,Female,Citizen,Yes,27.0,Female,Closed,OFF3587,178
+1440,2020-04-03,Lagos,Ikeja,Burglary,1,54,Female,Police,No,,,Closed,OFF5469,159
+1441,2020-04-09,Ogun,Abeokuta,Burglary,3,76,Female,Police,No,,,Closed,OFF3417,24
+1442,2022-07-25,Edo,Ekpoma,Burglary,3,74,Female,Media,Yes,38.0,Male,Closed,OFF3456,114
+1443,2021-04-23,Lagos,Lekki,Assault,3,25,Female,Media,Yes,46.0,Male,Closed,OFF7047,158
+1444,2022-07-04,Edo,Ekpoma,Burglary,5,24,Male,Media,Yes,39.0,Female,Open,OFF6700,34
+1445,2021-10-04,Ogun,Sagamu,Assault,1,53,Female,Police,Yes,36.0,Male,Closed,OFF5020,156
+1446,2020-09-09,Kano,Tarauni,Robbery,4,53,Male,Citizen,No,,,Open,OFF6056,73
+1447,2021-10-06,Enugu,Awgu,Burglary,3,43,Female,Citizen,No,,,In Court,OFF4587,98
+1448,2021-01-11,Delta,Asaba,Burglary,2,68,Male,Media,No,,,Closed,OFF9443,136
+1449,2022-01-19,Lagos,Ikeja,Robbery,4,42,Female,Citizen,Yes,15.0,Male,In Court,OFF9620,5
+1450,2020-12-22,Rivers,Obio,Theft,1,45,Male,Media,Yes,75.0,Female,Open,OFF1360,93
+1451,2022-03-06,Kano,Dala,Assault,5,67,Female,Media,Yes,26.0,Female,Open,OFF6247,27
+1452,2020-10-26,Ogun,Ijebu Ode,Burglary,5,66,Female,Police,Yes,41.0,Female,In Court,OFF3720,43
+1453,2021-07-30,Kano,Ungogo,Homicide,4,48,Female,Media,No,,,In Court,OFF9240,42
+1454,2022-04-29,Ogun,Abeokuta,Homicide,2,47,Male,Police,Yes,49.0,Male,Open,OFF1456,138
+1455,2022-07-30,Edo,Auchi,Homicide,5,38,Female,Citizen,Yes,26.0,Male,Closed,OFF7912,173
+1456,2022-01-24,Oyo,Ibadan,Theft,3,49,Female,Citizen,Yes,41.0,Male,Open,OFF7854,133
+1457,2022-06-28,Delta,Ughelli,Assault,3,16,Female,Media,No,,,Open,OFF2257,101
+1458,2022-09-21,Kano,Tarauni,Assault,2,49,Male,Citizen,Yes,15.0,Female,In Court,OFF8413,118
+1459,2021-01-16,Edo,Benin City,Fraud,4,58,Male,Citizen,No,,,Closed,OFF6891,145
+1460,2020-05-18,Ogun,Ijebu Ode,Assault,1,17,Male,Media,No,,,In Court,OFF1583,60
+1461,2021-12-30,Kaduna,Kaduna North,Fraud,2,26,Male,Media,Yes,65.0,Male,In Court,OFF3367,14
+1462,2022-01-03,Lagos,Ikeja,Burglary,5,55,Female,Citizen,Yes,41.0,Male,In Court,OFF5181,80
+1463,2020-08-19,Abuja,Maitama,Assault,4,78,Female,Police,Yes,55.0,Male,Open,OFF8552,80
+1464,2020-07-21,Enugu,Awgu,Robbery,4,44,Male,Media,No,,,In Court,OFF8133,21
+1465,2022-06-06,Oyo,Ogbomosho,Burglary,3,28,Female,Police,Yes,37.0,Female,In Court,OFF8402,41
+1466,2021-01-16,Delta,Asaba,Assault,2,53,Female,Media,Yes,59.0,Male,Closed,OFF6548,32
+1467,2021-08-22,Rivers,Bonny,Burglary,5,33,Female,Media,No,,,Open,OFF7405,95
+1468,2020-06-15,Ogun,Sagamu,Assault,5,34,Female,Police,No,,,Open,OFF4048,35
+1469,2021-01-24,Kano,Dala,Theft,3,79,Female,Police,No,,,In Court,OFF6638,62
+1470,2021-12-20,Lagos,Ikeja,Fraud,4,27,Female,Police,Yes,65.0,Male,Open,OFF4366,12
+1471,2021-08-08,Kano,Dala,Fraud,1,26,Male,Police,No,,,Open,OFF6634,93
+1472,2021-05-09,Delta,Warri,Burglary,3,38,Male,Citizen,No,,,Closed,OFF9277,142
+1473,2022-09-18,Lagos,Ikeja,Homicide,5,48,Female,Citizen,No,,,In Court,OFF8562,55
+1474,2021-12-18,Enugu,Awgu,Fraud,1,22,Female,Citizen,Yes,77.0,Male,Open,OFF4634,123
+1475,2021-04-30,Enugu,Nsukka,Burglary,3,16,Male,Media,No,,,Open,OFF7863,21
+1476,2020-02-29,Lagos,Ikeja,Homicide,2,69,Male,Citizen,Yes,30.0,Female,Open,OFF6095,120
+1477,2021-01-05,Kano,Dala,Theft,3,35,Female,Police,No,,,Open,OFF8697,86
+1478,2021-11-04,Delta,Asaba,Fraud,2,45,Male,Citizen,Yes,62.0,Female,In Court,OFF5541,58
+1479,2022-01-26,Edo,Benin City,Homicide,3,78,Female,Media,No,,,In Court,OFF1977,132
+1480,2021-10-14,Enugu,Enugu East,Burglary,4,17,Female,Police,Yes,36.0,Female,In Court,OFF2867,10
+1481,2020-10-01,Enugu,Enugu East,Fraud,4,71,Male,Police,Yes,36.0,Male,Open,OFF4115,135
+1482,2021-09-19,Lagos,Ikeja,Robbery,5,48,Male,Citizen,No,,,Open,OFF5930,114
+1483,2022-07-18,Edo,Ekpoma,Theft,1,46,Male,Police,Yes,41.0,Female,In Court,OFF3110,55
+1484,2020-11-16,Delta,Ughelli,Robbery,2,30,Female,Citizen,No,,,Closed,OFF1853,125
+1485,2021-12-26,Abuja,Maitama,Assault,4,45,Male,Police,Yes,20.0,Male,In Court,OFF9384,70
+1486,2020-07-18,Edo,Auchi,Burglary,2,35,Male,Citizen,No,,,Open,OFF4841,16
+1487,2021-01-06,Delta,Asaba,Burglary,5,79,Male,Police,No,,,Open,OFF9817,128
+1488,2021-11-27,Rivers,Bonny,Fraud,3,64,Female,Citizen,No,,,Open,OFF7807,43
+1489,2020-09-20,Edo,Benin City,Theft,5,23,Female,Citizen,Yes,61.0,Male,Closed,OFF8908,39
+1490,2020-08-08,Rivers,Obio,Robbery,1,49,Female,Media,Yes,53.0,Female,In Court,OFF9608,20
+1491,2022-02-16,Oyo,Ogbomosho,Robbery,1,69,Male,Citizen,No,,,Open,OFF3587,155
+1492,2021-05-27,Lagos,Ikeja,Fraud,3,29,Male,Citizen,No,,,Closed,OFF2040,153
+1493,2020-09-06,Kano,Ungogo,Burglary,2,35,Female,Citizen,No,,,Open,OFF8300,88
+1494,2021-06-18,Edo,Benin City,Assault,4,36,Female,Police,Yes,67.0,Female,Open,OFF1997,17
+1495,2021-08-16,Edo,Ekpoma,Robbery,2,41,Male,Citizen,No,,,In Court,OFF5805,72
+1496,2022-04-03,Kano,Tarauni,Homicide,2,27,Female,Citizen,Yes,61.0,Male,Closed,OFF2348,134
+1497,2021-08-17,Kano,Tarauni,Burglary,1,23,Female,Media,Yes,48.0,Male,In Court,OFF8506,93
+1498,2021-01-10,Rivers,Bonny,Assault,4,63,Male,Police,No,,,Closed,OFF6836,55
+1499,2020-03-30,Rivers,Port Harcourt,Fraud,4,28,Male,Media,No,,,Open,OFF2834,116
+1500,2020-04-05,Enugu,Nsukka,Fraud,5,32,Male,Media,Yes,62.0,Male,Closed,OFF7596,62
+1501,2020-10-23,Delta,Asaba,Homicide,1,58,Female,Media,Yes,22.0,Male,In Court,OFF9528,26
+1502,2021-11-09,Ogun,Ijebu Ode,Assault,3,34,Male,Media,Yes,42.0,Male,Closed,OFF8122,132
+1503,2020-06-02,Edo,Auchi,Burglary,4,22,Male,Police,Yes,20.0,Female,Open,OFF8111,80
+1504,2020-02-06,Oyo,Ogbomosho,Homicide,2,40,Female,Media,Yes,30.0,Male,Open,OFF8454,15
+1505,2022-03-30,Oyo,Iseyin,Burglary,3,41,Male,Citizen,No,,,Open,OFF2629,21
+1506,2021-10-03,Oyo,Ogbomosho,Assault,5,23,Female,Media,Yes,39.0,Male,Closed,OFF4595,164
+1507,2022-05-25,Enugu,Nsukka,Burglary,4,76,Female,Citizen,No,,,Closed,OFF9748,80
+1508,2022-06-23,Abuja,Wuse,Homicide,5,40,Female,Police,No,,,Closed,OFF8813,84
+1509,2020-03-05,Oyo,Iseyin,Theft,5,52,Male,Citizen,No,,,Open,OFF1421,111
+1510,2021-12-09,Enugu,Nsukka,Homicide,1,40,Male,Citizen,Yes,20.0,Male,In Court,OFF5243,8
+1511,2020-09-16,Kano,Dala,Homicide,1,51,Male,Police,Yes,46.0,Female,Open,OFF5550,112
+1512,2021-09-18,Kano,Dala,Fraud,5,19,Male,Citizen,Yes,73.0,Female,Closed,OFF2333,143
+1513,2021-10-06,Edo,Ekpoma,Assault,3,31,Female,Police,Yes,49.0,Female,Closed,OFF1882,16
+1514,2021-04-12,Kaduna,Kafanchan,Fraud,4,65,Male,Media,No,,,In Court,OFF6521,133
+1515,2020-09-23,Kano,Ungogo,Assault,3,35,Female,Media,No,,,In Court,OFF9152,27
+1516,2022-08-06,Kaduna,Kaduna North,Theft,3,78,Male,Police,No,,,Closed,OFF1887,144
+1517,2021-02-05,Kaduna,Kafanchan,Homicide,3,41,Male,Police,No,,,Closed,OFF6889,28
+1518,2020-07-21,Enugu,Awgu,Fraud,4,24,Male,Police,No,,,Open,OFF1200,33
+1519,2022-03-17,Ogun,Ijebu Ode,Homicide,5,35,Male,Media,No,,,Closed,OFF7968,116
+1520,2022-03-28,Ogun,Sagamu,Homicide,5,65,Female,Citizen,No,,,In Court,OFF7028,6
+1521,2022-01-31,Edo,Benin City,Homicide,5,24,Male,Media,No,,,Closed,OFF1985,119
+1522,2021-01-20,Oyo,Ibadan,Fraud,4,38,Female,Citizen,No,,,In Court,OFF8649,174
+1523,2022-08-04,Kano,Dala,Assault,5,40,Female,Media,No,,,Open,OFF8186,67
+1524,2021-08-21,Delta,Asaba,Burglary,1,50,Female,Media,Yes,80.0,Female,In Court,OFF9369,72
+1525,2022-08-02,Kano,Dala,Burglary,3,38,Male,Police,Yes,58.0,Male,Open,OFF3958,36
+1526,2020-03-04,Kano,Tarauni,Homicide,3,64,Female,Media,Yes,26.0,Female,Closed,OFF4689,177
+1527,2021-04-28,Oyo,Ibadan,Burglary,5,57,Male,Police,No,,,Closed,OFF5345,46
+1528,2022-03-31,Ogun,Ijebu Ode,Fraud,1,48,Female,Media,No,,,Closed,OFF6273,176
+1529,2020-08-04,Kaduna,Kafanchan,Assault,5,70,Male,Police,Yes,25.0,Male,Closed,OFF6134,70
+1530,2020-11-29,Rivers,Port Harcourt,Theft,2,56,Male,Citizen,Yes,66.0,Male,Open,OFF5146,49
+1531,2021-04-20,Lagos,Lekki,Fraud,1,78,Male,Media,No,,,Open,OFF8332,91
+1532,2020-06-25,Lagos,Ikeja,Homicide,2,49,Male,Citizen,Yes,68.0,Female,In Court,OFF7185,116
+1533,2020-06-11,Kaduna,Kaduna North,Assault,1,37,Female,Police,Yes,77.0,Female,Closed,OFF2566,68
+1534,2020-11-06,Abuja,Garki,Burglary,5,58,Female,Citizen,No,,,Open,OFF5854,137
+1535,2020-06-26,Lagos,Yaba,Homicide,2,62,Female,Media,No,,,In Court,OFF8547,8
+1536,2020-11-01,Enugu,Nsukka,Theft,3,80,Female,Police,No,,,In Court,OFF3132,15
+1537,2021-08-31,Edo,Benin City,Robbery,2,77,Female,Police,Yes,69.0,Female,In Court,OFF1504,103
+1538,2021-07-19,Oyo,Ogbomosho,Theft,5,30,Male,Citizen,No,,,In Court,OFF1085,5
+1539,2020-07-24,Kano,Dala,Burglary,3,19,Female,Police,No,,,Open,OFF3068,17
+1540,2021-06-02,Delta,Asaba,Assault,2,76,Female,Police,Yes,58.0,Male,In Court,OFF9069,122
+1541,2021-11-23,Delta,Warri,Theft,4,49,Male,Media,Yes,66.0,Female,In Court,OFF1419,112
+1542,2022-04-09,Edo,Benin City,Theft,3,54,Female,Police,No,,,Open,OFF7073,62
+1543,2022-04-08,Lagos,Ikeja,Fraud,5,33,Female,Media,No,,,In Court,OFF4211,167
+1544,2022-05-08,Abuja,Wuse,Fraud,3,63,Male,Media,Yes,48.0,Female,Open,OFF3073,106
+1545,2020-11-09,Enugu,Awgu,Theft,1,69,Female,Police,Yes,18.0,Male,Closed,OFF3920,69
+1546,2020-07-19,Ogun,Abeokuta,Fraud,4,42,Male,Media,Yes,73.0,Female,Closed,OFF5754,144
+1547,2020-02-22,Kano,Ungogo,Homicide,2,23,Male,Media,Yes,80.0,Male,Closed,OFF6108,122
+1548,2020-03-01,Lagos,Ikeja,Homicide,4,54,Female,Citizen,Yes,79.0,Male,Open,OFF3594,40
+1549,2020-05-30,Abuja,Garki,Robbery,1,43,Male,Citizen,Yes,23.0,Female,Open,OFF6326,62
+1550,2022-06-13,Lagos,Lekki,Homicide,3,77,Male,Police,No,,,Closed,OFF8504,49
+1551,2021-12-27,Lagos,Yaba,Fraud,5,23,Female,Media,No,,,In Court,OFF7847,111
+1552,2020-02-21,Kaduna,Kaduna North,Burglary,3,45,Male,Media,No,,,Closed,OFF8232,172
+1553,2022-01-15,Delta,Asaba,Theft,1,32,Male,Media,No,,,Open,OFF7340,118
+1554,2020-06-28,Delta,Ughelli,Homicide,1,16,Male,Citizen,No,,,Open,OFF8207,139
+1555,2022-01-28,Delta,Warri,Robbery,2,60,Female,Citizen,Yes,16.0,Female,Open,OFF7539,46
+1556,2020-02-21,Delta,Ughelli,Robbery,2,29,Female,Police,No,,,Open,OFF7561,117
+1557,2021-01-11,Lagos,Yaba,Burglary,5,31,Female,Citizen,No,,,Open,OFF1327,167
+1558,2021-11-09,Oyo,Iseyin,Burglary,1,67,Male,Citizen,No,,,Open,OFF7409,122
+1559,2021-04-11,Ogun,Abeokuta,Burglary,1,20,Female,Citizen,Yes,76.0,Female,Closed,OFF7898,99
+1560,2022-09-07,Oyo,Ibadan,Theft,4,64,Male,Citizen,Yes,67.0,Female,Closed,OFF4667,24
+1561,2020-08-07,Lagos,Lekki,Assault,2,80,Male,Police,Yes,50.0,Male,Closed,OFF9070,74
+1562,2021-10-15,Abuja,Garki,Fraud,1,30,Male,Police,Yes,50.0,Female,Closed,OFF5530,118
+1563,2022-08-15,Abuja,Garki,Burglary,5,38,Female,Citizen,Yes,71.0,Male,Open,OFF9269,58
+1564,2020-12-22,Rivers,Obio,Homicide,3,19,Female,Police,No,,,In Court,OFF4429,38
+1565,2020-02-26,Enugu,Enugu East,Fraud,5,67,Female,Police,No,,,Open,OFF8844,109
+1566,2021-09-05,Rivers,Port Harcourt,Burglary,3,74,Male,Media,No,,,Closed,OFF5613,92
+1567,2021-03-09,Edo,Benin City,Fraud,5,77,Male,Police,No,,,Closed,OFF8341,72
+1568,2022-08-10,Lagos,Yaba,Fraud,2,55,Male,Citizen,No,,,Open,OFF1238,174
+1569,2021-07-16,Abuja,Wuse,Homicide,5,66,Female,Police,Yes,61.0,Male,In Court,OFF1322,113
+1570,2021-12-20,Enugu,Enugu East,Robbery,1,74,Female,Police,Yes,79.0,Female,Closed,OFF1131,68
+1571,2021-10-12,Rivers,Obio,Fraud,4,80,Male,Police,Yes,58.0,Male,In Court,OFF4910,117
+1572,2021-12-12,Enugu,Nsukka,Theft,3,29,Male,Police,No,,,Open,OFF9681,57
+1573,2020-11-12,Delta,Warri,Assault,5,20,Male,Citizen,No,,,Open,OFF5073,60
+1574,2022-09-14,Kaduna,Kafanchan,Homicide,5,40,Female,Media,Yes,17.0,Male,Closed,OFF4262,64
+1575,2021-11-11,Kano,Dala,Assault,4,55,Male,Citizen,Yes,77.0,Female,Open,OFF6745,122
+1576,2022-03-10,Enugu,Awgu,Assault,4,21,Male,Police,Yes,57.0,Female,Closed,OFF2914,171
+1577,2021-11-27,Rivers,Port Harcourt,Robbery,5,43,Male,Media,No,,,Closed,OFF6969,39
+1578,2021-04-30,Oyo,Iseyin,Burglary,4,71,Female,Police,No,,,Open,OFF8458,42
+1579,2022-04-03,Ogun,Abeokuta,Assault,3,39,Male,Media,No,,,Closed,OFF3803,171
+1580,2022-05-10,Rivers,Obio,Robbery,4,76,Male,Media,No,,,Open,OFF8199,30
+1581,2020-02-10,Enugu,Enugu East,Theft,3,29,Male,Police,No,,,Open,OFF5251,116
+1582,2021-04-21,Delta,Asaba,Robbery,1,75,Female,Media,Yes,46.0,Female,Open,OFF1608,49
+1583,2022-04-19,Lagos,Ikeja,Homicide,1,41,Male,Citizen,Yes,74.0,Female,Closed,OFF8581,105
+1584,2020-04-30,Abuja,Garki,Robbery,1,79,Female,Media,No,,,In Court,OFF7547,13
+1585,2020-07-02,Enugu,Awgu,Assault,2,37,Male,Citizen,No,,,Open,OFF1190,111
+1586,2021-08-20,Rivers,Obio,Burglary,2,51,Male,Police,Yes,32.0,Female,Open,OFF7892,42
+1587,2022-01-12,Rivers,Port Harcourt,Burglary,5,57,Female,Media,No,,,Closed,OFF8479,86
+1588,2022-05-28,Kano,Tarauni,Fraud,2,16,Female,Citizen,No,,,In Court,OFF4952,118
+1589,2022-08-14,Kano,Dala,Burglary,1,36,Female,Police,Yes,24.0,Female,In Court,OFF5303,84
+1590,2022-02-01,Edo,Benin City,Fraud,3,30,Female,Media,Yes,19.0,Male,In Court,OFF9913,165
+1591,2022-08-13,Kano,Ungogo,Robbery,1,62,Female,Citizen,No,,,Closed,OFF4242,111
+1592,2021-02-09,Kano,Tarauni,Assault,2,41,Male,Police,No,,,Open,OFF4774,150
+1593,2021-07-11,Edo,Benin City,Homicide,1,26,Female,Citizen,Yes,26.0,Male,Closed,OFF1581,155
+1594,2020-04-02,Delta,Warri,Assault,2,19,Female,Media,Yes,39.0,Male,In Court,OFF3284,5
+1595,2021-07-08,Abuja,Wuse,Theft,5,54,Female,Media,No,,,Closed,OFF5022,51
+1596,2020-11-01,Rivers,Bonny,Robbery,3,19,Male,Citizen,Yes,62.0,Male,In Court,OFF4862,176
+1597,2021-01-12,Abuja,Maitama,Assault,1,68,Female,Citizen,Yes,34.0,Male,In Court,OFF1687,118
+1598,2021-07-27,Ogun,Ijebu Ode,Homicide,4,71,Male,Media,Yes,32.0,Male,In Court,OFF9942,91
+1599,2022-06-18,Kano,Dala,Burglary,4,21,Male,Citizen,Yes,41.0,Male,Closed,OFF3936,132
+1600,2020-05-17,Ogun,Ijebu Ode,Homicide,3,46,Male,Police,No,,,Open,OFF9455,139
+1601,2020-08-07,Enugu,Nsukka,Burglary,2,69,Female,Citizen,Yes,64.0,Female,Open,OFF6587,44
+1602,2020-12-21,Ogun,Abeokuta,Burglary,1,21,Female,Citizen,No,,,Open,OFF1416,87
+1603,2020-11-24,Delta,Asaba,Theft,4,30,Female,Media,No,,,Open,OFF8602,9
+1604,2020-06-21,Kano,Tarauni,Theft,1,68,Female,Police,Yes,16.0,Female,Open,OFF3539,167
+1605,2021-04-27,Enugu,Enugu East,Theft,1,66,Female,Media,No,,,Open,OFF7044,179
+1606,2020-01-24,Enugu,Nsukka,Robbery,2,57,Male,Media,No,,,Closed,OFF4612,13
+1607,2020-07-05,Oyo,Iseyin,Robbery,2,68,Male,Media,Yes,21.0,Male,Closed,OFF9905,52
+1608,2022-04-18,Oyo,Iseyin,Homicide,2,46,Female,Media,No,,,Open,OFF7471,93
+1609,2022-07-31,Enugu,Enugu East,Fraud,3,30,Male,Police,Yes,75.0,Male,Open,OFF5706,170
+1610,2022-06-23,Kaduna,Zaria,Burglary,4,71,Female,Police,Yes,68.0,Female,Open,OFF6305,173
+1611,2020-05-23,Delta,Ughelli,Burglary,2,28,Female,Media,Yes,48.0,Female,Closed,OFF9452,22
+1612,2022-02-18,Kano,Ungogo,Fraud,1,55,Female,Media,No,,,In Court,OFF4671,180
+1613,2020-02-12,Lagos,Ikeja,Fraud,2,79,Male,Police,Yes,52.0,Male,In Court,OFF9867,125
+1614,2020-08-17,Kaduna,Zaria,Assault,2,35,Male,Police,Yes,24.0,Male,In Court,OFF2241,147
+1615,2021-01-03,Abuja,Garki,Robbery,5,64,Male,Citizen,No,,,Open,OFF8346,112
+1616,2020-07-03,Delta,Warri,Robbery,3,17,Female,Media,Yes,80.0,Female,In Court,OFF5944,70
+1617,2022-02-16,Delta,Asaba,Robbery,4,49,Female,Media,No,,,Open,OFF5143,176
+1618,2021-11-02,Edo,Benin City,Theft,4,45,Male,Police,No,,,In Court,OFF8156,133
+1619,2020-03-16,Abuja,Garki,Burglary,4,31,Male,Police,No,,,In Court,OFF7164,25
+1620,2020-10-30,Enugu,Nsukka,Assault,4,47,Male,Police,No,,,Closed,OFF1410,67
+1621,2020-05-28,Oyo,Iseyin,Homicide,2,51,Female,Police,Yes,15.0,Male,Open,OFF7617,88
+1622,2021-11-20,Rivers,Obio,Robbery,3,24,Male,Citizen,No,,,Open,OFF1937,13
+1623,2021-01-08,Abuja,Garki,Fraud,3,48,Female,Media,No,,,Open,OFF8355,31
+1624,2021-06-03,Ogun,Abeokuta,Theft,2,21,Female,Citizen,Yes,45.0,Male,In Court,OFF9244,148
+1625,2020-04-02,Oyo,Ibadan,Fraud,5,22,Female,Police,Yes,64.0,Female,Closed,OFF2045,9
+1626,2020-07-02,Kaduna,Kafanchan,Homicide,3,25,Male,Media,Yes,58.0,Female,Closed,OFF8562,119
+1627,2022-07-09,Rivers,Bonny,Theft,1,59,Female,Media,No,,,Closed,OFF6510,115
+1628,2020-02-06,Lagos,Lekki,Assault,2,40,Female,Media,Yes,52.0,Female,Open,OFF1275,8
+1629,2022-01-13,Kaduna,Kaduna North,Fraud,1,54,Female,Police,No,,,In Court,OFF5055,72
+1630,2020-04-20,Ogun,Sagamu,Fraud,4,77,Male,Media,No,,,Closed,OFF2779,56
+1631,2021-04-26,Rivers,Port Harcourt,Robbery,2,70,Female,Police,Yes,73.0,Female,In Court,OFF6561,64
+1632,2020-03-25,Oyo,Iseyin,Burglary,4,34,Female,Citizen,Yes,57.0,Female,In Court,OFF2906,104
+1633,2022-09-27,Lagos,Yaba,Fraud,5,62,Female,Media,No,,,Open,OFF7683,42
+1634,2020-10-23,Abuja,Maitama,Fraud,1,68,Female,Police,Yes,20.0,Female,Closed,OFF2259,82
+1635,2021-11-14,Kaduna,Zaria,Robbery,1,34,Female,Media,Yes,22.0,Male,Closed,OFF1325,140
+1636,2020-05-30,Enugu,Awgu,Assault,5,58,Female,Media,No,,,Open,OFF3141,76
+1637,2020-12-04,Enugu,Awgu,Homicide,4,61,Male,Media,Yes,40.0,Male,Closed,OFF7659,168
+1638,2022-02-17,Oyo,Ogbomosho,Burglary,4,41,Male,Citizen,Yes,29.0,Male,Open,OFF1510,138
+1639,2022-04-01,Lagos,Ikeja,Theft,3,58,Female,Citizen,No,,,In Court,OFF8144,67
+1640,2021-11-27,Rivers,Obio,Theft,3,60,Female,Media,Yes,63.0,Female,In Court,OFF5829,73
+1641,2021-10-17,Ogun,Ijebu Ode,Theft,2,20,Female,Media,No,,,In Court,OFF7395,37
+1642,2020-11-23,Rivers,Port Harcourt,Burglary,1,23,Female,Citizen,Yes,26.0,Male,In Court,OFF3709,5
+1643,2022-08-18,Abuja,Garki,Homicide,4,29,Female,Citizen,No,,,In Court,OFF1134,100
+1644,2020-05-25,Kaduna,Kaduna North,Burglary,1,41,Male,Police,Yes,18.0,Female,Open,OFF3662,35
+1645,2020-05-11,Lagos,Ikeja,Fraud,2,46,Male,Citizen,No,,,Open,OFF3632,79
+1646,2021-09-23,Kano,Ungogo,Homicide,5,63,Female,Police,No,,,Closed,OFF2692,15
+1647,2021-09-04,Ogun,Abeokuta,Homicide,1,33,Male,Media,No,,,In Court,OFF4938,66
+1648,2021-07-24,Abuja,Wuse,Robbery,1,50,Male,Media,Yes,74.0,Male,In Court,OFF9221,86
+1649,2020-08-31,Oyo,Ogbomosho,Assault,1,75,Female,Police,No,,,Closed,OFF7105,42
+1650,2022-01-31,Ogun,Abeokuta,Assault,4,31,Male,Media,No,,,Closed,OFF7884,175
+1651,2020-10-18,Delta,Warri,Burglary,1,77,Female,Citizen,Yes,50.0,Female,Closed,OFF9992,79
+1652,2022-05-05,Kaduna,Kaduna North,Robbery,4,53,Female,Citizen,Yes,20.0,Male,Open,OFF4767,95
+1653,2022-08-21,Oyo,Iseyin,Theft,5,39,Male,Media,No,,,In Court,OFF5458,159
+1654,2022-08-26,Kano,Ungogo,Assault,2,64,Female,Police,No,,,Open,OFF8184,111
+1655,2020-10-28,Kano,Ungogo,Homicide,2,61,Female,Citizen,Yes,34.0,Female,In Court,OFF1503,106
+1656,2022-08-01,Lagos,Ikeja,Theft,1,20,Female,Police,No,,,Open,OFF2464,163
+1657,2021-12-11,Kaduna,Zaria,Theft,3,61,Male,Citizen,Yes,68.0,Male,In Court,OFF8485,160
+1658,2022-04-08,Lagos,Yaba,Assault,5,64,Male,Police,No,,,Open,OFF3603,17
+1659,2020-10-18,Ogun,Abeokuta,Fraud,4,77,Male,Media,Yes,33.0,Female,Open,OFF8584,25
+1660,2021-04-15,Kano,Dala,Assault,5,76,Male,Media,Yes,31.0,Female,Open,OFF2732,153
+1661,2022-02-17,Delta,Ughelli,Fraud,3,57,Female,Police,No,,,In Court,OFF4798,24
+1662,2022-06-02,Kano,Ungogo,Theft,4,37,Male,Media,Yes,30.0,Female,Open,OFF7654,55
+1663,2022-01-02,Lagos,Lekki,Burglary,5,34,Female,Police,No,,,In Court,OFF5451,35
+1664,2021-07-31,Lagos,Ikeja,Theft,4,48,Female,Police,Yes,22.0,Female,Closed,OFF8883,150
+1665,2020-06-09,Abuja,Garki,Theft,5,38,Male,Citizen,Yes,58.0,Female,Closed,OFF3365,139
+1666,2020-04-06,Kaduna,Zaria,Homicide,1,28,Female,Media,Yes,44.0,Female,Open,OFF8755,73
+1667,2020-05-07,Kano,Dala,Theft,5,64,Female,Police,No,,,In Court,OFF7392,19
+1668,2021-01-03,Oyo,Ibadan,Theft,5,57,Female,Police,No,,,Open,OFF6364,175
+1669,2022-02-26,Abuja,Garki,Fraud,4,71,Female,Citizen,No,,,Closed,OFF4956,68
+1670,2021-12-18,Edo,Ekpoma,Robbery,4,20,Male,Police,Yes,63.0,Female,Open,OFF9906,10
+1671,2022-01-21,Enugu,Nsukka,Assault,2,60,Female,Citizen,Yes,31.0,Female,Closed,OFF9809,52
+1672,2020-05-24,Rivers,Port Harcourt,Assault,5,22,Female,Media,Yes,56.0,Female,Closed,OFF7071,76
+1673,2021-05-10,Kano,Dala,Fraud,4,21,Male,Police,Yes,23.0,Female,In Court,OFF1307,179
+1674,2021-11-23,Oyo,Ibadan,Assault,1,17,Female,Citizen,No,,,Open,OFF7504,164
+1675,2020-10-08,Delta,Asaba,Fraud,5,61,Female,Police,Yes,20.0,Female,In Court,OFF5800,87
+1676,2022-07-07,Kano,Dala,Theft,3,60,Female,Media,No,,,In Court,OFF7037,77
+1677,2021-03-19,Abuja,Maitama,Assault,4,63,Male,Media,Yes,42.0,Male,Closed,OFF5982,122
+1678,2020-12-29,Oyo,Ogbomosho,Burglary,3,58,Female,Media,No,,,In Court,OFF1662,156
+1679,2020-11-16,Delta,Warri,Theft,1,52,Male,Police,Yes,59.0,Female,Open,OFF6483,44
+1680,2021-08-30,Abuja,Garki,Robbery,1,57,Male,Citizen,No,,,In Court,OFF1506,57
+1681,2021-08-24,Lagos,Lekki,Fraud,1,67,Female,Police,Yes,54.0,Male,Open,OFF8258,168
+1682,2021-10-25,Lagos,Ikeja,Robbery,3,43,Female,Media,Yes,57.0,Male,In Court,OFF3793,63
+1683,2022-05-27,Oyo,Ibadan,Robbery,3,67,Male,Citizen,No,,,In Court,OFF9925,35
+1684,2020-03-23,Enugu,Nsukka,Robbery,2,34,Male,Media,No,,,Open,OFF3987,104
+1685,2021-05-10,Ogun,Sagamu,Homicide,5,73,Male,Citizen,Yes,78.0,Female,Open,OFF5951,76
+1686,2022-07-13,Kano,Dala,Assault,1,22,Female,Police,Yes,30.0,Female,In Court,OFF5306,127
+1687,2020-06-18,Oyo,Iseyin,Fraud,3,62,Female,Police,Yes,17.0,Male,Closed,OFF5715,122
+1688,2021-01-21,Ogun,Ijebu Ode,Fraud,2,56,Female,Citizen,No,,,Open,OFF5139,85
+1689,2022-08-05,Kaduna,Zaria,Theft,4,41,Male,Citizen,No,,,In Court,OFF7753,63
+1690,2020-07-25,Enugu,Awgu,Robbery,1,44,Female,Citizen,Yes,24.0,Male,Open,OFF2678,171
+1691,2021-07-23,Kaduna,Zaria,Theft,4,61,Male,Police,No,,,In Court,OFF5418,110
+1692,2020-02-08,Ogun,Abeokuta,Robbery,2,16,Male,Citizen,No,,,Closed,OFF6218,70
+1693,2021-09-04,Delta,Asaba,Robbery,4,32,Female,Citizen,No,,,Open,OFF8073,106
+1694,2020-07-19,Edo,Auchi,Robbery,1,67,Male,Police,No,,,Open,OFF9358,137
+1695,2020-10-14,Kano,Ungogo,Assault,2,58,Female,Police,Yes,73.0,Female,In Court,OFF8312,48
+1696,2021-03-16,Edo,Ekpoma,Theft,5,26,Male,Citizen,No,,,In Court,OFF1443,68
+1697,2021-02-12,Lagos,Ikeja,Homicide,2,34,Male,Media,Yes,29.0,Female,Closed,OFF7000,41
+1698,2020-06-24,Kano,Dala,Fraud,1,27,Male,Citizen,No,,,Closed,OFF5635,95
+1699,2020-12-03,Lagos,Lekki,Assault,2,53,Female,Media,No,,,In Court,OFF4913,89
+1700,2022-05-17,Kaduna,Zaria,Assault,4,54,Female,Citizen,No,,,Open,OFF7585,177
+1701,2021-08-16,Delta,Warri,Burglary,2,61,Female,Citizen,Yes,41.0,Male,Open,OFF6845,147
+1702,2021-03-23,Delta,Asaba,Assault,4,59,Female,Police,Yes,29.0,Male,Open,OFF6216,99
+1703,2021-07-02,Oyo,Ibadan,Homicide,5,19,Male,Citizen,No,,,Closed,OFF9764,38
+1704,2020-03-30,Oyo,Iseyin,Homicide,3,44,Male,Police,Yes,58.0,Male,In Court,OFF7676,132
+1705,2021-12-11,Abuja,Maitama,Homicide,3,16,Male,Citizen,No,,,Open,OFF5933,16
+1706,2021-12-26,Ogun,Ijebu Ode,Homicide,3,55,Male,Citizen,Yes,29.0,Female,Open,OFF8776,103
+1707,2021-06-10,Delta,Asaba,Assault,3,38,Male,Police,Yes,33.0,Female,In Court,OFF6984,40
+1708,2022-08-29,Ogun,Ijebu Ode,Theft,5,43,Male,Police,Yes,22.0,Male,Closed,OFF4266,78
+1709,2022-03-14,Delta,Warri,Fraud,1,47,Female,Citizen,No,,,Open,OFF2911,12
+1710,2022-09-26,Kaduna,Zaria,Theft,2,33,Male,Media,No,,,Open,OFF9483,50
+1711,2022-03-03,Oyo,Ibadan,Homicide,1,55,Male,Citizen,No,,,In Court,OFF5988,98
+1712,2022-01-27,Lagos,Ikeja,Robbery,1,50,Male,Citizen,No,,,Open,OFF4533,146
+1713,2021-09-28,Edo,Ekpoma,Assault,5,24,Male,Police,No,,,Closed,OFF4776,12
+1714,2020-07-05,Delta,Asaba,Fraud,4,37,Female,Citizen,Yes,44.0,Male,Closed,OFF4853,92
+1715,2021-04-11,Rivers,Bonny,Homicide,4,26,Male,Media,Yes,44.0,Female,Open,OFF3346,68
+1716,2021-01-02,Edo,Benin City,Burglary,5,27,Male,Citizen,No,,,In Court,OFF5683,5
+1717,2020-03-19,Kano,Tarauni,Homicide,2,23,Female,Media,No,,,In Court,OFF6109,160
+1718,2022-06-15,Rivers,Port Harcourt,Theft,3,17,Male,Citizen,Yes,28.0,Female,In Court,OFF9684,45
+1719,2021-06-12,Abuja,Garki,Assault,3,49,Male,Police,No,,,Closed,OFF5831,145
+1720,2021-07-05,Rivers,Bonny,Robbery,4,68,Female,Police,Yes,75.0,Female,In Court,OFF4545,102
+1721,2022-04-03,Delta,Asaba,Fraud,1,28,Male,Media,Yes,24.0,Male,Closed,OFF1721,158
+1722,2021-03-11,Lagos,Yaba,Homicide,1,57,Female,Citizen,No,,,Closed,OFF4522,40
+1723,2022-07-26,Ogun,Abeokuta,Fraud,4,23,Female,Police,No,,,Open,OFF3807,165
+1724,2021-10-05,Lagos,Ikeja,Theft,4,80,Female,Citizen,No,,,Open,OFF3713,138
+1725,2021-09-03,Enugu,Enugu East,Burglary,1,64,Female,Police,No,,,Open,OFF8755,166
+1726,2021-12-12,Kano,Dala,Theft,3,28,Male,Police,No,,,Closed,OFF4304,44
+1727,2020-04-17,Ogun,Sagamu,Burglary,5,40,Female,Citizen,No,,,Closed,OFF5140,151
+1728,2022-06-14,Ogun,Ijebu Ode,Robbery,4,74,Male,Citizen,No,,,Closed,OFF8715,180
+1729,2022-07-23,Kano,Dala,Homicide,2,67,Male,Police,Yes,28.0,Female,In Court,OFF8064,65
+1730,2021-12-07,Lagos,Lekki,Robbery,4,47,Female,Citizen,No,,,In Court,OFF4179,34
+1731,2020-05-20,Delta,Asaba,Fraud,2,39,Male,Citizen,Yes,38.0,Male,Closed,OFF1986,124
+1732,2020-10-14,Oyo,Ogbomosho,Robbery,1,25,Female,Media,No,,,In Court,OFF2183,110
+1733,2020-03-07,Rivers,Bonny,Burglary,5,57,Female,Citizen,Yes,68.0,Female,Closed,OFF7926,35
+1734,2020-09-23,Rivers,Port Harcourt,Robbery,4,55,Male,Media,No,,,Closed,OFF4335,71
+1735,2021-07-22,Ogun,Sagamu,Fraud,2,44,Male,Media,No,,,Closed,OFF5380,88
+1736,2022-02-23,Kaduna,Kaduna North,Theft,1,68,Male,Citizen,No,,,In Court,OFF3882,48
+1737,2021-05-14,Enugu,Awgu,Fraud,3,15,Female,Police,No,,,In Court,OFF5762,120
+1738,2020-12-01,Kano,Dala,Fraud,4,76,Female,Police,Yes,71.0,Male,Closed,OFF8351,167
+1739,2021-09-09,Rivers,Bonny,Fraud,4,40,Female,Media,Yes,55.0,Female,Closed,OFF1854,34
+1740,2021-03-30,Kaduna,Zaria,Burglary,5,54,Female,Citizen,No,,,In Court,OFF5895,111
+1741,2021-11-09,Oyo,Ibadan,Theft,2,46,Female,Police,No,,,Open,OFF7472,132
+1742,2020-07-14,Oyo,Iseyin,Fraud,3,66,Female,Police,Yes,76.0,Female,In Court,OFF8973,179
+1743,2021-04-02,Abuja,Maitama,Homicide,3,78,Male,Police,No,,,Open,OFF5462,105
+1744,2021-07-17,Kano,Dala,Burglary,2,20,Male,Media,Yes,21.0,Female,In Court,OFF9194,66
+1745,2020-04-06,Oyo,Ibadan,Burglary,1,50,Male,Police,No,,,In Court,OFF3607,110
+1746,2022-07-12,Delta,Warri,Theft,1,49,Male,Media,Yes,64.0,Female,In Court,OFF5561,167
+1747,2020-08-18,Ogun,Ijebu Ode,Burglary,5,23,Male,Media,Yes,40.0,Male,Closed,OFF1669,156
+1748,2020-02-17,Kaduna,Kafanchan,Burglary,4,75,Male,Citizen,No,,,In Court,OFF6649,49
+1749,2022-08-04,Rivers,Bonny,Assault,1,72,Female,Police,No,,,Open,OFF4024,130
+1750,2020-11-21,Lagos,Ikeja,Fraud,4,55,Male,Police,No,,,Open,OFF1142,126
+1751,2022-08-08,Rivers,Obio,Theft,1,51,Male,Media,No,,,Open,OFF7907,175
+1752,2020-03-30,Rivers,Port Harcourt,Burglary,1,16,Male,Police,No,,,Closed,OFF3249,76
+1753,2020-03-04,Lagos,Yaba,Theft,4,76,Female,Police,No,,,Open,OFF3814,154
+1754,2020-03-13,Kano,Ungogo,Fraud,5,53,Male,Police,No,,,Closed,OFF2560,156
+1755,2021-08-29,Ogun,Abeokuta,Burglary,5,44,Male,Media,No,,,In Court,OFF7404,36
+1756,2022-02-27,Delta,Ughelli,Homicide,4,29,Male,Media,No,,,Closed,OFF5422,125
+1757,2022-07-06,Ogun,Ijebu Ode,Burglary,2,46,Male,Citizen,Yes,60.0,Male,Closed,OFF7316,94
+1758,2022-05-18,Kano,Dala,Homicide,4,23,Male,Police,No,,,Closed,OFF6823,118
+1759,2021-07-05,Edo,Ekpoma,Assault,2,54,Male,Citizen,Yes,22.0,Male,In Court,OFF6355,157
+1760,2020-08-18,Abuja,Garki,Assault,3,27,Female,Citizen,Yes,22.0,Female,Closed,OFF3638,64
+1761,2020-07-30,Kaduna,Kaduna North,Burglary,1,28,Female,Police,Yes,53.0,Female,Closed,OFF2110,147
+1762,2022-09-19,Kano,Tarauni,Homicide,4,49,Male,Citizen,Yes,37.0,Male,In Court,OFF4307,134
+1763,2020-01-10,Edo,Ekpoma,Robbery,5,15,Female,Police,No,,,Open,OFF1004,178
+1764,2022-04-17,Rivers,Bonny,Homicide,1,59,Male,Police,Yes,41.0,Male,In Court,OFF4308,120
+1765,2020-03-21,Abuja,Garki,Assault,4,46,Male,Police,Yes,50.0,Female,Closed,OFF7156,130
+1766,2021-05-29,Kaduna,Kafanchan,Theft,1,58,Female,Citizen,No,,,Open,OFF2690,27
+1767,2021-01-03,Kaduna,Zaria,Fraud,4,51,Male,Citizen,No,,,Open,OFF1405,31
+1768,2020-04-03,Ogun,Abeokuta,Robbery,4,15,Male,Citizen,Yes,41.0,Male,In Court,OFF6924,150
+1769,2022-05-16,Enugu,Enugu East,Assault,1,75,Male,Media,No,,,In Court,OFF2470,95
+1770,2020-05-07,Kano,Ungogo,Fraud,2,49,Female,Media,Yes,63.0,Female,Open,OFF3778,56
+1771,2022-03-22,Rivers,Obio,Assault,5,36,Female,Police,No,,,Closed,OFF6190,171
+1772,2022-03-01,Enugu,Awgu,Burglary,5,68,Female,Media,No,,,In Court,OFF8209,148
+1773,2021-05-19,Ogun,Sagamu,Homicide,1,77,Male,Media,No,,,Open,OFF4845,119
+1774,2020-07-10,Kaduna,Zaria,Burglary,3,78,Female,Citizen,Yes,60.0,Male,In Court,OFF6510,157
+1775,2020-04-02,Ogun,Abeokuta,Burglary,3,80,Female,Media,Yes,39.0,Male,Open,OFF8957,44
+1776,2021-06-29,Edo,Auchi,Assault,3,63,Male,Media,No,,,Closed,OFF8682,163
+1777,2021-04-09,Rivers,Bonny,Homicide,3,56,Female,Police,Yes,50.0,Male,In Court,OFF6340,180
+1778,2022-08-01,Delta,Ughelli,Assault,4,41,Male,Police,No,,,In Court,OFF7399,162
+1779,2022-04-01,Kaduna,Kafanchan,Assault,4,29,Female,Citizen,Yes,49.0,Male,Closed,OFF8052,15
+1780,2020-06-16,Kano,Dala,Robbery,5,39,Male,Citizen,Yes,53.0,Male,In Court,OFF3899,144
+1781,2021-08-17,Enugu,Enugu East,Burglary,1,58,Female,Citizen,Yes,30.0,Male,Open,OFF5423,52
+1782,2021-12-01,Abuja,Wuse,Burglary,2,77,Female,Police,Yes,79.0,Female,Closed,OFF5356,169
+1783,2022-04-29,Ogun,Ijebu Ode,Homicide,1,59,Male,Citizen,No,,,Closed,OFF9235,12
+1784,2021-02-14,Abuja,Maitama,Fraud,5,62,Male,Police,Yes,37.0,Male,Closed,OFF6518,64
+1785,2020-07-01,Abuja,Wuse,Homicide,5,63,Female,Media,Yes,77.0,Male,Closed,OFF1779,138
+1786,2021-11-01,Oyo,Ogbomosho,Robbery,5,33,Female,Citizen,Yes,20.0,Female,In Court,OFF9549,135
+1787,2021-12-31,Ogun,Sagamu,Homicide,4,29,Male,Citizen,Yes,47.0,Male,Closed,OFF5519,71
+1788,2022-07-27,Kano,Tarauni,Assault,3,63,Female,Police,Yes,66.0,Male,In Court,OFF1671,109
+1789,2021-02-24,Abuja,Wuse,Fraud,4,37,Female,Media,Yes,71.0,Female,In Court,OFF7522,173
+1790,2021-01-04,Edo,Auchi,Fraud,3,53,Female,Police,Yes,23.0,Male,Closed,OFF6157,45
+1791,2021-02-22,Oyo,Ibadan,Assault,5,54,Female,Police,Yes,30.0,Male,Open,OFF2473,34
+1792,2021-03-29,Abuja,Maitama,Burglary,3,26,Female,Citizen,Yes,72.0,Female,Closed,OFF2671,84
+1793,2021-05-02,Ogun,Abeokuta,Homicide,5,26,Male,Media,No,,,Closed,OFF8792,34
+1794,2020-06-03,Rivers,Port Harcourt,Assault,4,55,Female,Media,Yes,71.0,Female,Closed,OFF5811,59
+1795,2020-07-31,Rivers,Port Harcourt,Homicide,3,58,Male,Police,No,,,Open,OFF5269,173
+1796,2022-03-06,Lagos,Ikeja,Robbery,3,31,Female,Citizen,No,,,In Court,OFF3907,26
+1797,2020-09-13,Delta,Asaba,Theft,1,48,Male,Citizen,Yes,71.0,Female,Closed,OFF9677,150
+1798,2021-04-06,Rivers,Bonny,Theft,4,80,Female,Citizen,Yes,77.0,Female,Open,OFF7017,30
+1799,2021-02-25,Oyo,Ibadan,Burglary,1,62,Male,Media,Yes,76.0,Male,Open,OFF7896,129
+1800,2022-07-01,Edo,Auchi,Robbery,4,26,Female,Police,Yes,53.0,Female,Closed,OFF1601,71
+1801,2021-11-05,Lagos,Yaba,Robbery,5,77,Male,Citizen,No,,,Closed,OFF7035,82
+1802,2022-02-17,Oyo,Ogbomosho,Robbery,2,66,Male,Media,Yes,21.0,Male,Closed,OFF5907,132
+1803,2022-08-12,Enugu,Nsukka,Theft,3,58,Male,Media,No,,,Closed,OFF7017,75
+1804,2022-06-20,Edo,Ekpoma,Theft,5,55,Male,Police,No,,,In Court,OFF7245,148
+1805,2022-03-26,Lagos,Yaba,Theft,4,63,Male,Citizen,No,,,In Court,OFF5992,29
+1806,2022-09-16,Oyo,Ibadan,Assault,5,23,Female,Media,Yes,55.0,Male,Open,OFF5775,130
+1807,2022-09-16,Kano,Dala,Homicide,2,59,Female,Citizen,No,,,Open,OFF6770,109
+1808,2022-05-13,Lagos,Lekki,Theft,2,31,Male,Media,Yes,22.0,Male,Open,OFF5068,58
+1809,2020-11-26,Enugu,Enugu East,Burglary,2,45,Male,Media,No,,,Closed,OFF3622,85
+1810,2022-08-25,Kaduna,Zaria,Robbery,1,18,Male,Police,No,,,In Court,OFF4135,173
+1811,2022-03-05,Delta,Asaba,Fraud,3,54,Male,Media,No,,,Closed,OFF2172,147
+1812,2021-06-17,Abuja,Maitama,Burglary,1,48,Female,Police,Yes,66.0,Male,In Court,OFF2721,72
+1813,2021-10-17,Delta,Ughelli,Theft,3,40,Female,Police,Yes,60.0,Female,Open,OFF6144,38
+1814,2020-11-01,Lagos,Lekki,Fraud,1,71,Male,Police,Yes,18.0,Male,Open,OFF9535,161
+1815,2022-05-06,Abuja,Garki,Fraud,1,35,Female,Police,No,,,Closed,OFF1297,157
+1816,2021-09-08,Kaduna,Kafanchan,Assault,5,80,Female,Media,Yes,46.0,Male,In Court,OFF4736,92
+1817,2020-11-23,Ogun,Abeokuta,Robbery,1,73,Female,Citizen,Yes,22.0,Male,In Court,OFF1539,175
+1818,2020-03-29,Delta,Asaba,Assault,5,42,Male,Police,Yes,17.0,Male,Open,OFF5550,148
+1819,2020-07-03,Rivers,Bonny,Fraud,5,64,Male,Citizen,No,,,In Court,OFF9900,128
+1820,2022-08-05,Lagos,Lekki,Theft,4,16,Female,Police,No,,,Closed,OFF5923,10
+1821,2021-05-12,Delta,Warri,Theft,1,15,Male,Citizen,No,,,In Court,OFF4089,38
+1822,2021-08-01,Ogun,Abeokuta,Fraud,1,70,Female,Police,Yes,36.0,Female,In Court,OFF5453,124
+1823,2021-08-06,Kano,Tarauni,Assault,1,36,Male,Citizen,Yes,19.0,Female,In Court,OFF2400,125
+1824,2020-09-20,Abuja,Garki,Fraud,5,38,Female,Media,Yes,71.0,Male,Open,OFF9608,91
+1825,2020-05-26,Edo,Benin City,Assault,4,19,Male,Police,Yes,17.0,Female,In Court,OFF4923,99
+1826,2021-06-06,Rivers,Port Harcourt,Assault,3,42,Male,Police,No,,,Closed,OFF1903,123
+1827,2020-02-15,Delta,Ughelli,Homicide,3,61,Female,Media,Yes,29.0,Male,Open,OFF7043,148
+1828,2021-11-17,Kaduna,Kafanchan,Homicide,1,45,Male,Citizen,No,,,In Court,OFF1721,88
+1829,2021-10-21,Kaduna,Kafanchan,Assault,1,80,Male,Citizen,No,,,In Court,OFF3418,36
+1830,2022-04-19,Oyo,Iseyin,Fraud,2,27,Male,Police,Yes,58.0,Male,Closed,OFF5888,119
+1831,2021-05-28,Rivers,Obio,Fraud,5,73,Female,Media,No,,,Closed,OFF4005,27
+1832,2020-06-05,Enugu,Nsukka,Burglary,3,48,Female,Media,No,,,Closed,OFF7416,157
+1833,2020-05-29,Ogun,Ijebu Ode,Homicide,1,34,Male,Media,No,,,Closed,OFF3687,141
+1834,2020-07-04,Edo,Auchi,Robbery,1,25,Male,Media,No,,,Open,OFF1881,26
+1835,2020-09-29,Oyo,Iseyin,Assault,2,28,Female,Media,No,,,In Court,OFF5605,15
+1836,2021-08-28,Enugu,Awgu,Burglary,1,71,Female,Media,No,,,Open,OFF9436,23
+1837,2022-06-22,Enugu,Nsukka,Robbery,2,52,Male,Citizen,No,,,In Court,OFF3730,46
+1838,2022-06-30,Enugu,Nsukka,Theft,2,25,Female,Police,Yes,25.0,Male,Closed,OFF7471,127
+1839,2022-03-03,Oyo,Ibadan,Assault,1,15,Male,Citizen,No,,,Open,OFF8515,109
+1840,2021-06-22,Lagos,Yaba,Homicide,1,29,Female,Police,No,,,Open,OFF3668,112
+1841,2021-12-19,Delta,Asaba,Assault,2,58,Male,Citizen,No,,,In Court,OFF7948,123
+1842,2021-12-09,Edo,Auchi,Theft,2,46,Male,Police,No,,,Closed,OFF3439,18
+1843,2021-09-28,Edo,Benin City,Assault,1,71,Female,Citizen,Yes,40.0,Male,Open,OFF6339,38
+1844,2021-10-19,Enugu,Awgu,Theft,2,66,Male,Police,Yes,72.0,Male,Open,OFF2324,152
+1845,2021-12-16,Ogun,Abeokuta,Theft,2,62,Female,Media,No,,,In Court,OFF4754,85
+1846,2021-11-07,Kano,Dala,Assault,4,23,Male,Media,No,,,In Court,OFF2914,76
+1847,2020-07-15,Lagos,Lekki,Theft,3,28,Female,Police,No,,,In Court,OFF3568,149
+1848,2020-01-11,Edo,Ekpoma,Homicide,3,19,Male,Media,No,,,In Court,OFF6006,115
+1849,2021-07-04,Kaduna,Kaduna North,Homicide,3,36,Female,Citizen,Yes,42.0,Male,Open,OFF4761,176
+1850,2020-01-13,Abuja,Maitama,Theft,4,48,Female,Media,No,,,Closed,OFF7802,84
+1851,2020-11-13,Delta,Ughelli,Theft,4,41,Female,Media,No,,,In Court,OFF4739,35
+1852,2020-02-16,Lagos,Ikeja,Robbery,2,55,Male,Police,Yes,37.0,Female,Closed,OFF8374,59
+1853,2022-04-02,Oyo,Iseyin,Homicide,1,80,Male,Citizen,No,,,Closed,OFF9558,29
+1854,2021-07-02,Enugu,Enugu East,Assault,5,69,Female,Citizen,Yes,32.0,Male,In Court,OFF9978,53
+1855,2022-08-31,Kaduna,Kafanchan,Theft,4,51,Female,Police,No,,,Closed,OFF6992,8
+1856,2022-08-17,Ogun,Abeokuta,Homicide,5,48,Male,Police,Yes,45.0,Female,Closed,OFF4153,57
+1857,2020-05-01,Enugu,Nsukka,Burglary,5,76,Male,Citizen,No,,,Open,OFF5422,98
+1858,2020-03-22,Ogun,Ijebu Ode,Theft,3,58,Male,Police,Yes,45.0,Female,Open,OFF9360,94
+1859,2022-06-07,Ogun,Sagamu,Robbery,4,46,Male,Media,Yes,48.0,Female,Closed,OFF9351,105
+1860,2021-05-07,Kaduna,Kaduna North,Homicide,5,70,Female,Police,Yes,39.0,Female,In Court,OFF5822,111
+1861,2021-09-10,Rivers,Bonny,Assault,2,35,Male,Media,No,,,In Court,OFF8975,112
+1862,2021-08-12,Delta,Asaba,Burglary,5,58,Female,Citizen,No,,,Closed,OFF3415,14
+1863,2020-03-15,Edo,Ekpoma,Theft,3,52,Male,Media,Yes,44.0,Male,In Court,OFF4281,102
+1864,2022-08-12,Kaduna,Kafanchan,Fraud,5,41,Male,Citizen,No,,,In Court,OFF7498,52
+1865,2021-05-22,Ogun,Abeokuta,Homicide,5,80,Male,Police,Yes,19.0,Female,Closed,OFF6792,80
+1866,2022-06-25,Rivers,Bonny,Burglary,2,43,Male,Media,No,,,Closed,OFF2955,49
+1867,2021-03-09,Oyo,Ibadan,Burglary,4,28,Male,Citizen,Yes,67.0,Male,Open,OFF6198,42
+1868,2021-03-30,Delta,Warri,Assault,1,60,Female,Police,Yes,55.0,Female,Open,OFF5628,180
+1869,2021-01-11,Delta,Ughelli,Theft,4,35,Male,Citizen,No,,,Open,OFF1715,12
+1870,2022-04-05,Delta,Warri,Theft,4,18,Female,Citizen,Yes,43.0,Male,Closed,OFF1919,164
+1871,2021-01-13,Kano,Tarauni,Fraud,5,35,Female,Citizen,No,,,In Court,OFF2012,150
+1872,2021-06-16,Rivers,Port Harcourt,Burglary,3,50,Female,Citizen,Yes,38.0,Male,Open,OFF3934,116
+1873,2020-11-13,Rivers,Obio,Homicide,1,52,Female,Citizen,No,,,Closed,OFF7527,24
+1874,2022-06-05,Enugu,Nsukka,Burglary,5,61,Male,Police,Yes,29.0,Female,In Court,OFF8991,44
+1875,2020-05-23,Delta,Asaba,Homicide,1,28,Female,Police,Yes,56.0,Female,Open,OFF1494,96
+1876,2021-09-26,Kano,Tarauni,Theft,1,71,Male,Police,No,,,Closed,OFF8477,20
+1877,2020-05-14,Enugu,Nsukka,Robbery,3,58,Male,Citizen,Yes,36.0,Male,Open,OFF8294,41
+1878,2020-02-16,Ogun,Ijebu Ode,Homicide,2,68,Male,Media,Yes,60.0,Female,Open,OFF7628,94
+1879,2020-02-13,Abuja,Maitama,Theft,4,58,Male,Police,Yes,69.0,Male,Closed,OFF6173,129
+1880,2021-10-19,Enugu,Enugu East,Robbery,4,73,Female,Citizen,No,,,Open,OFF1858,112
+1881,2021-05-26,Abuja,Wuse,Theft,3,76,Female,Media,No,,,Open,OFF2097,11
+1882,2022-07-25,Kaduna,Kaduna North,Fraud,5,38,Female,Media,No,,,Open,OFF5489,112
+1883,2021-05-17,Kaduna,Kaduna North,Theft,5,35,Female,Media,No,,,Open,OFF3836,159
+1884,2022-09-18,Edo,Benin City,Theft,2,77,Female,Citizen,Yes,34.0,Male,Closed,OFF9996,63
+1885,2021-01-17,Delta,Warri,Burglary,2,56,Female,Media,Yes,23.0,Male,In Court,OFF4300,117
+1886,2021-03-10,Enugu,Enugu East,Robbery,3,32,Female,Police,Yes,45.0,Male,Open,OFF3784,118
+1887,2022-09-18,Lagos,Lekki,Robbery,2,21,Female,Media,Yes,34.0,Female,Closed,OFF6254,66
+1888,2021-10-30,Rivers,Bonny,Homicide,4,38,Male,Citizen,No,,,Open,OFF9193,45
+1889,2022-02-06,Edo,Ekpoma,Robbery,1,78,Female,Police,No,,,Open,OFF1939,84
+1890,2021-09-19,Rivers,Bonny,Homicide,2,71,Female,Media,Yes,68.0,Male,Open,OFF5927,137
+1891,2020-07-06,Abuja,Wuse,Homicide,5,53,Female,Police,No,,,Open,OFF5671,171
+1892,2021-06-03,Lagos,Lekki,Homicide,3,48,Female,Police,Yes,15.0,Female,Closed,OFF6980,150
+1893,2020-08-11,Lagos,Yaba,Homicide,2,43,Male,Media,No,,,In Court,OFF8943,158
+1894,2021-05-18,Oyo,Ogbomosho,Fraud,4,77,Female,Police,No,,,In Court,OFF6397,161
+1895,2022-02-19,Delta,Ughelli,Homicide,5,64,Male,Citizen,No,,,Open,OFF9475,71
+1896,2022-04-28,Edo,Ekpoma,Theft,1,35,Female,Media,No,,,In Court,OFF4134,144
+1897,2022-02-20,Enugu,Awgu,Burglary,2,43,Female,Police,Yes,38.0,Female,Open,OFF4588,106
+1898,2022-09-10,Abuja,Wuse,Homicide,2,80,Female,Citizen,Yes,66.0,Female,Open,OFF7017,164
+1899,2022-06-15,Kano,Dala,Burglary,5,39,Female,Media,No,,,Open,OFF8577,123
+1900,2020-03-29,Abuja,Wuse,Robbery,2,52,Female,Media,No,,,Open,OFF8397,97
+1901,2020-07-21,Ogun,Abeokuta,Homicide,2,51,Male,Citizen,No,,,In Court,OFF8059,47
+1902,2022-06-03,Oyo,Ibadan,Burglary,4,75,Female,Media,No,,,In Court,OFF6294,105
+1903,2021-10-23,Rivers,Obio,Assault,3,78,Male,Citizen,Yes,66.0,Male,Closed,OFF4942,59
+1904,2020-09-11,Oyo,Ogbomosho,Burglary,4,53,Male,Media,Yes,50.0,Male,In Court,OFF4303,29
+1905,2020-12-24,Edo,Benin City,Robbery,5,26,Female,Citizen,No,,,In Court,OFF2806,56
+1906,2021-07-03,Lagos,Ikeja,Theft,2,39,Male,Citizen,Yes,26.0,Male,Closed,OFF9508,38
+1907,2021-12-06,Oyo,Ogbomosho,Theft,3,72,Male,Citizen,No,,,Open,OFF6373,179
+1908,2021-07-25,Edo,Auchi,Burglary,5,51,Female,Citizen,Yes,62.0,Male,Open,OFF2992,153
+1909,2021-07-25,Kano,Tarauni,Robbery,4,26,Female,Citizen,Yes,80.0,Female,Closed,OFF1460,93
+1910,2021-12-05,Kano,Tarauni,Theft,1,49,Female,Media,No,,,Open,OFF9460,31
+1911,2020-03-14,Oyo,Ibadan,Burglary,5,39,Female,Media,Yes,41.0,Female,Closed,OFF5715,174
+1912,2021-09-03,Kano,Ungogo,Theft,5,39,Female,Media,No,,,Closed,OFF7761,51
+1913,2020-08-26,Lagos,Yaba,Assault,2,56,Female,Media,Yes,35.0,Male,Open,OFF9679,165
+1914,2020-08-21,Rivers,Port Harcourt,Assault,5,33,Female,Police,No,,,In Court,OFF3554,17
+1915,2021-12-22,Lagos,Ikeja,Theft,5,70,Female,Police,Yes,34.0,Female,Open,OFF5808,152
+1916,2021-05-25,Rivers,Port Harcourt,Homicide,4,67,Male,Media,Yes,42.0,Female,In Court,OFF2887,38
+1917,2021-11-03,Oyo,Ogbomosho,Robbery,1,77,Male,Police,No,,,Closed,OFF1230,50
+1918,2022-09-14,Enugu,Awgu,Theft,2,78,Female,Media,No,,,Open,OFF6974,39
+1919,2020-09-24,Kano,Dala,Fraud,5,65,Female,Police,Yes,44.0,Male,Closed,OFF3101,87
+1920,2021-12-18,Delta,Warri,Assault,2,73,Male,Police,Yes,68.0,Female,Open,OFF6558,154
+1921,2020-10-29,Lagos,Ikeja,Burglary,4,50,Male,Media,Yes,19.0,Female,Open,OFF7387,63
+1922,2021-03-07,Delta,Warri,Burglary,2,23,Male,Citizen,Yes,27.0,Male,Closed,OFF5529,127
+1923,2020-02-21,Kaduna,Kaduna North,Theft,5,28,Male,Media,No,,,Open,OFF3405,78
+1924,2022-05-12,Rivers,Obio,Homicide,4,70,Female,Police,No,,,Open,OFF9461,31
+1925,2022-05-13,Rivers,Bonny,Assault,1,73,Female,Police,Yes,45.0,Female,In Court,OFF5435,164
+1926,2022-02-02,Edo,Auchi,Fraud,2,32,Male,Media,No,,,Closed,OFF9845,72
+1927,2022-03-06,Delta,Asaba,Homicide,2,34,Female,Media,No,,,Closed,OFF3949,143
+1928,2020-07-20,Abuja,Wuse,Robbery,5,23,Female,Citizen,Yes,72.0,Male,Closed,OFF8499,170
+1929,2021-12-31,Enugu,Nsukka,Fraud,3,78,Male,Police,No,,,Closed,OFF3666,89
+1930,2021-02-23,Kaduna,Kafanchan,Fraud,1,29,Female,Police,No,,,In Court,OFF8016,10
+1931,2022-09-10,Delta,Warri,Robbery,3,58,Female,Citizen,No,,,Closed,OFF1830,160
+1932,2021-02-12,Abuja,Maitama,Fraud,3,57,Female,Citizen,No,,,Closed,OFF8797,161
+1933,2022-01-27,Rivers,Port Harcourt,Assault,4,45,Female,Police,Yes,62.0,Female,Open,OFF7233,127
+1934,2021-06-15,Lagos,Yaba,Homicide,5,15,Male,Police,Yes,53.0,Female,Open,OFF7161,39
+1935,2021-05-09,Abuja,Wuse,Fraud,1,48,Female,Police,Yes,76.0,Female,Open,OFF4458,96
+1936,2022-02-03,Edo,Ekpoma,Assault,4,19,Female,Police,No,,,Open,OFF9377,58
+1937,2021-08-30,Delta,Asaba,Burglary,5,48,Male,Citizen,Yes,27.0,Female,In Court,OFF5724,111
+1938,2020-07-17,Edo,Ekpoma,Robbery,2,27,Male,Police,No,,,In Court,OFF6697,115
+1939,2021-09-24,Ogun,Ijebu Ode,Theft,5,36,Female,Citizen,No,,,Closed,OFF5648,20
+1940,2022-05-12,Edo,Auchi,Robbery,3,59,Male,Citizen,No,,,In Court,OFF7902,102
+1941,2020-05-19,Ogun,Ijebu Ode,Homicide,2,30,Male,Media,No,,,Open,OFF2539,101
+1942,2021-10-13,Lagos,Yaba,Fraud,2,33,Female,Citizen,No,,,Open,OFF1653,134
+1943,2020-06-18,Edo,Benin City,Homicide,4,74,Male,Citizen,No,,,Closed,OFF5074,176
+1944,2022-09-03,Kano,Dala,Fraud,2,66,Male,Media,Yes,45.0,Female,Open,OFF9616,155
+1945,2021-04-15,Oyo,Ibadan,Homicide,5,68,Male,Media,Yes,79.0,Female,In Court,OFF7543,134
+1946,2021-05-20,Abuja,Maitama,Assault,5,57,Male,Citizen,Yes,47.0,Male,In Court,OFF3494,31
+1947,2021-03-11,Rivers,Port Harcourt,Homicide,1,32,Male,Citizen,No,,,Open,OFF2540,77
+1948,2020-05-27,Kano,Ungogo,Robbery,4,68,Male,Citizen,No,,,Open,OFF8510,98
+1949,2021-06-29,Rivers,Obio,Fraud,2,69,Male,Citizen,No,,,Open,OFF6616,111
+1950,2020-09-16,Ogun,Abeokuta,Homicide,4,33,Male,Citizen,Yes,77.0,Female,Closed,OFF8534,147
+1951,2021-06-20,Edo,Ekpoma,Homicide,2,71,Female,Citizen,Yes,48.0,Female,Closed,OFF9208,122
+1952,2022-05-19,Kano,Ungogo,Theft,1,33,Male,Media,No,,,In Court,OFF8333,7
+1953,2021-06-29,Edo,Benin City,Theft,1,70,Male,Citizen,Yes,19.0,Female,In Court,OFF8157,81
+1954,2021-02-06,Abuja,Maitama,Burglary,2,27,Female,Citizen,No,,,Closed,OFF3019,73
+1955,2022-02-16,Kaduna,Kaduna North,Fraud,5,58,Male,Citizen,Yes,32.0,Female,Open,OFF8846,37
+1956,2022-08-06,Oyo,Iseyin,Robbery,3,46,Male,Citizen,No,,,In Court,OFF4242,144
+1957,2022-05-11,Delta,Ughelli,Fraud,5,56,Female,Citizen,Yes,75.0,Male,Open,OFF6656,158
+1958,2021-02-21,Rivers,Obio,Theft,1,22,Male,Citizen,No,,,Open,OFF3212,60
+1959,2021-03-26,Kaduna,Zaria,Burglary,2,32,Male,Media,Yes,72.0,Male,In Court,OFF7872,158
+1960,2021-08-01,Kano,Dala,Burglary,1,33,Male,Media,No,,,Closed,OFF9738,151
+1961,2022-09-09,Edo,Benin City,Fraud,4,66,Female,Police,Yes,47.0,Female,In Court,OFF2835,21
+1962,2021-04-05,Abuja,Maitama,Homicide,5,31,Male,Police,No,,,Closed,OFF2394,10
+1963,2021-01-23,Rivers,Obio,Assault,5,45,Female,Media,Yes,48.0,Female,Open,OFF8245,141
+1964,2020-09-24,Edo,Ekpoma,Robbery,2,26,Female,Media,No,,,Closed,OFF2746,12
+1965,2020-10-17,Enugu,Awgu,Fraud,1,15,Male,Media,Yes,21.0,Female,In Court,OFF7097,79
+1966,2021-08-27,Oyo,Iseyin,Assault,2,39,Male,Police,Yes,64.0,Male,In Court,OFF3814,111
+1967,2020-04-06,Abuja,Wuse,Fraud,3,78,Female,Police,Yes,75.0,Male,In Court,OFF8689,10
+1968,2022-09-22,Abuja,Wuse,Burglary,2,78,Male,Police,No,,,In Court,OFF6832,59
+1969,2021-09-24,Lagos,Yaba,Assault,4,27,Female,Media,No,,,Open,OFF3203,10
+1970,2021-01-03,Ogun,Ijebu Ode,Robbery,2,76,Female,Media,Yes,60.0,Female,In Court,OFF6371,131
+1971,2021-02-22,Abuja,Wuse,Fraud,1,46,Male,Citizen,Yes,72.0,Female,Open,OFF1923,77
+1972,2022-05-19,Edo,Ekpoma,Homicide,1,40,Male,Media,No,,,Closed,OFF8862,104
+1973,2021-06-21,Edo,Benin City,Burglary,2,25,Male,Citizen,No,,,Open,OFF1491,63
+1974,2021-01-12,Abuja,Garki,Homicide,3,22,Female,Police,Yes,26.0,Male,In Court,OFF1224,61
+1975,2020-03-07,Rivers,Port Harcourt,Theft,2,70,Male,Police,Yes,63.0,Male,Open,OFF8371,97
+1976,2022-09-11,Delta,Ughelli,Fraud,4,55,Male,Police,Yes,25.0,Female,Open,OFF8139,178
+1977,2020-09-30,Ogun,Abeokuta,Robbery,5,30,Male,Police,No,,,Open,OFF5266,171
+1978,2021-01-09,Oyo,Iseyin,Burglary,2,24,Male,Media,Yes,49.0,Female,In Court,OFF5951,112
+1979,2021-05-09,Kaduna,Kafanchan,Burglary,3,51,Male,Police,Yes,53.0,Female,In Court,OFF5882,131
+1980,2021-12-18,Enugu,Enugu East,Assault,4,25,Male,Media,No,,,Open,OFF6256,72
+1981,2021-10-05,Enugu,Enugu East,Assault,1,57,Male,Police,No,,,Open,OFF5123,154
+1982,2022-03-03,Abuja,Garki,Burglary,4,50,Male,Citizen,Yes,66.0,Male,Open,OFF9139,103
+1983,2022-08-08,Edo,Ekpoma,Burglary,5,45,Male,Police,Yes,67.0,Female,Open,OFF9078,19
+1984,2020-09-26,Rivers,Obio,Assault,3,50,Male,Media,No,,,Open,OFF2778,102
+1985,2021-04-05,Edo,Auchi,Robbery,1,19,Female,Citizen,Yes,58.0,Female,In Court,OFF9267,64
+1986,2021-02-14,Lagos,Lekki,Homicide,5,62,Female,Police,No,,,Closed,OFF5975,108
+1987,2021-03-08,Edo,Auchi,Robbery,3,16,Male,Police,No,,,Open,OFF9988,48
+1988,2020-12-13,Delta,Asaba,Assault,2,77,Male,Media,No,,,In Court,OFF1598,15
+1989,2021-07-30,Delta,Warri,Robbery,3,42,Male,Police,Yes,52.0,Male,Open,OFF1673,30
+1990,2021-01-01,Lagos,Lekki,Burglary,2,49,Male,Media,Yes,32.0,Female,In Court,OFF5167,71
+1991,2020-09-19,Rivers,Bonny,Assault,3,17,Male,Citizen,Yes,28.0,Female,Open,OFF6142,107
+1992,2020-10-08,Oyo,Ogbomosho,Robbery,4,41,Female,Police,Yes,29.0,Female,In Court,OFF6309,137
+1993,2020-11-14,Lagos,Yaba,Burglary,5,19,Female,Police,Yes,54.0,Male,In Court,OFF8042,129
+1994,2021-01-28,Oyo,Iseyin,Theft,5,45,Female,Media,No,,,Open,OFF8199,64
+1995,2022-03-07,Kano,Ungogo,Assault,3,77,Female,Police,Yes,77.0,Female,In Court,OFF7321,8
+1996,2021-01-23,Ogun,Ijebu Ode,Robbery,3,25,Female,Police,No,,,In Court,OFF2095,131
+1997,2020-11-13,Oyo,Ogbomosho,Robbery,5,19,Male,Police,Yes,52.0,Male,Open,OFF1268,160
+1998,2020-03-03,Kano,Dala,Burglary,1,54,Male,Police,Yes,27.0,Male,In Court,OFF3178,144
+1999,2022-05-11,Ogun,Sagamu,Assault,5,56,Female,Citizen,Yes,39.0,Female,Closed,OFF4819,54
+2000,2021-02-14,Kaduna,Kafanchan,Burglary,2,19,Female,Police,No,,,In Court,OFF9151,65
